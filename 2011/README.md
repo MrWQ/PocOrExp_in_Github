@@ -28,7 +28,7 @@
 
 
 
-- [https://github.com/andikahilmy/CVE-2011-4367-myfaces-vulnerable](https://github.com/andikahilmy/CVE-2011-4367-myfaces-vulnerable) :  ![starts](https://img.shields.io/github/stars/andikahilmy/CVE-2011-4367-myfaces-vulnerable.svg) ![forks](https://img.shields.io/github/forks/andikahilmy/CVE-2011-4367-myfaces-vulnerable.svg)
+- [https://github.com/dawetmaster/CVE-2011-4367-myfaces-vulnerable](https://github.com/dawetmaster/CVE-2011-4367-myfaces-vulnerable) :  ![starts](https://img.shields.io/github/stars/dawetmaster/CVE-2011-4367-myfaces-vulnerable.svg) ![forks](https://img.shields.io/github/forks/dawetmaster/CVE-2011-4367-myfaces-vulnerable.svg)
 
 - [https://github.com/shoucheng3/apache__myfaces_CVE-2011-4367_2-0-11](https://github.com/shoucheng3/apache__myfaces_CVE-2011-4367_2-0-11) :  ![starts](https://img.shields.io/github/stars/shoucheng3/apache__myfaces_CVE-2011-4367_2-0-11.svg) ![forks](https://img.shields.io/github/forks/shoucheng3/apache__myfaces_CVE-2011-4367_2-0-11.svg)
 
@@ -76,9 +76,9 @@
 
 - [https://github.com/tkisason/KillApachePy](https://github.com/tkisason/KillApachePy) :  ![starts](https://img.shields.io/github/stars/tkisason/KillApachePy.svg) ![forks](https://img.shields.io/github/forks/tkisason/KillApachePy.svg)
 
-- [https://github.com/stcmjp/cve-2011-3192](https://github.com/stcmjp/cve-2011-3192) :  ![starts](https://img.shields.io/github/stars/stcmjp/cve-2011-3192.svg) ![forks](https://img.shields.io/github/forks/stcmjp/cve-2011-3192.svg)
-
 - [https://github.com/futurezayka/CVE-2011-3192](https://github.com/futurezayka/CVE-2011-3192) :  ![starts](https://img.shields.io/github/stars/futurezayka/CVE-2011-3192.svg) ![forks](https://img.shields.io/github/forks/futurezayka/CVE-2011-3192.svg)
+
+- [https://github.com/stcmjp/cve-2011-3192](https://github.com/stcmjp/cve-2011-3192) :  ![starts](https://img.shields.io/github/stars/stcmjp/cve-2011-3192.svg) ![forks](https://img.shields.io/github/forks/stcmjp/cve-2011-3192.svg)
 
 - [https://github.com/Xinjis/Apache_ByteRange_DoS_cve_2011_3192](https://github.com/Xinjis/Apache_ByteRange_DoS_cve_2011_3192) :  ![starts](https://img.shields.io/github/stars/Xinjis/Apache_ByteRange_DoS_cve_2011_3192.svg) ![forks](https://img.shields.io/github/forks/Xinjis/Apache_ByteRange_DoS_cve_2011_3192.svg)
 
@@ -142,15 +142,15 @@
 
 - [https://github.com/0xSojalSec/-CVE-2011-2523](https://github.com/0xSojalSec/-CVE-2011-2523) :  ![starts](https://img.shields.io/github/stars/0xSojalSec/-CVE-2011-2523.svg) ![forks](https://img.shields.io/github/forks/0xSojalSec/-CVE-2011-2523.svg)
 
-- [https://github.com/avivyap/CVE-2011-2523](https://github.com/avivyap/CVE-2011-2523) :  ![starts](https://img.shields.io/github/stars/avivyap/CVE-2011-2523.svg) ![forks](https://img.shields.io/github/forks/avivyap/CVE-2011-2523.svg)
-
 - [https://github.com/Gr4ykt/CVE-2011-2523](https://github.com/Gr4ykt/CVE-2011-2523) :  ![starts](https://img.shields.io/github/stars/Gr4ykt/CVE-2011-2523.svg) ![forks](https://img.shields.io/github/forks/Gr4ykt/CVE-2011-2523.svg)
+
+- [https://github.com/avivyap/CVE-2011-2523](https://github.com/avivyap/CVE-2011-2523) :  ![starts](https://img.shields.io/github/stars/avivyap/CVE-2011-2523.svg) ![forks](https://img.shields.io/github/forks/avivyap/CVE-2011-2523.svg)
 
 - [https://github.com/hklabCR/CVE-2011-2523](https://github.com/hklabCR/CVE-2011-2523) :  ![starts](https://img.shields.io/github/stars/hklabCR/CVE-2011-2523.svg) ![forks](https://img.shields.io/github/forks/hklabCR/CVE-2011-2523.svg)
 
-- [https://github.com/0xSojalSec/CVE-2011-2523](https://github.com/0xSojalSec/CVE-2011-2523) :  ![starts](https://img.shields.io/github/stars/0xSojalSec/CVE-2011-2523.svg) ![forks](https://img.shields.io/github/forks/0xSojalSec/CVE-2011-2523.svg)
-
 - [https://github.com/vaishnavucv/CVE-2011-2523](https://github.com/vaishnavucv/CVE-2011-2523) :  ![starts](https://img.shields.io/github/stars/vaishnavucv/CVE-2011-2523.svg) ![forks](https://img.shields.io/github/forks/vaishnavucv/CVE-2011-2523.svg)
+
+- [https://github.com/0xSojalSec/CVE-2011-2523](https://github.com/0xSojalSec/CVE-2011-2523) :  ![starts](https://img.shields.io/github/stars/0xSojalSec/CVE-2011-2523.svg) ![forks](https://img.shields.io/github/forks/0xSojalSec/CVE-2011-2523.svg)
 
 - [https://github.com/sug4r-wr41th/CVE-2011-2523](https://github.com/sug4r-wr41th/CVE-2011-2523) :  ![starts](https://img.shields.io/github/stars/sug4r-wr41th/CVE-2011-2523.svg) ![forks](https://img.shields.io/github/forks/sug4r-wr41th/CVE-2011-2523.svg)
 
@@ -175,8 +175,6 @@
 - [https://github.com/Efehamzaa/Metasploit-Red-Pentest-Lab](https://github.com/Efehamzaa/Metasploit-Red-Pentest-Lab) :  ![starts](https://img.shields.io/github/stars/Efehamzaa/Metasploit-Red-Pentest-Lab.svg) ![forks](https://img.shields.io/github/forks/Efehamzaa/Metasploit-Red-Pentest-Lab.svg)
 
 - [https://github.com/Mirza-22144/Vulnerability-Assessment-Exploitation-Lab](https://github.com/Mirza-22144/Vulnerability-Assessment-Exploitation-Lab) :  ![starts](https://img.shields.io/github/stars/Mirza-22144/Vulnerability-Assessment-Exploitation-Lab.svg) ![forks](https://img.shields.io/github/forks/Mirza-22144/Vulnerability-Assessment-Exploitation-Lab.svg)
-
-- [https://github.com/seerat-fatima21/vsftpd-exploit](https://github.com/seerat-fatima21/vsftpd-exploit) :  ![starts](https://img.shields.io/github/stars/seerat-fatima21/vsftpd-exploit.svg) ![forks](https://img.shields.io/github/forks/seerat-fatima21/vsftpd-exploit.svg)
 
 - [https://github.com/tshaq17/vsftpd-2.3.4---Backdoor-Command-Execution](https://github.com/tshaq17/vsftpd-2.3.4---Backdoor-Command-Execution) :  ![starts](https://img.shields.io/github/stars/tshaq17/vsftpd-2.3.4---Backdoor-Command-Execution.svg) ![forks](https://img.shields.io/github/forks/tshaq17/vsftpd-2.3.4---Backdoor-Command-Execution.svg)
 
