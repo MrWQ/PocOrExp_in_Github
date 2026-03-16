@@ -2200,9 +2200,9 @@ pThe update addresses the vulnerability by correcting how the Windows TCP/IP sta
 
 - [https://github.com/esnet-security/cve-2020-16898](https://github.com/esnet-security/cve-2020-16898) :  ![starts](https://img.shields.io/github/stars/esnet-security/cve-2020-16898.svg) ![forks](https://img.shields.io/github/forks/esnet-security/cve-2020-16898.svg)
 
-- [https://github.com/CPO-EH/CVE-2020-16898_Checker](https://github.com/CPO-EH/CVE-2020-16898_Checker) :  ![starts](https://img.shields.io/github/stars/CPO-EH/CVE-2020-16898_Checker.svg) ![forks](https://img.shields.io/github/forks/CPO-EH/CVE-2020-16898_Checker.svg)
-
 - [https://github.com/CPO-EH/CVE-2020-16898_Workaround](https://github.com/CPO-EH/CVE-2020-16898_Workaround) :  ![starts](https://img.shields.io/github/stars/CPO-EH/CVE-2020-16898_Workaround.svg) ![forks](https://img.shields.io/github/forks/CPO-EH/CVE-2020-16898_Workaround.svg)
+
+- [https://github.com/CPO-EH/CVE-2020-16898_Checker](https://github.com/CPO-EH/CVE-2020-16898_Checker) :  ![starts](https://img.shields.io/github/stars/CPO-EH/CVE-2020-16898_Checker.svg) ![forks](https://img.shields.io/github/forks/CPO-EH/CVE-2020-16898_Checker.svg)
 
 ## CVE-2020-16846
  An issue was discovered in SaltStack Salt through 3002. Sending crafted web requests to the Salt API, with the SSH client enabled, can result in shell injection.
@@ -2745,11 +2745,11 @@ pThe update addresses the vulnerability by correcting how the Windows TCP/IP sta
 
 - [https://github.com/alexfrancow/CVE-2020-14882](https://github.com/alexfrancow/CVE-2020-14882) :  ![starts](https://img.shields.io/github/stars/alexfrancow/CVE-2020-14882.svg) ![forks](https://img.shields.io/github/forks/alexfrancow/CVE-2020-14882.svg)
 
+- [https://github.com/nik0nz7/CVE-2020-14882](https://github.com/nik0nz7/CVE-2020-14882) :  ![starts](https://img.shields.io/github/stars/nik0nz7/CVE-2020-14882.svg) ![forks](https://img.shields.io/github/forks/nik0nz7/CVE-2020-14882.svg)
+
 - [https://github.com/BabyTeam1024/CVE-2020-14882](https://github.com/BabyTeam1024/CVE-2020-14882) :  ![starts](https://img.shields.io/github/stars/BabyTeam1024/CVE-2020-14882.svg) ![forks](https://img.shields.io/github/forks/BabyTeam1024/CVE-2020-14882.svg)
 
 - [https://github.com/LucasPDiniz/CVE-2020-14882](https://github.com/LucasPDiniz/CVE-2020-14882) :  ![starts](https://img.shields.io/github/stars/LucasPDiniz/CVE-2020-14882.svg) ![forks](https://img.shields.io/github/forks/LucasPDiniz/CVE-2020-14882.svg)
-
-- [https://github.com/nik0nz7/CVE-2020-14882](https://github.com/nik0nz7/CVE-2020-14882) :  ![starts](https://img.shields.io/github/stars/nik0nz7/CVE-2020-14882.svg) ![forks](https://img.shields.io/github/forks/nik0nz7/CVE-2020-14882.svg)
 
 - [https://github.com/xMr110/CVE-2020-14882](https://github.com/xMr110/CVE-2020-14882) :  ![starts](https://img.shields.io/github/stars/xMr110/CVE-2020-14882.svg) ![forks](https://img.shields.io/github/forks/xMr110/CVE-2020-14882.svg)
 
@@ -6795,19 +6795,19 @@ When the second phase of Windows updates become available in Q1 2021, customers 
 
 - [https://github.com/itssmikefm/CVE-2020-1472](https://github.com/itssmikefm/CVE-2020-1472) :  ![starts](https://img.shields.io/github/stars/itssmikefm/CVE-2020-1472.svg) ![forks](https://img.shields.io/github/forks/itssmikefm/CVE-2020-1472.svg)
 
-- [https://github.com/Fa1c0n35/CVE-2020-1472](https://github.com/Fa1c0n35/CVE-2020-1472) :  ![starts](https://img.shields.io/github/stars/Fa1c0n35/CVE-2020-1472.svg) ![forks](https://img.shields.io/github/forks/Fa1c0n35/CVE-2020-1472.svg)
-
 - [https://github.com/victim10wq3/CVE-2020-1472](https://github.com/victim10wq3/CVE-2020-1472) :  ![starts](https://img.shields.io/github/stars/victim10wq3/CVE-2020-1472.svg) ![forks](https://img.shields.io/github/forks/victim10wq3/CVE-2020-1472.svg)
+
+- [https://github.com/Fa1c0n35/CVE-2020-1472](https://github.com/Fa1c0n35/CVE-2020-1472) :  ![starts](https://img.shields.io/github/stars/Fa1c0n35/CVE-2020-1472.svg) ![forks](https://img.shields.io/github/forks/Fa1c0n35/CVE-2020-1472.svg)
 
 - [https://github.com/SaharAttackit/CVE-2020-1472](https://github.com/SaharAttackit/CVE-2020-1472) :  ![starts](https://img.shields.io/github/stars/SaharAttackit/CVE-2020-1472.svg) ![forks](https://img.shields.io/github/forks/SaharAttackit/CVE-2020-1472.svg)
 
 - [https://github.com/mos165/CVE-20200-1472](https://github.com/mos165/CVE-20200-1472) :  ![starts](https://img.shields.io/github/stars/mos165/CVE-20200-1472.svg) ![forks](https://img.shields.io/github/forks/mos165/CVE-20200-1472.svg)
 
-- [https://github.com/t31m0/CVE-2020-1472](https://github.com/t31m0/CVE-2020-1472) :  ![starts](https://img.shields.io/github/stars/t31m0/CVE-2020-1472.svg) ![forks](https://img.shields.io/github/forks/t31m0/CVE-2020-1472.svg)
-
 - [https://github.com/puckiestyle/CVE-2020-1472](https://github.com/puckiestyle/CVE-2020-1472) :  ![starts](https://img.shields.io/github/stars/puckiestyle/CVE-2020-1472.svg) ![forks](https://img.shields.io/github/forks/puckiestyle/CVE-2020-1472.svg)
 
 - [https://github.com/Ken-Abruzzi/cve-2020-1472](https://github.com/Ken-Abruzzi/cve-2020-1472) :  ![starts](https://img.shields.io/github/stars/Ken-Abruzzi/cve-2020-1472.svg) ![forks](https://img.shields.io/github/forks/Ken-Abruzzi/cve-2020-1472.svg)
+
+- [https://github.com/t31m0/CVE-2020-1472](https://github.com/t31m0/CVE-2020-1472) :  ![starts](https://img.shields.io/github/stars/t31m0/CVE-2020-1472.svg) ![forks](https://img.shields.io/github/forks/t31m0/CVE-2020-1472.svg)
 
 - [https://github.com/metehangelgi/CVE-2020-1472-LAB](https://github.com/metehangelgi/CVE-2020-1472-LAB) :  ![starts](https://img.shields.io/github/stars/metehangelgi/CVE-2020-1472-LAB.svg) ![forks](https://img.shields.io/github/forks/metehangelgi/CVE-2020-1472-LAB.svg)
 
@@ -7537,9 +7537,9 @@ pThe security update addresses the vulnerability by resolving the conditions whe
 
 - [https://github.com/amlweems/gringotts](https://github.com/amlweems/gringotts) :  ![starts](https://img.shields.io/github/stars/amlweems/gringotts.svg) ![forks](https://img.shields.io/github/forks/amlweems/gringotts.svg)
 
-- [https://github.com/Hans-MartinHannibalLauridsen/CurveBall](https://github.com/Hans-MartinHannibalLauridsen/CurveBall) :  ![starts](https://img.shields.io/github/stars/Hans-MartinHannibalLauridsen/CurveBall.svg) ![forks](https://img.shields.io/github/forks/Hans-MartinHannibalLauridsen/CurveBall.svg)
-
 - [https://github.com/SherlockSec/CVE-2020-0601](https://github.com/SherlockSec/CVE-2020-0601) :  ![starts](https://img.shields.io/github/stars/SherlockSec/CVE-2020-0601.svg) ![forks](https://img.shields.io/github/forks/SherlockSec/CVE-2020-0601.svg)
+
+- [https://github.com/Hans-MartinHannibalLauridsen/CurveBall](https://github.com/Hans-MartinHannibalLauridsen/CurveBall) :  ![starts](https://img.shields.io/github/stars/Hans-MartinHannibalLauridsen/CurveBall.svg) ![forks](https://img.shields.io/github/forks/Hans-MartinHannibalLauridsen/CurveBall.svg)
 
 - [https://github.com/Doug-Moody/Windows10_Cumulative_Updates_PowerShell](https://github.com/Doug-Moody/Windows10_Cumulative_Updates_PowerShell) :  ![starts](https://img.shields.io/github/stars/Doug-Moody/Windows10_Cumulative_Updates_PowerShell.svg) ![forks](https://img.shields.io/github/forks/Doug-Moody/Windows10_Cumulative_Updates_PowerShell.svg)
 
@@ -7553,11 +7553,11 @@ pThe security update addresses the vulnerability by resolving the conditions whe
 
 - [https://github.com/apodlosky/PoC_CurveBall](https://github.com/apodlosky/PoC_CurveBall) :  ![starts](https://img.shields.io/github/stars/apodlosky/PoC_CurveBall.svg) ![forks](https://img.shields.io/github/forks/apodlosky/PoC_CurveBall.svg)
 
-- [https://github.com/modubyk/CVE_2020_0601](https://github.com/modubyk/CVE_2020_0601) :  ![starts](https://img.shields.io/github/stars/modubyk/CVE_2020_0601.svg) ![forks](https://img.shields.io/github/forks/modubyk/CVE_2020_0601.svg)
+- [https://github.com/Ash112121/CVE-2020-0601](https://github.com/Ash112121/CVE-2020-0601) :  ![starts](https://img.shields.io/github/stars/Ash112121/CVE-2020-0601.svg) ![forks](https://img.shields.io/github/forks/Ash112121/CVE-2020-0601.svg)
 
 - [https://github.com/JPurrier/CVE-2020-0601](https://github.com/JPurrier/CVE-2020-0601) :  ![starts](https://img.shields.io/github/stars/JPurrier/CVE-2020-0601.svg) ![forks](https://img.shields.io/github/forks/JPurrier/CVE-2020-0601.svg)
 
-- [https://github.com/Ash112121/CVE-2020-0601](https://github.com/Ash112121/CVE-2020-0601) :  ![starts](https://img.shields.io/github/stars/Ash112121/CVE-2020-0601.svg) ![forks](https://img.shields.io/github/forks/Ash112121/CVE-2020-0601.svg)
+- [https://github.com/modubyk/CVE_2020_0601](https://github.com/modubyk/CVE_2020_0601) :  ![starts](https://img.shields.io/github/stars/modubyk/CVE_2020_0601.svg) ![forks](https://img.shields.io/github/forks/modubyk/CVE_2020_0601.svg)
 
 - [https://github.com/thimelp/cve-2020-0601-Perl](https://github.com/thimelp/cve-2020-0601-Perl) :  ![starts](https://img.shields.io/github/stars/thimelp/cve-2020-0601-Perl.svg) ![forks](https://img.shields.io/github/forks/thimelp/cve-2020-0601-Perl.svg)
 
