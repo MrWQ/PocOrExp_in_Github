@@ -375,9 +375,9 @@
 
 
 
-- [https://github.com/CQ-Tools/CVE-2017-18077-fixed](https://github.com/CQ-Tools/CVE-2017-18077-fixed) :  ![starts](https://img.shields.io/github/stars/CQ-Tools/CVE-2017-18077-fixed.svg) ![forks](https://img.shields.io/github/forks/CQ-Tools/CVE-2017-18077-fixed.svg)
-
 - [https://github.com/CQ-Tools/CVE-2017-18077-unfixed](https://github.com/CQ-Tools/CVE-2017-18077-unfixed) :  ![starts](https://img.shields.io/github/stars/CQ-Tools/CVE-2017-18077-unfixed.svg) ![forks](https://img.shields.io/github/forks/CQ-Tools/CVE-2017-18077-unfixed.svg)
+
+- [https://github.com/CQ-Tools/CVE-2017-18077-fixed](https://github.com/CQ-Tools/CVE-2017-18077-fixed) :  ![starts](https://img.shields.io/github/stars/CQ-Tools/CVE-2017-18077-fixed.svg) ![forks](https://img.shields.io/github/forks/CQ-Tools/CVE-2017-18077-fixed.svg)
 
 - [https://github.com/ossf-cve-benchmark/CVE-2017-18077](https://github.com/ossf-cve-benchmark/CVE-2017-18077) :  ![starts](https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2017-18077.svg) ![forks](https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2017-18077.svg)
 
@@ -532,9 +532,9 @@
 
 - [https://github.com/littlebin404/CVE-2017-16995](https://github.com/littlebin404/CVE-2017-16995) :  ![starts](https://img.shields.io/github/stars/littlebin404/CVE-2017-16995.svg) ![forks](https://img.shields.io/github/forks/littlebin404/CVE-2017-16995.svg)
 
-- [https://github.com/vnik5287/CVE-2017-16995](https://github.com/vnik5287/CVE-2017-16995) :  ![starts](https://img.shields.io/github/stars/vnik5287/CVE-2017-16995.svg) ![forks](https://img.shields.io/github/forks/vnik5287/CVE-2017-16995.svg)
-
 - [https://github.com/senyuuri/cve-2017-16995](https://github.com/senyuuri/cve-2017-16995) :  ![starts](https://img.shields.io/github/stars/senyuuri/cve-2017-16995.svg) ![forks](https://img.shields.io/github/forks/senyuuri/cve-2017-16995.svg)
+
+- [https://github.com/vnik5287/CVE-2017-16995](https://github.com/vnik5287/CVE-2017-16995) :  ![starts](https://img.shields.io/github/stars/vnik5287/CVE-2017-16995.svg) ![forks](https://img.shields.io/github/forks/vnik5287/CVE-2017-16995.svg)
 
 - [https://github.com/C0dak/CVE-2017-16995](https://github.com/C0dak/CVE-2017-16995) :  ![starts](https://img.shields.io/github/stars/C0dak/CVE-2017-16995.svg) ![forks](https://img.shields.io/github/forks/C0dak/CVE-2017-16995.svg)
 
@@ -889,9 +889,9 @@
 
 
 
-- [https://github.com/CQ-Tools/CVE-2017-16029-unfixed](https://github.com/CQ-Tools/CVE-2017-16029-unfixed) :  ![starts](https://img.shields.io/github/stars/CQ-Tools/CVE-2017-16029-unfixed.svg) ![forks](https://img.shields.io/github/forks/CQ-Tools/CVE-2017-16029-unfixed.svg)
-
 - [https://github.com/CQ-Tools/CVE-2017-16029-fixed](https://github.com/CQ-Tools/CVE-2017-16029-fixed) :  ![starts](https://img.shields.io/github/stars/CQ-Tools/CVE-2017-16029-fixed.svg) ![forks](https://img.shields.io/github/forks/CQ-Tools/CVE-2017-16029-fixed.svg)
+
+- [https://github.com/CQ-Tools/CVE-2017-16029-unfixed](https://github.com/CQ-Tools/CVE-2017-16029-unfixed) :  ![starts](https://img.shields.io/github/stars/CQ-Tools/CVE-2017-16029-unfixed.svg) ![forks](https://img.shields.io/github/forks/CQ-Tools/CVE-2017-16029-unfixed.svg)
 
 - [https://github.com/ossf-cve-benchmark/CVE-2017-16029](https://github.com/ossf-cve-benchmark/CVE-2017-16029) :  ![starts](https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2017-16029.svg) ![forks](https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2017-16029.svg)
 
@@ -911,9 +911,9 @@
 
 
 
-- [https://github.com/CQ-Tools/CVE-2017-16026-fixed](https://github.com/CQ-Tools/CVE-2017-16026-fixed) :  ![starts](https://img.shields.io/github/stars/CQ-Tools/CVE-2017-16026-fixed.svg) ![forks](https://img.shields.io/github/forks/CQ-Tools/CVE-2017-16026-fixed.svg)
-
 - [https://github.com/CQ-Tools/CVE-2017-16026-unfixed](https://github.com/CQ-Tools/CVE-2017-16026-unfixed) :  ![starts](https://img.shields.io/github/stars/CQ-Tools/CVE-2017-16026-unfixed.svg) ![forks](https://img.shields.io/github/forks/CQ-Tools/CVE-2017-16026-unfixed.svg)
+
+- [https://github.com/CQ-Tools/CVE-2017-16026-fixed](https://github.com/CQ-Tools/CVE-2017-16026-fixed) :  ![starts](https://img.shields.io/github/stars/CQ-Tools/CVE-2017-16026-fixed.svg) ![forks](https://img.shields.io/github/forks/CQ-Tools/CVE-2017-16026-fixed.svg)
 
 - [https://github.com/ossf-cve-benchmark/CVE-2017-16026](https://github.com/ossf-cve-benchmark/CVE-2017-16026) :  ![starts](https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2017-16026.svg) ![forks](https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2017-16026.svg)
 
@@ -965,9 +965,9 @@
 
 
 
-- [https://github.com/CQ-Tools/CVE-2017-16003-fixed](https://github.com/CQ-Tools/CVE-2017-16003-fixed) :  ![starts](https://img.shields.io/github/stars/CQ-Tools/CVE-2017-16003-fixed.svg) ![forks](https://img.shields.io/github/forks/CQ-Tools/CVE-2017-16003-fixed.svg)
-
 - [https://github.com/CQ-Tools/CVE-2017-16003-unfixed](https://github.com/CQ-Tools/CVE-2017-16003-unfixed) :  ![starts](https://img.shields.io/github/stars/CQ-Tools/CVE-2017-16003-unfixed.svg) ![forks](https://img.shields.io/github/forks/CQ-Tools/CVE-2017-16003-unfixed.svg)
+
+- [https://github.com/CQ-Tools/CVE-2017-16003-fixed](https://github.com/CQ-Tools/CVE-2017-16003-fixed) :  ![starts](https://img.shields.io/github/stars/CQ-Tools/CVE-2017-16003-fixed.svg) ![forks](https://img.shields.io/github/forks/CQ-Tools/CVE-2017-16003-fixed.svg)
 
 - [https://github.com/ossf-cve-benchmark/CVE-2017-16003](https://github.com/ossf-cve-benchmark/CVE-2017-16003) :  ![starts](https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2017-16003.svg) ![forks](https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2017-16003.svg)
 
@@ -1119,9 +1119,9 @@
 
 - [https://github.com/DaviGSantana/CVE-2017-14980](https://github.com/DaviGSantana/CVE-2017-14980) :  ![starts](https://img.shields.io/github/stars/DaviGSantana/CVE-2017-14980.svg) ![forks](https://img.shields.io/github/forks/DaviGSantana/CVE-2017-14980.svg)
 
-- [https://github.com/damariion/CVE-2017-14980](https://github.com/damariion/CVE-2017-14980) :  ![starts](https://img.shields.io/github/stars/damariion/CVE-2017-14980.svg) ![forks](https://img.shields.io/github/forks/damariion/CVE-2017-14980.svg)
-
 - [https://github.com/TheDarthMole/CVE-2017-14980](https://github.com/TheDarthMole/CVE-2017-14980) :  ![starts](https://img.shields.io/github/stars/TheDarthMole/CVE-2017-14980.svg) ![forks](https://img.shields.io/github/forks/TheDarthMole/CVE-2017-14980.svg)
+
+- [https://github.com/damariion/CVE-2017-14980](https://github.com/damariion/CVE-2017-14980) :  ![starts](https://img.shields.io/github/stars/damariion/CVE-2017-14980.svg) ![forks](https://img.shields.io/github/forks/damariion/CVE-2017-14980.svg)
 
 - [https://github.com/xn0kkx/Exploit_Sync_Breeze_v10.0.28_CVE-2017-14980](https://github.com/xn0kkx/Exploit_Sync_Breeze_v10.0.28_CVE-2017-14980) :  ![starts](https://img.shields.io/github/stars/xn0kkx/Exploit_Sync_Breeze_v10.0.28_CVE-2017-14980.svg) ![forks](https://img.shields.io/github/forks/xn0kkx/Exploit_Sync_Breeze_v10.0.28_CVE-2017-14980.svg)
 
@@ -1598,19 +1598,19 @@
 
 - [https://github.com/imkidz0/CVE-2017-11882](https://github.com/imkidz0/CVE-2017-11882) :  ![starts](https://img.shields.io/github/stars/imkidz0/CVE-2017-11882.svg) ![forks](https://img.shields.io/github/forks/imkidz0/CVE-2017-11882.svg)
 
-- [https://github.com/likekabin/CVE-2017-11882](https://github.com/likekabin/CVE-2017-11882) :  ![starts](https://img.shields.io/github/stars/likekabin/CVE-2017-11882.svg) ![forks](https://img.shields.io/github/forks/likekabin/CVE-2017-11882.svg)
-
 - [https://github.com/j0lama/CVE-2017-11882](https://github.com/j0lama/CVE-2017-11882) :  ![starts](https://img.shields.io/github/stars/j0lama/CVE-2017-11882.svg) ![forks](https://img.shields.io/github/forks/j0lama/CVE-2017-11882.svg)
+
+- [https://github.com/likekabin/CVE-2017-11882](https://github.com/likekabin/CVE-2017-11882) :  ![starts](https://img.shields.io/github/stars/likekabin/CVE-2017-11882.svg) ![forks](https://img.shields.io/github/forks/likekabin/CVE-2017-11882.svg)
 
 - [https://github.com/HaoJame/CVE-2017-11882](https://github.com/HaoJame/CVE-2017-11882) :  ![starts](https://img.shields.io/github/stars/HaoJame/CVE-2017-11882.svg) ![forks](https://img.shields.io/github/forks/HaoJame/CVE-2017-11882.svg)
 
-- [https://github.com/chanbin/CVE-2017-11882](https://github.com/chanbin/CVE-2017-11882) :  ![starts](https://img.shields.io/github/stars/chanbin/CVE-2017-11882.svg) ![forks](https://img.shields.io/github/forks/chanbin/CVE-2017-11882.svg)
+- [https://github.com/yaseenibnakhtar/001-Malware-Analysis-CVE-2017-11882](https://github.com/yaseenibnakhtar/001-Malware-Analysis-CVE-2017-11882) :  ![starts](https://img.shields.io/github/stars/yaseenibnakhtar/001-Malware-Analysis-CVE-2017-11882.svg) ![forks](https://img.shields.io/github/forks/yaseenibnakhtar/001-Malware-Analysis-CVE-2017-11882.svg)
 
 - [https://github.com/ActorExpose/CVE-2017-11882](https://github.com/ActorExpose/CVE-2017-11882) :  ![starts](https://img.shields.io/github/stars/ActorExpose/CVE-2017-11882.svg) ![forks](https://img.shields.io/github/forks/ActorExpose/CVE-2017-11882.svg)
 
 - [https://github.com/nhuynhuy/cve-2017-11882](https://github.com/nhuynhuy/cve-2017-11882) :  ![starts](https://img.shields.io/github/stars/nhuynhuy/cve-2017-11882.svg) ![forks](https://img.shields.io/github/forks/nhuynhuy/cve-2017-11882.svg)
 
-- [https://github.com/yaseenibnakhtar/001-Malware-Analysis-CVE-2017-11882](https://github.com/yaseenibnakhtar/001-Malware-Analysis-CVE-2017-11882) :  ![starts](https://img.shields.io/github/stars/yaseenibnakhtar/001-Malware-Analysis-CVE-2017-11882.svg) ![forks](https://img.shields.io/github/forks/yaseenibnakhtar/001-Malware-Analysis-CVE-2017-11882.svg)
+- [https://github.com/chanbin/CVE-2017-11882](https://github.com/chanbin/CVE-2017-11882) :  ![starts](https://img.shields.io/github/stars/chanbin/CVE-2017-11882.svg) ![forks](https://img.shields.io/github/forks/chanbin/CVE-2017-11882.svg)
 
 - [https://github.com/Grey-Li/CVE-2017-11882](https://github.com/Grey-Li/CVE-2017-11882) :  ![starts](https://img.shields.io/github/stars/Grey-Li/CVE-2017-11882.svg) ![forks](https://img.shields.io/github/forks/Grey-Li/CVE-2017-11882.svg)
 
@@ -2071,9 +2071,9 @@
 
 - [https://github.com/7s26simon/CVE-2017-9805-S2-052](https://github.com/7s26simon/CVE-2017-9805-S2-052) :  ![starts](https://img.shields.io/github/stars/7s26simon/CVE-2017-9805-S2-052.svg) ![forks](https://img.shields.io/github/forks/7s26simon/CVE-2017-9805-S2-052.svg)
 
-- [https://github.com/z3bd/CVE-2017-9805](https://github.com/z3bd/CVE-2017-9805) :  ![starts](https://img.shields.io/github/stars/z3bd/CVE-2017-9805.svg) ![forks](https://img.shields.io/github/forks/z3bd/CVE-2017-9805.svg)
-
 - [https://github.com/Fl5xia/CVE-2017-9805](https://github.com/Fl5xia/CVE-2017-9805) :  ![starts](https://img.shields.io/github/stars/Fl5xia/CVE-2017-9805.svg) ![forks](https://img.shields.io/github/forks/Fl5xia/CVE-2017-9805.svg)
+
+- [https://github.com/z3bd/CVE-2017-9805](https://github.com/z3bd/CVE-2017-9805) :  ![starts](https://img.shields.io/github/stars/z3bd/CVE-2017-9805.svg) ![forks](https://img.shields.io/github/forks/z3bd/CVE-2017-9805.svg)
 
 - [https://github.com/wifido/CVE-2017-9805-Exploit](https://github.com/wifido/CVE-2017-9805-Exploit) :  ![starts](https://img.shields.io/github/stars/wifido/CVE-2017-9805-Exploit.svg) ![forks](https://img.shields.io/github/forks/wifido/CVE-2017-9805-Exploit.svg)
 
@@ -2647,9 +2647,9 @@
 
 - [https://github.com/GabrielAvls/CVE-2017-7921](https://github.com/GabrielAvls/CVE-2017-7921) :  ![starts](https://img.shields.io/github/stars/GabrielAvls/CVE-2017-7921.svg) ![forks](https://img.shields.io/github/forks/GabrielAvls/CVE-2017-7921.svg)
 
-- [https://github.com/mverschu/CVE-2017-7921](https://github.com/mverschu/CVE-2017-7921) :  ![starts](https://img.shields.io/github/stars/mverschu/CVE-2017-7921.svg) ![forks](https://img.shields.io/github/forks/mverschu/CVE-2017-7921.svg)
-
 - [https://github.com/b3pwn3d/CVE-2017-7921](https://github.com/b3pwn3d/CVE-2017-7921) :  ![starts](https://img.shields.io/github/stars/b3pwn3d/CVE-2017-7921.svg) ![forks](https://img.shields.io/github/forks/b3pwn3d/CVE-2017-7921.svg)
+
+- [https://github.com/mverschu/CVE-2017-7921](https://github.com/mverschu/CVE-2017-7921) :  ![starts](https://img.shields.io/github/stars/mverschu/CVE-2017-7921.svg) ![forks](https://img.shields.io/github/forks/mverschu/CVE-2017-7921.svg)
 
 - [https://github.com/inj3ction/CVE-2017-7921-EXP](https://github.com/inj3ction/CVE-2017-7921-EXP) :  ![starts](https://img.shields.io/github/stars/inj3ction/CVE-2017-7921-EXP.svg) ![forks](https://img.shields.io/github/forks/inj3ction/CVE-2017-7921-EXP.svg)
 
@@ -3416,9 +3416,9 @@ Only traffic directed to the affected system can be used to exploit this vulnera
 
 - [https://github.com/kloutkake/CVE-2017-5638-PoC](https://github.com/kloutkake/CVE-2017-5638-PoC) :  ![starts](https://img.shields.io/github/stars/kloutkake/CVE-2017-5638-PoC.svg) ![forks](https://img.shields.io/github/forks/kloutkake/CVE-2017-5638-PoC.svg)
 
-- [https://github.com/ACharaf06/CVE-2017-5638-Attack-and-Defense](https://github.com/ACharaf06/CVE-2017-5638-Attack-and-Defense) :  ![starts](https://img.shields.io/github/stars/ACharaf06/CVE-2017-5638-Attack-and-Defense.svg) ![forks](https://img.shields.io/github/forks/ACharaf06/CVE-2017-5638-Attack-and-Defense.svg)
-
 - [https://github.com/ludy-dev/XworkStruts-RCE](https://github.com/ludy-dev/XworkStruts-RCE) :  ![starts](https://img.shields.io/github/stars/ludy-dev/XworkStruts-RCE.svg) ![forks](https://img.shields.io/github/forks/ludy-dev/XworkStruts-RCE.svg)
+
+- [https://github.com/ACharaf06/CVE-2017-5638-Attack-and-Defense](https://github.com/ACharaf06/CVE-2017-5638-Attack-and-Defense) :  ![starts](https://img.shields.io/github/stars/ACharaf06/CVE-2017-5638-Attack-and-Defense.svg) ![forks](https://img.shields.io/github/forks/ACharaf06/CVE-2017-5638-Attack-and-Defense.svg)
 
 - [https://github.com/KarzsGHR/S2-046_S2-045_POC](https://github.com/KarzsGHR/S2-046_S2-045_POC) :  ![starts](https://img.shields.io/github/stars/KarzsGHR/S2-046_S2-045_POC.svg) ![forks](https://img.shields.io/github/forks/KarzsGHR/S2-046_S2-045_POC.svg)
 
@@ -3442,9 +3442,9 @@ Only traffic directed to the affected system can be used to exploit this vulnera
 
 - [https://github.com/eeehit/CVE-2017-5638](https://github.com/eeehit/CVE-2017-5638) :  ![starts](https://img.shields.io/github/stars/eeehit/CVE-2017-5638.svg) ![forks](https://img.shields.io/github/forks/eeehit/CVE-2017-5638.svg)
 
-- [https://github.com/bhagdave/CVE-2017-5638](https://github.com/bhagdave/CVE-2017-5638) :  ![starts](https://img.shields.io/github/stars/bhagdave/CVE-2017-5638.svg) ![forks](https://img.shields.io/github/forks/bhagdave/CVE-2017-5638.svg)
-
 - [https://github.com/smancke/CVE-2017-5638](https://github.com/smancke/CVE-2017-5638) :  ![starts](https://img.shields.io/github/stars/smancke/CVE-2017-5638.svg) ![forks](https://img.shields.io/github/forks/smancke/CVE-2017-5638.svg)
+
+- [https://github.com/bhagdave/CVE-2017-5638](https://github.com/bhagdave/CVE-2017-5638) :  ![starts](https://img.shields.io/github/stars/bhagdave/CVE-2017-5638.svg) ![forks](https://img.shields.io/github/forks/bhagdave/CVE-2017-5638.svg)
 
 - [https://github.com/homjxi0e/CVE-2017-5638](https://github.com/homjxi0e/CVE-2017-5638) :  ![starts](https://img.shields.io/github/stars/homjxi0e/CVE-2017-5638.svg) ![forks](https://img.shields.io/github/forks/homjxi0e/CVE-2017-5638.svg)
 
@@ -3474,11 +3474,11 @@ Only traffic directed to the affected system can be used to exploit this vulnera
 
 - [https://github.com/cafnet/apache-struts-v2-CVE-2017-5638](https://github.com/cafnet/apache-struts-v2-CVE-2017-5638) :  ![starts](https://img.shields.io/github/stars/cafnet/apache-struts-v2-CVE-2017-5638.svg) ![forks](https://img.shields.io/github/forks/cafnet/apache-struts-v2-CVE-2017-5638.svg)
 
-- [https://github.com/Xernary/CVE-2017-5638-POC](https://github.com/Xernary/CVE-2017-5638-POC) :  ![starts](https://img.shields.io/github/stars/Xernary/CVE-2017-5638-POC.svg) ![forks](https://img.shields.io/github/forks/Xernary/CVE-2017-5638-POC.svg)
-
 - [https://github.com/mfdev-solution/Exploit-CVE-2017-5638](https://github.com/mfdev-solution/Exploit-CVE-2017-5638) :  ![starts](https://img.shields.io/github/stars/mfdev-solution/Exploit-CVE-2017-5638.svg) ![forks](https://img.shields.io/github/forks/mfdev-solution/Exploit-CVE-2017-5638.svg)
 
 - [https://github.com/sonatype-workshops/struts2-rce](https://github.com/sonatype-workshops/struts2-rce) :  ![starts](https://img.shields.io/github/stars/sonatype-workshops/struts2-rce.svg) ![forks](https://img.shields.io/github/forks/sonatype-workshops/struts2-rce.svg)
+
+- [https://github.com/Xernary/CVE-2017-5638-POC](https://github.com/Xernary/CVE-2017-5638-POC) :  ![starts](https://img.shields.io/github/stars/Xernary/CVE-2017-5638-POC.svg) ![forks](https://img.shields.io/github/forks/Xernary/CVE-2017-5638-POC.svg)
 
 - [https://github.com/leandrocamposcardoso/CVE-2017-5638-Mass-Exploit](https://github.com/leandrocamposcardoso/CVE-2017-5638-Mass-Exploit) :  ![starts](https://img.shields.io/github/stars/leandrocamposcardoso/CVE-2017-5638-Mass-Exploit.svg) ![forks](https://img.shields.io/github/forks/leandrocamposcardoso/CVE-2017-5638-Mass-Exploit.svg)
 
