@@ -127,6 +127,13 @@
 
 - [https://github.com/bittorrent3389/CVE-2015-8543_for_SLE12SP1](https://github.com/bittorrent3389/CVE-2015-8543_for_SLE12SP1) :  ![starts](https://img.shields.io/github/stars/bittorrent3389/CVE-2015-8543_for_SLE12SP1.svg) ![forks](https://img.shields.io/github/forks/bittorrent3389/CVE-2015-8543_for_SLE12SP1.svg)
 
+## CVE-2015-8522
+ Buffer overflow in the server in IBM Tivoli Storage Manager FastBack 5.5.x and 6.x before 6.1.12.2 allows remote attackers to execute arbitrary code via a crafted command, a different vulnerability than CVE-2015-8519, CVE-2015-8520, and CVE-2015-8521.
+
+
+
+- [https://github.com/damariion/CVE-2015-8522](https://github.com/damariion/CVE-2015-8522) :  ![starts](https://img.shields.io/github/stars/damariion/CVE-2015-8522.svg) ![forks](https://img.shields.io/github/forks/damariion/CVE-2015-8522.svg)
+
 ## CVE-2015-8351
  PHP remote file inclusion vulnerability in the Gwolle Guestbook plugin before 1.5.4 for WordPress, when allow_url_include is enabled, allows remote authenticated users to execute arbitrary PHP code via a URL in the abspath parameter to frontend/captcha/ajaxresponse.php.  NOTE: this can also be leveraged to include and execute arbitrary local files via directory traversal sequences regardless of whether allow_url_include is enabled.
 
@@ -324,9 +331,9 @@
 
 - [https://github.com/G01d3nW01f/CVE-2015-6668](https://github.com/G01d3nW01f/CVE-2015-6668) :  ![starts](https://img.shields.io/github/stars/G01d3nW01f/CVE-2015-6668.svg) ![forks](https://img.shields.io/github/forks/G01d3nW01f/CVE-2015-6668.svg)
 
-- [https://github.com/nika0x38/CVE-2015-6668](https://github.com/nika0x38/CVE-2015-6668) :  ![starts](https://img.shields.io/github/stars/nika0x38/CVE-2015-6668.svg) ![forks](https://img.shields.io/github/forks/nika0x38/CVE-2015-6668.svg)
-
 - [https://github.com/jimdiroffii/CVE-2015-6668](https://github.com/jimdiroffii/CVE-2015-6668) :  ![starts](https://img.shields.io/github/stars/jimdiroffii/CVE-2015-6668.svg) ![forks](https://img.shields.io/github/forks/jimdiroffii/CVE-2015-6668.svg)
+
+- [https://github.com/nika0x38/CVE-2015-6668](https://github.com/nika0x38/CVE-2015-6668) :  ![starts](https://img.shields.io/github/stars/nika0x38/CVE-2015-6668.svg) ![forks](https://img.shields.io/github/forks/nika0x38/CVE-2015-6668.svg)
 
 - [https://github.com/NoTrustedx/Job-Manager-Disclosure](https://github.com/NoTrustedx/Job-Manager-Disclosure) :  ![starts](https://img.shields.io/github/stars/NoTrustedx/Job-Manager-Disclosure.svg) ![forks](https://img.shields.io/github/forks/NoTrustedx/Job-Manager-Disclosure.svg)
 
