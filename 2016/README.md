@@ -246,9 +246,9 @@
 
 - [https://github.com/ElnurBDa/CVE-2016-10033](https://github.com/ElnurBDa/CVE-2016-10033) :  ![starts](https://img.shields.io/github/stars/ElnurBDa/CVE-2016-10033.svg) ![forks](https://img.shields.io/github/forks/ElnurBDa/CVE-2016-10033.svg)
 
-- [https://github.com/CAOlvchonger/CVE-2016-10033](https://github.com/CAOlvchonger/CVE-2016-10033) :  ![starts](https://img.shields.io/github/stars/CAOlvchonger/CVE-2016-10033.svg) ![forks](https://img.shields.io/github/forks/CAOlvchonger/CVE-2016-10033.svg)
-
 - [https://github.com/alexander47777/CVE-2016-10033](https://github.com/alexander47777/CVE-2016-10033) :  ![starts](https://img.shields.io/github/stars/alexander47777/CVE-2016-10033.svg) ![forks](https://img.shields.io/github/forks/alexander47777/CVE-2016-10033.svg)
+
+- [https://github.com/CAOlvchonger/CVE-2016-10033](https://github.com/CAOlvchonger/CVE-2016-10033) :  ![starts](https://img.shields.io/github/stars/CAOlvchonger/CVE-2016-10033.svg) ![forks](https://img.shields.io/github/forks/CAOlvchonger/CVE-2016-10033.svg)
 
 - [https://github.com/Astrowmist/POC-CVE-2016-10033](https://github.com/Astrowmist/POC-CVE-2016-10033) :  ![starts](https://img.shields.io/github/stars/Astrowmist/POC-CVE-2016-10033.svg) ![forks](https://img.shields.io/github/forks/Astrowmist/POC-CVE-2016-10033.svg)
 
@@ -734,8 +734,6 @@
 
 - [https://github.com/konstantin-kelemen/mysqld_safe-CVE-2016-6662-patch](https://github.com/konstantin-kelemen/mysqld_safe-CVE-2016-6662-patch) :  ![starts](https://img.shields.io/github/stars/konstantin-kelemen/mysqld_safe-CVE-2016-6662-patch.svg) ![forks](https://img.shields.io/github/forks/konstantin-kelemen/mysqld_safe-CVE-2016-6662-patch.svg)
 
-- [https://github.com/LSQUARE14/SQL_to_RCE_Lab](https://github.com/LSQUARE14/SQL_to_RCE_Lab) :  ![starts](https://img.shields.io/github/stars/LSQUARE14/SQL_to_RCE_Lab.svg) ![forks](https://img.shields.io/github/forks/LSQUARE14/SQL_to_RCE_Lab.svg)
-
 ## CVE-2016-6584
  ** RESERVED ** This candidate has been reserved by an organization or individual that will use it when announcing a new security problem.  When the candidate has been publicized, the details for this candidate will be provided.
 
@@ -991,9 +989,9 @@
 
 - [https://github.com/TotallyNotAHaxxer/CVE-2016-5195](https://github.com/TotallyNotAHaxxer/CVE-2016-5195) :  ![starts](https://img.shields.io/github/stars/TotallyNotAHaxxer/CVE-2016-5195.svg) ![forks](https://img.shields.io/github/forks/TotallyNotAHaxxer/CVE-2016-5195.svg)
 
-- [https://github.com/0x3n19m4/CVE-2016-5195](https://github.com/0x3n19m4/CVE-2016-5195) :  ![starts](https://img.shields.io/github/stars/0x3n19m4/CVE-2016-5195.svg) ![forks](https://img.shields.io/github/forks/0x3n19m4/CVE-2016-5195.svg)
-
 - [https://github.com/DanielEbert/CVE-2016-5195](https://github.com/DanielEbert/CVE-2016-5195) :  ![starts](https://img.shields.io/github/stars/DanielEbert/CVE-2016-5195.svg) ![forks](https://img.shields.io/github/forks/DanielEbert/CVE-2016-5195.svg)
+
+- [https://github.com/0x3n19m4/CVE-2016-5195](https://github.com/0x3n19m4/CVE-2016-5195) :  ![starts](https://img.shields.io/github/stars/0x3n19m4/CVE-2016-5195.svg) ![forks](https://img.shields.io/github/forks/0x3n19m4/CVE-2016-5195.svg)
 
 - [https://github.com/ASRTeam/CVE-2016-5195](https://github.com/ASRTeam/CVE-2016-5195) :  ![starts](https://img.shields.io/github/stars/ASRTeam/CVE-2016-5195.svg) ![forks](https://img.shields.io/github/forks/ASRTeam/CVE-2016-5195.svg)
 
@@ -1009,11 +1007,11 @@
 
 - [https://github.com/KosukeShimofuji/CVE-2016-5195](https://github.com/KosukeShimofuji/CVE-2016-5195) :  ![starts](https://img.shields.io/github/stars/KosukeShimofuji/CVE-2016-5195.svg) ![forks](https://img.shields.io/github/forks/KosukeShimofuji/CVE-2016-5195.svg)
 
-- [https://github.com/ASUKA39/CVE-2016-5195](https://github.com/ASUKA39/CVE-2016-5195) :  ![starts](https://img.shields.io/github/stars/ASUKA39/CVE-2016-5195.svg) ![forks](https://img.shields.io/github/forks/ASUKA39/CVE-2016-5195.svg)
-
 - [https://github.com/fei9747/CVE-2016-5195](https://github.com/fei9747/CVE-2016-5195) :  ![starts](https://img.shields.io/github/stars/fei9747/CVE-2016-5195.svg) ![forks](https://img.shields.io/github/forks/fei9747/CVE-2016-5195.svg)
 
 - [https://github.com/ldenevi/CVE-2016-5195](https://github.com/ldenevi/CVE-2016-5195) :  ![starts](https://img.shields.io/github/stars/ldenevi/CVE-2016-5195.svg) ![forks](https://img.shields.io/github/forks/ldenevi/CVE-2016-5195.svg)
+
+- [https://github.com/ASUKA39/CVE-2016-5195](https://github.com/ASUKA39/CVE-2016-5195) :  ![starts](https://img.shields.io/github/stars/ASUKA39/CVE-2016-5195.svg) ![forks](https://img.shields.io/github/forks/ASUKA39/CVE-2016-5195.svg)
 
 - [https://github.com/sandeeparth07/CVE-2016_5195-vulnarability](https://github.com/sandeeparth07/CVE-2016_5195-vulnarability) :  ![starts](https://img.shields.io/github/stars/sandeeparth07/CVE-2016_5195-vulnarability.svg) ![forks](https://img.shields.io/github/forks/sandeeparth07/CVE-2016_5195-vulnarability.svg)
 
@@ -1045,9 +1043,9 @@
 
 - [https://github.com/elhaddadalaa788-alt/kernel-exploit-dirtycow-project-subm](https://github.com/elhaddadalaa788-alt/kernel-exploit-dirtycow-project-subm) :  ![starts](https://img.shields.io/github/stars/elhaddadalaa788-alt/kernel-exploit-dirtycow-project-subm.svg) ![forks](https://img.shields.io/github/forks/elhaddadalaa788-alt/kernel-exploit-dirtycow-project-subm.svg)
 
-- [https://github.com/vinspiert/scumjrs](https://github.com/vinspiert/scumjrs) :  ![starts](https://img.shields.io/github/stars/vinspiert/scumjrs.svg) ![forks](https://img.shields.io/github/forks/vinspiert/scumjrs.svg)
-
 - [https://github.com/1equeneRise/scumjr9](https://github.com/1equeneRise/scumjr9) :  ![starts](https://img.shields.io/github/stars/1equeneRise/scumjr9.svg) ![forks](https://img.shields.io/github/forks/1equeneRise/scumjr9.svg)
+
+- [https://github.com/vinspiert/scumjrs](https://github.com/vinspiert/scumjrs) :  ![starts](https://img.shields.io/github/stars/vinspiert/scumjrs.svg) ![forks](https://img.shields.io/github/forks/vinspiert/scumjrs.svg)
 
 - [https://github.com/shanuka-ashen/Dirty-Cow-Explanation-CVE-2016-5195-](https://github.com/shanuka-ashen/Dirty-Cow-Explanation-CVE-2016-5195-) :  ![starts](https://img.shields.io/github/stars/shanuka-ashen/Dirty-Cow-Explanation-CVE-2016-5195-.svg) ![forks](https://img.shields.io/github/forks/shanuka-ashen/Dirty-Cow-Explanation-CVE-2016-5195-.svg)
 
@@ -1806,9 +1804,9 @@
 
 - [https://github.com/mamon9022/poc-fls-node-epicronicles](https://github.com/mamon9022/poc-fls-node-epicronicles) :  ![starts](https://img.shields.io/github/stars/mamon9022/poc-fls-node-epicronicles.svg) ![forks](https://img.shields.io/github/forks/mamon9022/poc-fls-node-epicronicles.svg)
 
-- [https://github.com/hamzamalik3461/CVE-2026-20841](https://github.com/hamzamalik3461/CVE-2026-20841) :  ![starts](https://img.shields.io/github/stars/hamzamalik3461/CVE-2026-20841.svg) ![forks](https://img.shields.io/github/forks/hamzamalik3461/CVE-2026-20841.svg)
-
 - [https://github.com/mzuhair9933/PoPE-pytorch](https://github.com/mzuhair9933/PoPE-pytorch) :  ![starts](https://img.shields.io/github/stars/mzuhair9933/PoPE-pytorch.svg) ![forks](https://img.shields.io/github/forks/mzuhair9933/PoPE-pytorch.svg)
+
+- [https://github.com/hamzamalik3461/CVE-2026-20841](https://github.com/hamzamalik3461/CVE-2026-20841) :  ![starts](https://img.shields.io/github/stars/hamzamalik3461/CVE-2026-20841.svg) ![forks](https://img.shields.io/github/forks/hamzamalik3461/CVE-2026-20841.svg)
 
 - [https://github.com/404godd/CVE-2026-20841-PoC](https://github.com/404godd/CVE-2026-20841-PoC) :  ![starts](https://img.shields.io/github/stars/404godd/CVE-2026-20841-PoC.svg) ![forks](https://img.shields.io/github/forks/404godd/CVE-2026-20841-PoC.svg)
 
