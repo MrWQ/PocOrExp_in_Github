@@ -461,13 +461,6 @@
 
 - [https://github.com/aslanemre/CVE-2020-29364](https://github.com/aslanemre/CVE-2020-29364) :  ![starts](https://img.shields.io/github/stars/aslanemre/CVE-2020-29364.svg) ![forks](https://img.shields.io/github/forks/aslanemre/CVE-2020-29364.svg)
 
-## CVE-2020-29254
- TikiWiki 21.2 allows templates to be edited without CSRF protection. This could allow an unauthenticated, remote attacker to conduct a cross-site request forgery (CSRF) attack and perform arbitrary actions on an affected system. The vulnerability is due to insufficient CSRF protections for the web-based management interface of the affected system. An attacker could exploit this vulnerability by persuading a user of the interface to follow a maliciously crafted link. A successful exploit could allow the attacker to perform arbitrary actions on an affected system with the privileges of the user. These action include allowing attackers to submit their own code through an authenticated user resulting in local file Inclusion. If an authenticated user who is able to edit TikiWiki templates visits an malicious website, template code can be edited.
-
-
-
-- [https://github.com/S1lkys/CVE-2020-29254](https://github.com/S1lkys/CVE-2020-29254) :  ![starts](https://img.shields.io/github/stars/S1lkys/CVE-2020-29254.svg) ![forks](https://img.shields.io/github/forks/S1lkys/CVE-2020-29254.svg)
-
 ## CVE-2020-29204
  XXL-JOB 2.2.0 allows Stored XSS (in Add User) to bypass the 20-character limit via xxl-job-admin/src/main/java/com/xxl/job/admin/controller/UserController.java.
 
@@ -1823,6 +1816,13 @@ vulnerable to a race condition in the MCL Smart Patient Reader software update s
 
 - [https://github.com/patrickhalasik/cve-2020-23127-PoC](https://github.com/patrickhalasik/cve-2020-23127-PoC) :  ![starts](https://img.shields.io/github/stars/patrickhalasik/cve-2020-23127-PoC.svg) ![forks](https://img.shields.io/github/forks/patrickhalasik/cve-2020-23127-PoC.svg)
 
+## CVE-2020-22916
+ An issue discovered in XZ 5.2.5 allows attackers to cause a denial of service via decompression of a crafted file. NOTE: the vendor disputes the claims of "endless output" and "denial of service" because decompression of the 17,486 bytes always results in 114,881,179 bytes, which is often a reasonable size increase.
+
+
+
+- [https://github.com/greydoubt/xz](https://github.com/greydoubt/xz) :  ![starts](https://img.shields.io/github/stars/greydoubt/xz.svg) ![forks](https://img.shields.io/github/forks/greydoubt/xz.svg)
+
 ## CVE-2020-21378
  SQL injection vulnerability in SeaCMS 10.1 (2020.02.08) via the id parameter in an edit action to admin_members_group.php.
 
@@ -2313,13 +2313,6 @@ pThe update addresses the vulnerability by correcting how the Windows TCP/IP sta
 
 
 - [https://github.com/geniuszly/CVE-2020-15916](https://github.com/geniuszly/CVE-2020-15916) :  ![starts](https://img.shields.io/github/stars/geniuszly/CVE-2020-15916.svg) ![forks](https://img.shields.io/github/forks/geniuszly/CVE-2020-15916.svg)
-
-## CVE-2020-15906
- tiki-login.php in Tiki before 21.2 sets the admin password to a blank value after 50 invalid login attempts.
-
-
-
-- [https://github.com/S1lkys/CVE-2020-15906](https://github.com/S1lkys/CVE-2020-15906) :  ![starts](https://img.shields.io/github/stars/S1lkys/CVE-2020-15906.svg) ![forks](https://img.shields.io/github/forks/S1lkys/CVE-2020-15906.svg)
 
 ## CVE-2020-15873
  In LibreNMS before 1.65.1, an authenticated attacker can achieve SQL Injection via the customoid.inc.php device_id POST parameter to ajax_form.php.
@@ -3513,8 +3506,6 @@ pThe update addresses the vulnerability by correcting how the Windows TCP/IP sta
 
 - [https://github.com/enessakircolak/Windows-11-24h2-Kernel-Exploit](https://github.com/enessakircolak/Windows-11-24h2-Kernel-Exploit) :  ![starts](https://img.shields.io/github/stars/enessakircolak/Windows-11-24h2-Kernel-Exploit.svg) ![forks](https://img.shields.io/github/forks/enessakircolak/Windows-11-24h2-Kernel-Exploit.svg)
 
-- [https://github.com/S1lkys/Eneio64-LPE](https://github.com/S1lkys/Eneio64-LPE) :  ![starts](https://img.shields.io/github/stars/S1lkys/Eneio64-LPE.svg) ![forks](https://img.shields.io/github/forks/S1lkys/Eneio64-LPE.svg)
-
 ## CVE-2020-12432
  The WOPI API integration for Vereign Collabora CODE through 4.2.2 does not properly restrict delivery of JavaScript to a victim's browser, and lacks proper MIME type access control, which could lead to XSS that steals account credentials via cookies or local storage. The attacker must first obtain an API access token, which can be accomplished if the attacker is able to upload a .docx or .odt file. The associated API endpoints for exploitation are /wopi/files and /wopi/getAccessToken.
 
@@ -3935,8 +3926,6 @@ pThe update addresses the vulnerability by correcting how the Windows TCP/IP sta
 
 
 
-- [https://github.com/S1lkys/CVE-2020-11107](https://github.com/S1lkys/CVE-2020-11107) :  ![starts](https://img.shields.io/github/stars/S1lkys/CVE-2020-11107.svg) ![forks](https://img.shields.io/github/forks/S1lkys/CVE-2020-11107.svg)
-
 - [https://github.com/andripwn/CVE-2020-11107](https://github.com/andripwn/CVE-2020-11107) :  ![starts](https://img.shields.io/github/stars/andripwn/CVE-2020-11107.svg) ![forks](https://img.shields.io/github/forks/andripwn/CVE-2020-11107.svg)
 
 - [https://github.com/Mohnad-AL-saif/Mohnad-AL-saif-CVE-2020-11107-XAMPP-Local-Privilege-Escalation](https://github.com/Mohnad-AL-saif/Mohnad-AL-saif-CVE-2020-11107-XAMPP-Local-Privilege-Escalation) :  ![starts](https://img.shields.io/github/stars/Mohnad-AL-saif/Mohnad-AL-saif-CVE-2020-11107-XAMPP-Local-Privilege-Escalation.svg) ![forks](https://img.shields.io/github/forks/Mohnad-AL-saif/Mohnad-AL-saif-CVE-2020-11107-XAMPP-Local-Privilege-Escalation.svg)
@@ -4172,6 +4161,13 @@ pThe update addresses the vulnerability by correcting how the Windows TCP/IP sta
 
 
 - [https://github.com/rails-lts/json_cve_2020_10663](https://github.com/rails-lts/json_cve_2020_10663) :  ![starts](https://img.shields.io/github/stars/rails-lts/json_cve_2020_10663.svg) ![forks](https://img.shields.io/github/forks/rails-lts/json_cve_2020_10663.svg)
+
+## CVE-2020-10567
+ An issue was discovered in Responsive Filemanager through 9.14.0. In the ajax_calls.php file in the save_img action in the name parameter, there is no validation of what kind of extension is sent. This makes it possible to execute PHP code if a legitimate JPEG image contains this code in the EXIF data, and the .php extension is used in the name parameter. (A potential fast patch is to disable the save_img action in the config file.)
+
+
+
+- [https://github.com/PierreAdams/POC-CVE-2020-10567](https://github.com/PierreAdams/POC-CVE-2020-10567) :  ![starts](https://img.shields.io/github/stars/PierreAdams/POC-CVE-2020-10567.svg) ![forks](https://img.shields.io/github/forks/PierreAdams/POC-CVE-2020-10567.svg)
 
 ## CVE-2020-10560
  An issue was discovered in Open Source Social Network (OSSN) through 5.3. A user-controlled file path with a weak cryptographic rand() can be used to read any file with the permissions of the webserver. This can lead to further compromise. The attacker must conduct a brute-force attack against the SiteKey to insert into a crafted URL for components/OssnComments/ossn_com.php and/or libraries/ossn.lib.upgrade.php.
@@ -4517,9 +4513,9 @@ pThe update addresses the vulnerability by correcting how the Windows TCP/IP sta
 
 - [https://github.com/Disturbante/CVE-2020-9484](https://github.com/Disturbante/CVE-2020-9484) :  ![starts](https://img.shields.io/github/stars/Disturbante/CVE-2020-9484.svg) ![forks](https://img.shields.io/github/forks/Disturbante/CVE-2020-9484.svg)
 
-- [https://github.com/DXY0411/CVE-2020-9484](https://github.com/DXY0411/CVE-2020-9484) :  ![starts](https://img.shields.io/github/stars/DXY0411/CVE-2020-9484.svg) ![forks](https://img.shields.io/github/forks/DXY0411/CVE-2020-9484.svg)
-
 - [https://github.com/seanachao/CVE-2020-9484](https://github.com/seanachao/CVE-2020-9484) :  ![starts](https://img.shields.io/github/stars/seanachao/CVE-2020-9484.svg) ![forks](https://img.shields.io/github/forks/seanachao/CVE-2020-9484.svg)
+
+- [https://github.com/DXY0411/CVE-2020-9484](https://github.com/DXY0411/CVE-2020-9484) :  ![starts](https://img.shields.io/github/stars/DXY0411/CVE-2020-9484.svg) ![forks](https://img.shields.io/github/forks/DXY0411/CVE-2020-9484.svg)
 
 - [https://github.com/DanQMoo/CVE-2020-9484-Scanner](https://github.com/DanQMoo/CVE-2020-9484-Scanner) :  ![starts](https://img.shields.io/github/stars/DanQMoo/CVE-2020-9484-Scanner.svg) ![forks](https://img.shields.io/github/forks/DanQMoo/CVE-2020-9484-Scanner.svg)
 
@@ -5114,9 +5110,9 @@ pThe update addresses the vulnerability by correcting how the Windows TCP/IP sta
 
 - [https://github.com/progfay/CVE-2020-8165](https://github.com/progfay/CVE-2020-8165) :  ![starts](https://img.shields.io/github/stars/progfay/CVE-2020-8165.svg) ![forks](https://img.shields.io/github/forks/progfay/CVE-2020-8165.svg)
 
-- [https://github.com/taipansec/CVE-2020-8165](https://github.com/taipansec/CVE-2020-8165) :  ![starts](https://img.shields.io/github/stars/taipansec/CVE-2020-8165.svg) ![forks](https://img.shields.io/github/forks/taipansec/CVE-2020-8165.svg)
-
 - [https://github.com/AssassinUKG/CVE-2020-8165](https://github.com/AssassinUKG/CVE-2020-8165) :  ![starts](https://img.shields.io/github/stars/AssassinUKG/CVE-2020-8165.svg) ![forks](https://img.shields.io/github/forks/AssassinUKG/CVE-2020-8165.svg)
+
+- [https://github.com/taipansec/CVE-2020-8165](https://github.com/taipansec/CVE-2020-8165) :  ![starts](https://img.shields.io/github/stars/taipansec/CVE-2020-8165.svg) ![forks](https://img.shields.io/github/forks/taipansec/CVE-2020-8165.svg)
 
 ## CVE-2020-8163
  The is a code injection vulnerability in versions of Rails prior to 5.0.1 that wouldallow an attacker who controlled the `locals` argument of a `render` call to perform a RCE.
@@ -5491,9 +5487,9 @@ pThe update addresses the vulnerability by correcting how the Windows TCP/IP sta
 
 - [https://github.com/superzerosec/cve-2020-7247](https://github.com/superzerosec/cve-2020-7247) :  ![starts](https://img.shields.io/github/stars/superzerosec/cve-2020-7247.svg) ![forks](https://img.shields.io/github/forks/superzerosec/cve-2020-7247.svg)
 
-- [https://github.com/presentdaypresenttime/shai_hulud](https://github.com/presentdaypresenttime/shai_hulud) :  ![starts](https://img.shields.io/github/stars/presentdaypresenttime/shai_hulud.svg) ![forks](https://img.shields.io/github/forks/presentdaypresenttime/shai_hulud.svg)
-
 - [https://github.com/f4T1H21/CVE-2020-7247](https://github.com/f4T1H21/CVE-2020-7247) :  ![starts](https://img.shields.io/github/stars/f4T1H21/CVE-2020-7247.svg) ![forks](https://img.shields.io/github/forks/f4T1H21/CVE-2020-7247.svg)
+
+- [https://github.com/presentdaypresenttime/shai_hulud](https://github.com/presentdaypresenttime/shai_hulud) :  ![starts](https://img.shields.io/github/stars/presentdaypresenttime/shai_hulud.svg) ![forks](https://img.shields.io/github/forks/presentdaypresenttime/shai_hulud.svg)
 
 - [https://github.com/SimonSchoeni/CVE-2020-7247-POC](https://github.com/SimonSchoeni/CVE-2020-7247-POC) :  ![starts](https://img.shields.io/github/stars/SimonSchoeni/CVE-2020-7247-POC.svg) ![forks](https://img.shields.io/github/forks/SimonSchoeni/CVE-2020-7247-POC.svg)
 
@@ -6402,9 +6398,9 @@ The issue has been fixed in dropwizard-validation 1.3.19 and 2.0.2.
 
 - [https://github.com/ar2o3/CVE-Exploit](https://github.com/ar2o3/CVE-Exploit) :  ![starts](https://img.shields.io/github/stars/ar2o3/CVE-Exploit.svg) ![forks](https://img.shields.io/github/forks/ar2o3/CVE-Exploit.svg)
 
-- [https://github.com/LTiDi2000/CVE-2020-2551](https://github.com/LTiDi2000/CVE-2020-2551) :  ![starts](https://img.shields.io/github/stars/LTiDi2000/CVE-2020-2551.svg) ![forks](https://img.shields.io/github/forks/LTiDi2000/CVE-2020-2551.svg)
-
 - [https://github.com/DaMinGshidashi/CVE-2020-2551](https://github.com/DaMinGshidashi/CVE-2020-2551) :  ![starts](https://img.shields.io/github/stars/DaMinGshidashi/CVE-2020-2551.svg) ![forks](https://img.shields.io/github/forks/DaMinGshidashi/CVE-2020-2551.svg)
+
+- [https://github.com/LTiDi2000/CVE-2020-2551](https://github.com/LTiDi2000/CVE-2020-2551) :  ![starts](https://img.shields.io/github/stars/LTiDi2000/CVE-2020-2551.svg) ![forks](https://img.shields.io/github/forks/LTiDi2000/CVE-2020-2551.svg)
 
 ## CVE-2020-2548
  Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: WLS Core Components). The supported version that is affected is 10.3.6.0.0. Easily exploitable vulnerability allows high privileged attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks require human interaction from a person other than the attacker and while the vulnerability is in Oracle WebLogic Server, attacks may significantly impact additional products. Successful attacks of this vulnerability can result in unauthorized update, insert or delete access to some of Oracle WebLogic Server accessible data as well as unauthorized read access to a subset of Oracle WebLogic Server accessible data. CVSS 3.0 Base Score 4.8 (Confidentiality and Integrity impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:H/UI:R/S:C/C:L/I:L/A:N).
@@ -6615,9 +6611,9 @@ The issue has been fixed in dropwizard-validation 1.3.19 and 2.0.2.
 
 - [https://github.com/b1cat/CVE_2020_1938_ajp_poc](https://github.com/b1cat/CVE_2020_1938_ajp_poc) :  ![starts](https://img.shields.io/github/stars/b1cat/CVE_2020_1938_ajp_poc.svg) ![forks](https://img.shields.io/github/forks/b1cat/CVE_2020_1938_ajp_poc.svg)
 
-- [https://github.com/haerin7427/CVE_2020_1938](https://github.com/haerin7427/CVE_2020_1938) :  ![starts](https://img.shields.io/github/stars/haerin7427/CVE_2020_1938.svg) ![forks](https://img.shields.io/github/forks/haerin7427/CVE_2020_1938.svg)
-
 - [https://github.com/I-Runtime-Error/CVE-2020-1938](https://github.com/I-Runtime-Error/CVE-2020-1938) :  ![starts](https://img.shields.io/github/stars/I-Runtime-Error/CVE-2020-1938.svg) ![forks](https://img.shields.io/github/forks/I-Runtime-Error/CVE-2020-1938.svg)
+
+- [https://github.com/haerin7427/CVE_2020_1938](https://github.com/haerin7427/CVE_2020_1938) :  ![starts](https://img.shields.io/github/stars/haerin7427/CVE_2020_1938.svg) ![forks](https://img.shields.io/github/forks/haerin7427/CVE_2020_1938.svg)
 
 - [https://github.com/RedTeam-Rediron/CVE-2020-1938](https://github.com/RedTeam-Rediron/CVE-2020-1938) :  ![starts](https://img.shields.io/github/stars/RedTeam-Rediron/CVE-2020-1938.svg) ![forks](https://img.shields.io/github/forks/RedTeam-Rediron/CVE-2020-1938.svg)
 
@@ -6765,6 +6761,8 @@ When the second phase of Windows updates become available in Q1 2021, customers 
 
 - [https://github.com/whoami-chmod777/Zerologon-Attack-CVE-2020-1472-POC](https://github.com/whoami-chmod777/Zerologon-Attack-CVE-2020-1472-POC) :  ![starts](https://img.shields.io/github/stars/whoami-chmod777/Zerologon-Attack-CVE-2020-1472-POC.svg) ![forks](https://img.shields.io/github/forks/whoami-chmod777/Zerologon-Attack-CVE-2020-1472-POC.svg)
 
+- [https://github.com/wrathfulDiety/zerologon](https://github.com/wrathfulDiety/zerologon) :  ![starts](https://img.shields.io/github/stars/wrathfulDiety/zerologon.svg) ![forks](https://img.shields.io/github/forks/wrathfulDiety/zerologon.svg)
+
 - [https://github.com/mods20hh/ZeroLogon-PoC-DC-Pwn](https://github.com/mods20hh/ZeroLogon-PoC-DC-Pwn) :  ![starts](https://img.shields.io/github/stars/mods20hh/ZeroLogon-PoC-DC-Pwn.svg) ![forks](https://img.shields.io/github/forks/mods20hh/ZeroLogon-PoC-DC-Pwn.svg)
 
 - [https://github.com/Anonymous-Family/Zero-day-scanning](https://github.com/Anonymous-Family/Zero-day-scanning) :  ![starts](https://img.shields.io/github/stars/Anonymous-Family/Zero-day-scanning.svg) ![forks](https://img.shields.io/github/forks/Anonymous-Family/Zero-day-scanning.svg)
@@ -6783,15 +6781,13 @@ When the second phase of Windows updates become available in Q1 2021, customers 
 
 - [https://github.com/mingchen-script/CVE-2020-1472-visualizer](https://github.com/mingchen-script/CVE-2020-1472-visualizer) :  ![starts](https://img.shields.io/github/stars/mingchen-script/CVE-2020-1472-visualizer.svg) ![forks](https://img.shields.io/github/forks/mingchen-script/CVE-2020-1472-visualizer.svg)
 
-- [https://github.com/TheJoyOfHacking/dirkjanm-CVE-2020-1472](https://github.com/TheJoyOfHacking/dirkjanm-CVE-2020-1472) :  ![starts](https://img.shields.io/github/stars/TheJoyOfHacking/dirkjanm-CVE-2020-1472.svg) ![forks](https://img.shields.io/github/forks/TheJoyOfHacking/dirkjanm-CVE-2020-1472.svg)
-
 - [https://github.com/midpipps/CVE-2020-1472-Easy](https://github.com/midpipps/CVE-2020-1472-Easy) :  ![starts](https://img.shields.io/github/stars/midpipps/CVE-2020-1472-Easy.svg) ![forks](https://img.shields.io/github/forks/midpipps/CVE-2020-1472-Easy.svg)
 
-- [https://github.com/McKinnonIT/zabbix-template-CVE-2020-1472](https://github.com/McKinnonIT/zabbix-template-CVE-2020-1472) :  ![starts](https://img.shields.io/github/stars/McKinnonIT/zabbix-template-CVE-2020-1472.svg) ![forks](https://img.shields.io/github/forks/McKinnonIT/zabbix-template-CVE-2020-1472.svg)
+- [https://github.com/TheJoyOfHacking/dirkjanm-CVE-2020-1472](https://github.com/TheJoyOfHacking/dirkjanm-CVE-2020-1472) :  ![starts](https://img.shields.io/github/stars/TheJoyOfHacking/dirkjanm-CVE-2020-1472.svg) ![forks](https://img.shields.io/github/forks/TheJoyOfHacking/dirkjanm-CVE-2020-1472.svg)
 
 - [https://github.com/Fa1c0n35/SecuraBV-CVE-2020-1472](https://github.com/Fa1c0n35/SecuraBV-CVE-2020-1472) :  ![starts](https://img.shields.io/github/stars/Fa1c0n35/SecuraBV-CVE-2020-1472.svg) ![forks](https://img.shields.io/github/forks/Fa1c0n35/SecuraBV-CVE-2020-1472.svg)
 
-- [https://github.com/wrathfulDiety/zerologon](https://github.com/wrathfulDiety/zerologon) :  ![starts](https://img.shields.io/github/stars/wrathfulDiety/zerologon.svg) ![forks](https://img.shields.io/github/forks/wrathfulDiety/zerologon.svg)
+- [https://github.com/McKinnonIT/zabbix-template-CVE-2020-1472](https://github.com/McKinnonIT/zabbix-template-CVE-2020-1472) :  ![starts](https://img.shields.io/github/stars/McKinnonIT/zabbix-template-CVE-2020-1472.svg) ![forks](https://img.shields.io/github/forks/McKinnonIT/zabbix-template-CVE-2020-1472.svg)
 
 - [https://github.com/hell-moon/ZeroLogon-Exploit](https://github.com/hell-moon/ZeroLogon-Exploit) :  ![starts](https://img.shields.io/github/stars/hell-moon/ZeroLogon-Exploit.svg) ![forks](https://img.shields.io/github/forks/hell-moon/ZeroLogon-Exploit.svg)
 
@@ -6805,25 +6801,25 @@ When the second phase of Windows updates become available in Q1 2021, customers 
 
 - [https://github.com/grupooruss/CVE-2020-1472](https://github.com/grupooruss/CVE-2020-1472) :  ![starts](https://img.shields.io/github/stars/grupooruss/CVE-2020-1472.svg) ![forks](https://img.shields.io/github/forks/grupooruss/CVE-2020-1472.svg)
 
-- [https://github.com/puckiestyle/CVE-2020-1472](https://github.com/puckiestyle/CVE-2020-1472) :  ![starts](https://img.shields.io/github/stars/puckiestyle/CVE-2020-1472.svg) ![forks](https://img.shields.io/github/forks/puckiestyle/CVE-2020-1472.svg)
+- [https://github.com/Fa1c0n35/CVE-2020-1472](https://github.com/Fa1c0n35/CVE-2020-1472) :  ![starts](https://img.shields.io/github/stars/Fa1c0n35/CVE-2020-1472.svg) ![forks](https://img.shields.io/github/forks/Fa1c0n35/CVE-2020-1472.svg)
+
+- [https://github.com/victim10wq3/CVE-2020-1472](https://github.com/victim10wq3/CVE-2020-1472) :  ![starts](https://img.shields.io/github/stars/victim10wq3/CVE-2020-1472.svg) ![forks](https://img.shields.io/github/forks/victim10wq3/CVE-2020-1472.svg)
 
 - [https://github.com/Ken-Abruzzi/cve-2020-1472](https://github.com/Ken-Abruzzi/cve-2020-1472) :  ![starts](https://img.shields.io/github/stars/Ken-Abruzzi/cve-2020-1472.svg) ![forks](https://img.shields.io/github/forks/Ken-Abruzzi/cve-2020-1472.svg)
 
-- [https://github.com/Fa1c0n35/CVE-2020-1472](https://github.com/Fa1c0n35/CVE-2020-1472) :  ![starts](https://img.shields.io/github/stars/Fa1c0n35/CVE-2020-1472.svg) ![forks](https://img.shields.io/github/forks/Fa1c0n35/CVE-2020-1472.svg)
+- [https://github.com/puckiestyle/CVE-2020-1472](https://github.com/puckiestyle/CVE-2020-1472) :  ![starts](https://img.shields.io/github/stars/puckiestyle/CVE-2020-1472.svg) ![forks](https://img.shields.io/github/forks/puckiestyle/CVE-2020-1472.svg)
 
 - [https://github.com/hectorgie/CVE-2020-1472](https://github.com/hectorgie/CVE-2020-1472) :  ![starts](https://img.shields.io/github/stars/hectorgie/CVE-2020-1472.svg) ![forks](https://img.shields.io/github/forks/hectorgie/CVE-2020-1472.svg)
 
 - [https://github.com/itssmikefm/CVE-2020-1472](https://github.com/itssmikefm/CVE-2020-1472) :  ![starts](https://img.shields.io/github/stars/itssmikefm/CVE-2020-1472.svg) ![forks](https://img.shields.io/github/forks/itssmikefm/CVE-2020-1472.svg)
 
-- [https://github.com/dr4g0n23/CVE-2020-1472](https://github.com/dr4g0n23/CVE-2020-1472) :  ![starts](https://img.shields.io/github/stars/dr4g0n23/CVE-2020-1472.svg) ![forks](https://img.shields.io/github/forks/dr4g0n23/CVE-2020-1472.svg)
+- [https://github.com/t31m0/CVE-2020-1472](https://github.com/t31m0/CVE-2020-1472) :  ![starts](https://img.shields.io/github/stars/t31m0/CVE-2020-1472.svg) ![forks](https://img.shields.io/github/forks/t31m0/CVE-2020-1472.svg)
 
-- [https://github.com/SaharAttackit/CVE-2020-1472](https://github.com/SaharAttackit/CVE-2020-1472) :  ![starts](https://img.shields.io/github/stars/SaharAttackit/CVE-2020-1472.svg) ![forks](https://img.shields.io/github/forks/SaharAttackit/CVE-2020-1472.svg)
+- [https://github.com/dr4g0n23/CVE-2020-1472](https://github.com/dr4g0n23/CVE-2020-1472) :  ![starts](https://img.shields.io/github/stars/dr4g0n23/CVE-2020-1472.svg) ![forks](https://img.shields.io/github/forks/dr4g0n23/CVE-2020-1472.svg)
 
 - [https://github.com/mos165/CVE-20200-1472](https://github.com/mos165/CVE-20200-1472) :  ![starts](https://img.shields.io/github/stars/mos165/CVE-20200-1472.svg) ![forks](https://img.shields.io/github/forks/mos165/CVE-20200-1472.svg)
 
-- [https://github.com/victim10wq3/CVE-2020-1472](https://github.com/victim10wq3/CVE-2020-1472) :  ![starts](https://img.shields.io/github/stars/victim10wq3/CVE-2020-1472.svg) ![forks](https://img.shields.io/github/forks/victim10wq3/CVE-2020-1472.svg)
-
-- [https://github.com/t31m0/CVE-2020-1472](https://github.com/t31m0/CVE-2020-1472) :  ![starts](https://img.shields.io/github/stars/t31m0/CVE-2020-1472.svg) ![forks](https://img.shields.io/github/forks/t31m0/CVE-2020-1472.svg)
+- [https://github.com/SaharAttackit/CVE-2020-1472](https://github.com/SaharAttackit/CVE-2020-1472) :  ![starts](https://img.shields.io/github/stars/SaharAttackit/CVE-2020-1472.svg) ![forks](https://img.shields.io/github/forks/SaharAttackit/CVE-2020-1472.svg)
 
 - [https://github.com/metehangelgi/CVE-2020-1472-LAB](https://github.com/metehangelgi/CVE-2020-1472-LAB) :  ![starts](https://img.shields.io/github/stars/metehangelgi/CVE-2020-1472-LAB.svg) ![forks](https://img.shields.io/github/forks/metehangelgi/CVE-2020-1472-LAB.svg)
 
@@ -6843,9 +6839,9 @@ When the second phase of Windows updates become available in Q1 2021, customers 
 
 - [https://github.com/technion/ZeroLogonAssess](https://github.com/technion/ZeroLogonAssess) :  ![starts](https://img.shields.io/github/stars/technion/ZeroLogonAssess.svg) ![forks](https://img.shields.io/github/forks/technion/ZeroLogonAssess.svg)
 
-- [https://github.com/likeww/MassZeroLogon](https://github.com/likeww/MassZeroLogon) :  ![starts](https://img.shields.io/github/stars/likeww/MassZeroLogon.svg) ![forks](https://img.shields.io/github/forks/likeww/MassZeroLogon.svg)
-
 - [https://github.com/100HnoMeuNome/ZeroLogon-CVE-2020-1472-lab](https://github.com/100HnoMeuNome/ZeroLogon-CVE-2020-1472-lab) :  ![starts](https://img.shields.io/github/stars/100HnoMeuNome/ZeroLogon-CVE-2020-1472-lab.svg) ![forks](https://img.shields.io/github/forks/100HnoMeuNome/ZeroLogon-CVE-2020-1472-lab.svg)
+
+- [https://github.com/likeww/MassZeroLogon](https://github.com/likeww/MassZeroLogon) :  ![starts](https://img.shields.io/github/stars/likeww/MassZeroLogon.svg) ![forks](https://img.shields.io/github/forks/likeww/MassZeroLogon.svg)
 
 - [https://github.com/maikelnight/zerologon](https://github.com/maikelnight/zerologon) :  ![starts](https://img.shields.io/github/stars/maikelnight/zerologon.svg) ![forks](https://img.shields.io/github/forks/maikelnight/zerologon.svg)
 
@@ -7267,19 +7263,19 @@ pThe security update addresses the vulnerability by resolving the conditions whe
 
 - [https://github.com/section-c/CVE-2020-0796](https://github.com/section-c/CVE-2020-0796) :  ![starts](https://img.shields.io/github/stars/section-c/CVE-2020-0796.svg) ![forks](https://img.shields.io/github/forks/section-c/CVE-2020-0796.svg)
 
-- [https://github.com/Opensitoo/cve-2020-0796](https://github.com/Opensitoo/cve-2020-0796) :  ![starts](https://img.shields.io/github/stars/Opensitoo/cve-2020-0796.svg) ![forks](https://img.shields.io/github/forks/Opensitoo/cve-2020-0796.svg)
-
 - [https://github.com/maqeel-git/CVE-2020-0796](https://github.com/maqeel-git/CVE-2020-0796) :  ![starts](https://img.shields.io/github/stars/maqeel-git/CVE-2020-0796.svg) ![forks](https://img.shields.io/github/forks/maqeel-git/CVE-2020-0796.svg)
 
-- [https://github.com/thai1012/cve-2020-0796](https://github.com/thai1012/cve-2020-0796) :  ![starts](https://img.shields.io/github/stars/thai1012/cve-2020-0796.svg) ![forks](https://img.shields.io/github/forks/thai1012/cve-2020-0796.svg)
+- [https://github.com/Opensitoo/cve-2020-0796](https://github.com/Opensitoo/cve-2020-0796) :  ![starts](https://img.shields.io/github/stars/Opensitoo/cve-2020-0796.svg) ![forks](https://img.shields.io/github/forks/Opensitoo/cve-2020-0796.svg)
 
 - [https://github.com/kn6869610/CVE-2020-0796](https://github.com/kn6869610/CVE-2020-0796) :  ![starts](https://img.shields.io/github/stars/kn6869610/CVE-2020-0796.svg) ![forks](https://img.shields.io/github/forks/kn6869610/CVE-2020-0796.svg)
 
+- [https://github.com/thai1012/cve-2020-0796](https://github.com/thai1012/cve-2020-0796) :  ![starts](https://img.shields.io/github/stars/thai1012/cve-2020-0796.svg) ![forks](https://img.shields.io/github/forks/thai1012/cve-2020-0796.svg)
+
 - [https://github.com/halsten/CVE-2020-0796](https://github.com/halsten/CVE-2020-0796) :  ![starts](https://img.shields.io/github/stars/halsten/CVE-2020-0796.svg) ![forks](https://img.shields.io/github/forks/halsten/CVE-2020-0796.svg)
 
-- [https://github.com/abdullah098/CVE_2020_0796](https://github.com/abdullah098/CVE_2020_0796) :  ![starts](https://img.shields.io/github/stars/abdullah098/CVE_2020_0796.svg) ![forks](https://img.shields.io/github/forks/abdullah098/CVE_2020_0796.svg)
-
 - [https://github.com/TweatherQ/CVE-2020-0796](https://github.com/TweatherQ/CVE-2020-0796) :  ![starts](https://img.shields.io/github/stars/TweatherQ/CVE-2020-0796.svg) ![forks](https://img.shields.io/github/forks/TweatherQ/CVE-2020-0796.svg)
+
+- [https://github.com/abdullah098/CVE_2020_0796](https://github.com/abdullah098/CVE_2020_0796) :  ![starts](https://img.shields.io/github/stars/abdullah098/CVE_2020_0796.svg) ![forks](https://img.shields.io/github/forks/abdullah098/CVE_2020_0796.svg)
 
 - [https://github.com/krizzz07/CVE-2020-0796](https://github.com/krizzz07/CVE-2020-0796) :  ![starts](https://img.shields.io/github/stars/krizzz07/CVE-2020-0796.svg) ![forks](https://img.shields.io/github/forks/krizzz07/CVE-2020-0796.svg)
 
