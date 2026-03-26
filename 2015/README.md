@@ -963,9 +963,9 @@
 
 - [https://github.com/gmh5225/CVE-2015-2291](https://github.com/gmh5225/CVE-2015-2291) :  ![starts](https://img.shields.io/github/stars/gmh5225/CVE-2015-2291.svg) ![forks](https://img.shields.io/github/forks/gmh5225/CVE-2015-2291.svg)
 
-- [https://github.com/ethanedits/iqvw64e-privilege-escalation](https://github.com/ethanedits/iqvw64e-privilege-escalation) :  ![starts](https://img.shields.io/github/stars/ethanedits/iqvw64e-privilege-escalation.svg) ![forks](https://img.shields.io/github/forks/ethanedits/iqvw64e-privilege-escalation.svg)
-
 - [https://github.com/paysonism/CVE-2015-2291-Spoofer-Analysis](https://github.com/paysonism/CVE-2015-2291-Spoofer-Analysis) :  ![starts](https://img.shields.io/github/stars/paysonism/CVE-2015-2291-Spoofer-Analysis.svg) ![forks](https://img.shields.io/github/forks/paysonism/CVE-2015-2291-Spoofer-Analysis.svg)
+
+- [https://github.com/ethanedits/iqvw64e-privilege-escalation](https://github.com/ethanedits/iqvw64e-privilege-escalation) :  ![starts](https://img.shields.io/github/stars/ethanedits/iqvw64e-privilege-escalation.svg) ![forks](https://img.shields.io/github/forks/ethanedits/iqvw64e-privilege-escalation.svg)
 
 ## CVE-2015-2231
  ** RESERVED ** This candidate has been reserved by an organization or individual that will use it when announcing a new security problem.  When the candidate has been publicized, the details for this candidate will be provided.
@@ -1250,8 +1250,6 @@
 - [https://github.com/YastrebX/CVE-2015-1328](https://github.com/YastrebX/CVE-2015-1328) :  ![starts](https://img.shields.io/github/stars/YastrebX/CVE-2015-1328.svg) ![forks](https://img.shields.io/github/forks/YastrebX/CVE-2015-1328.svg)
 
 - [https://github.com/BlackFrog-hub/cve-2015-1328](https://github.com/BlackFrog-hub/cve-2015-1328) :  ![starts](https://img.shields.io/github/stars/BlackFrog-hub/cve-2015-1328.svg) ![forks](https://img.shields.io/github/forks/BlackFrog-hub/cve-2015-1328.svg)
-
-- [https://github.com/1mgR00T/CVE-2015-1328](https://github.com/1mgR00T/CVE-2015-1328) :  ![starts](https://img.shields.io/github/stars/1mgR00T/CVE-2015-1328.svg) ![forks](https://img.shields.io/github/forks/1mgR00T/CVE-2015-1328.svg)
 
 - [https://github.com/SR7-HACKING/LINUX-VULNERABILITY-CVE-2015-1328](https://github.com/SR7-HACKING/LINUX-VULNERABILITY-CVE-2015-1328) :  ![starts](https://img.shields.io/github/stars/SR7-HACKING/LINUX-VULNERABILITY-CVE-2015-1328.svg) ![forks](https://img.shields.io/github/forks/SR7-HACKING/LINUX-VULNERABILITY-CVE-2015-1328.svg)
 
