@@ -229,6 +229,8 @@ Exploitation of this vulnerability requires that a user or application run or in
 
 - [https://github.com/CyberCondor/Fix-WinVerifyTrustSignatureValidationVuln](https://github.com/CyberCondor/Fix-WinVerifyTrustSignatureValidationVuln) :  ![starts](https://img.shields.io/github/stars/CyberCondor/Fix-WinVerifyTrustSignatureValidationVuln.svg) ![forks](https://img.shields.io/github/forks/CyberCondor/Fix-WinVerifyTrustSignatureValidationVuln.svg)
 
+- [https://github.com/OtisSymbos/CVE-2013-3900-WinTrustVerify](https://github.com/OtisSymbos/CVE-2013-3900-WinTrustVerify) :  ![starts](https://img.shields.io/github/stars/OtisSymbos/CVE-2013-3900-WinTrustVerify.svg) ![forks](https://img.shields.io/github/forks/OtisSymbos/CVE-2013-3900-WinTrustVerify.svg)
+
 - [https://github.com/snoopopsec/vulnerability-CVE-2013-3900](https://github.com/snoopopsec/vulnerability-CVE-2013-3900) :  ![starts](https://img.shields.io/github/stars/snoopopsec/vulnerability-CVE-2013-3900.svg) ![forks](https://img.shields.io/github/forks/snoopopsec/vulnerability-CVE-2013-3900.svg)
 
 - [https://github.com/Sabecomoeh/CVE-2013-3900](https://github.com/Sabecomoeh/CVE-2013-3900) :  ![starts](https://img.shields.io/github/stars/Sabecomoeh/CVE-2013-3900.svg) ![forks](https://img.shields.io/github/forks/Sabecomoeh/CVE-2013-3900.svg)
@@ -244,8 +246,6 @@ Exploitation of this vulnerability requires that a user or application run or in
 - [https://github.com/SDimitri05/cve-2013-3900-winverifytrust-mitigation](https://github.com/SDimitri05/cve-2013-3900-winverifytrust-mitigation) :  ![starts](https://img.shields.io/github/stars/SDimitri05/cve-2013-3900-winverifytrust-mitigation.svg) ![forks](https://img.shields.io/github/forks/SDimitri05/cve-2013-3900-winverifytrust-mitigation.svg)
 
 - [https://github.com/AdenilsonSantos/WinVerifyTrust](https://github.com/AdenilsonSantos/WinVerifyTrust) :  ![starts](https://img.shields.io/github/stars/AdenilsonSantos/WinVerifyTrust.svg) ![forks](https://img.shields.io/github/forks/AdenilsonSantos/WinVerifyTrust.svg)
-
-- [https://github.com/OtisSymbos/CVE-2013-3900-WinTrustVerify](https://github.com/OtisSymbos/CVE-2013-3900-WinTrustVerify) :  ![starts](https://img.shields.io/github/stars/OtisSymbos/CVE-2013-3900-WinTrustVerify.svg) ![forks](https://img.shields.io/github/forks/OtisSymbos/CVE-2013-3900-WinTrustVerify.svg)
 
 - [https://github.com/piranhap/CVE-2013-3900_Remediation_PowerShell](https://github.com/piranhap/CVE-2013-3900_Remediation_PowerShell) :  ![starts](https://img.shields.io/github/stars/piranhap/CVE-2013-3900_Remediation_PowerShell.svg) ![forks](https://img.shields.io/github/forks/piranhap/CVE-2013-3900_Remediation_PowerShell.svg)
 
@@ -583,9 +583,9 @@ Exploitation of this vulnerability requires that a user or application run or in
 
 - [https://github.com/Jjdt12/kuang_grade_mk11](https://github.com/Jjdt12/kuang_grade_mk11) :  ![starts](https://img.shields.io/github/stars/Jjdt12/kuang_grade_mk11.svg) ![forks](https://img.shields.io/github/forks/Jjdt12/kuang_grade_mk11.svg)
 
-- [https://github.com/oxben10/CVE-2013-0156](https://github.com/oxben10/CVE-2013-0156) :  ![starts](https://img.shields.io/github/stars/oxben10/CVE-2013-0156.svg) ![forks](https://img.shields.io/github/forks/oxben10/CVE-2013-0156.svg)
-
 - [https://github.com/7s26simon/CVE-2013-0156](https://github.com/7s26simon/CVE-2013-0156) :  ![starts](https://img.shields.io/github/stars/7s26simon/CVE-2013-0156.svg) ![forks](https://img.shields.io/github/forks/7s26simon/CVE-2013-0156.svg)
+
+- [https://github.com/oxben10/CVE-2013-0156](https://github.com/oxben10/CVE-2013-0156) :  ![starts](https://img.shields.io/github/stars/oxben10/CVE-2013-0156.svg) ![forks](https://img.shields.io/github/forks/oxben10/CVE-2013-0156.svg)
 
 - [https://github.com/R3dKn33-zz/CVE-2013-0156](https://github.com/R3dKn33-zz/CVE-2013-0156) :  ![starts](https://img.shields.io/github/stars/R3dKn33-zz/CVE-2013-0156.svg) ![forks](https://img.shields.io/github/forks/R3dKn33-zz/CVE-2013-0156.svg)
 
