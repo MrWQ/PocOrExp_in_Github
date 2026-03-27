@@ -117,6 +117,15 @@
 
 - [https://github.com/TheRook/AudioCaptchaBypass-CVE-2008-2019](https://github.com/TheRook/AudioCaptchaBypass-CVE-2008-2019) :  ![starts](https://img.shields.io/github/stars/TheRook/AudioCaptchaBypass-CVE-2008-2019.svg) ![forks](https://img.shields.io/github/forks/TheRook/AudioCaptchaBypass-CVE-2008-2019.svg)
 
+## CVE-2008-1657
+ OpenSSH 4.4 up to versions before 4.9 allows remote authenticated users to bypass the sshd_config ForceCommand directive by modifying the .ssh/rc session file.
+
+
+
+- [https://github.com/Faizan8232403/CVE-Exploit-Research-Development](https://github.com/Faizan8232403/CVE-Exploit-Research-Development) :  ![starts](https://img.shields.io/github/stars/Faizan8232403/CVE-Exploit-Research-Development.svg) ![forks](https://img.shields.io/github/forks/Faizan8232403/CVE-Exploit-Research-Development.svg)
+
+- [https://github.com/QasimShahbaz21/CVE-Exploit-Research-Development](https://github.com/QasimShahbaz21/CVE-Exploit-Research-Development) :  ![starts](https://img.shields.io/github/stars/QasimShahbaz21/CVE-Exploit-Research-Development.svg) ![forks](https://img.shields.io/github/forks/QasimShahbaz21/CVE-Exploit-Research-Development.svg)
+
 ## CVE-2008-1613
  SQL injection vulnerability in ioRD.asp in RedDot CMS 7.5 Build 7.5.0.48, and possibly other versions including 6.5 and 7.0, allows remote attackers to execute arbitrary SQL commands via the LngId parameter.
 
@@ -175,6 +184,10 @@
 - [https://github.com/avarx/vulnkeys](https://github.com/avarx/vulnkeys) :  ![starts](https://img.shields.io/github/stars/avarx/vulnkeys.svg) ![forks](https://img.shields.io/github/forks/avarx/vulnkeys.svg)
 
 - [https://github.com/AhegaoPsyops/sslWeakness](https://github.com/AhegaoPsyops/sslWeakness) :  ![starts](https://img.shields.io/github/stars/AhegaoPsyops/sslWeakness.svg) ![forks](https://img.shields.io/github/forks/AhegaoPsyops/sslWeakness.svg)
+
+- [https://github.com/Faizan8232403/CVE-Exploit-Research-Development](https://github.com/Faizan8232403/CVE-Exploit-Research-Development) :  ![starts](https://img.shields.io/github/stars/Faizan8232403/CVE-Exploit-Research-Development.svg) ![forks](https://img.shields.io/github/forks/Faizan8232403/CVE-Exploit-Research-Development.svg)
+
+- [https://github.com/QasimShahbaz21/CVE-Exploit-Research-Development](https://github.com/QasimShahbaz21/CVE-Exploit-Research-Development) :  ![starts](https://img.shields.io/github/stars/QasimShahbaz21/CVE-Exploit-Research-Development.svg) ![forks](https://img.shields.io/github/forks/QasimShahbaz21/CVE-Exploit-Research-Development.svg)
 
 ## CVE-2008-0128
  The SingleSignOn Valve (org.apache.catalina.authenticator.SingleSignOn) in Apache Tomcat before 5.5.21 does not set the secure flag for the JSESSIONIDSSO cookie in an https session, which can cause the cookie to be sent in http requests and make it easier for remote attackers to capture this cookie.
