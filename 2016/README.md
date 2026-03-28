@@ -989,9 +989,9 @@
 
 - [https://github.com/TotallyNotAHaxxer/CVE-2016-5195](https://github.com/TotallyNotAHaxxer/CVE-2016-5195) :  ![starts](https://img.shields.io/github/stars/TotallyNotAHaxxer/CVE-2016-5195.svg) ![forks](https://img.shields.io/github/forks/TotallyNotAHaxxer/CVE-2016-5195.svg)
 
-- [https://github.com/0x3n19m4/CVE-2016-5195](https://github.com/0x3n19m4/CVE-2016-5195) :  ![starts](https://img.shields.io/github/stars/0x3n19m4/CVE-2016-5195.svg) ![forks](https://img.shields.io/github/forks/0x3n19m4/CVE-2016-5195.svg)
-
 - [https://github.com/DanielEbert/CVE-2016-5195](https://github.com/DanielEbert/CVE-2016-5195) :  ![starts](https://img.shields.io/github/stars/DanielEbert/CVE-2016-5195.svg) ![forks](https://img.shields.io/github/forks/DanielEbert/CVE-2016-5195.svg)
+
+- [https://github.com/0x3n19m4/CVE-2016-5195](https://github.com/0x3n19m4/CVE-2016-5195) :  ![starts](https://img.shields.io/github/stars/0x3n19m4/CVE-2016-5195.svg) ![forks](https://img.shields.io/github/forks/0x3n19m4/CVE-2016-5195.svg)
 
 - [https://github.com/ASRTeam/CVE-2016-5195](https://github.com/ASRTeam/CVE-2016-5195) :  ![starts](https://img.shields.io/github/stars/ASRTeam/CVE-2016-5195.svg) ![forks](https://img.shields.io/github/forks/ASRTeam/CVE-2016-5195.svg)
 
@@ -1711,7 +1711,7 @@
 
 
 
-- [https://github.com/d3vn0mi/cve-2016-16113](https://github.com/d3vn0mi/cve-2016-16113) :  ![starts](https://img.shields.io/github/stars/d3vn0mi/cve-2016-16113.svg) ![forks](https://img.shields.io/github/forks/d3vn0mi/cve-2016-16113.svg)
+- [https://github.com/d3vn0mi/CVE-2016-16113-POC](https://github.com/d3vn0mi/CVE-2016-16113-POC) :  ![starts](https://img.shields.io/github/stars/d3vn0mi/CVE-2016-16113-POC.svg) ![forks](https://img.shields.io/github/forks/d3vn0mi/CVE-2016-16113-POC.svg)
 
 ## CVE-2016-1555
  (1) boardData102.php, (2) boardData103.php, (3) boardDataJP.php, (4) boardDataNA.php, and (5) boardDataWW.php in Netgear WN604 before 3.3.3 and WN802Tv2, WNAP210v2, WNAP320, WNDAP350, WNDAP360, and WNDAP660 before 3.5.5.0 allow remote attackers to execute arbitrary commands.
