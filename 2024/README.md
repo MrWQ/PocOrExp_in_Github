@@ -377,21 +377,21 @@ Tomcat 11.0.3, 10.1.35 and 9.0.99 onwards will include checks that sun.io.useCa
 - [https://github.com/griisemine/CVE-2024-56331](https://github.com/griisemine/CVE-2024-56331) :  ![starts](https://img.shields.io/github/stars/griisemine/CVE-2024-56331.svg) ![forks](https://img.shields.io/github/forks/griisemine/CVE-2024-56331.svg)
 
 ## CVE-2024-56289
- Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Groundhogg Inc. Groundhogg allows Reflected XSS.This issue affects Groundhogg: from n/a through 3.7.3.3.
+ Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Adrian Tobey Groundhogg groundhogg allows Reflected XSS.This issue affects Groundhogg: from n/a through = 3.7.3.3.
 
 
 
 - [https://github.com/DoTTak/CVE-2024-56289](https://github.com/DoTTak/CVE-2024-56289) :  ![starts](https://img.shields.io/github/stars/DoTTak/CVE-2024-56289.svg) ![forks](https://img.shields.io/github/forks/DoTTak/CVE-2024-56289.svg)
 
 ## CVE-2024-56278
- Improper Control of Generation of Code ('Code Injection') vulnerability in Smackcoders WP Ultimate Exporter allows PHP Remote File Inclusion.This issue affects WP Ultimate Exporter: from n/a through 2.9.1.
+ Improper Control of Generation of Code ('Code Injection') vulnerability in Smackcoders Inc., WP Ultimate Exporter wp-ultimate-exporter allows PHP Remote File Inclusion.This issue affects WP Ultimate Exporter: from n/a through = 2.9.1.
 
 
 
 - [https://github.com/DoTTak/CVE-2024-56278](https://github.com/DoTTak/CVE-2024-56278) :  ![starts](https://img.shields.io/github/stars/DoTTak/CVE-2024-56278.svg) ![forks](https://img.shields.io/github/forks/DoTTak/CVE-2024-56278.svg)
 
 ## CVE-2024-56264
- Unrestricted Upload of File with Dangerous Type vulnerability in Beee ACF City Selector allows Upload a Web Shell to a Web Server.This issue affects ACF City Selector: from n/a through 1.14.0.
+ Unrestricted Upload of File with Dangerous Type vulnerability in Beee ACF City Selector acf-city-selector allows Upload a Web Shell to a Web Server.This issue affects ACF City Selector: from n/a through = 1.14.0.
 
 
 
@@ -400,7 +400,7 @@ Tomcat 11.0.3, 10.1.35 and 9.0.99 onwards will include checks that sun.io.useCa
 - [https://github.com/Nxploited/CVE-2024-56264](https://github.com/Nxploited/CVE-2024-56264) :  ![starts](https://img.shields.io/github/stars/Nxploited/CVE-2024-56264.svg) ![forks](https://img.shields.io/github/forks/Nxploited/CVE-2024-56264.svg)
 
 ## CVE-2024-56249
- Unrestricted Upload of File with Dangerous Type vulnerability in Webdeclic WPMasterToolKit allows Upload a Web Shell to a Web Server.This issue affects WPMasterToolKit: from n/a through 1.13.1.
+ Unrestricted Upload of File with Dangerous Type vulnerability in Ludwig You WPMasterToolKit wpmastertoolkit allows Upload a Web Shell to a Web Server.This issue affects WPMasterToolKit: from n/a through = 1.13.1.
 
 
 
@@ -439,84 +439,84 @@ Tomcat 11.0.3, 10.1.35 and 9.0.99 onwards will include checks that sun.io.useCa
 - [https://github.com/ComplianceControl/CVE-2024-56115](https://github.com/ComplianceControl/CVE-2024-56115) :  ![starts](https://img.shields.io/github/stars/ComplianceControl/CVE-2024-56115.svg) ![forks](https://img.shields.io/github/forks/ComplianceControl/CVE-2024-56115.svg)
 
 ## CVE-2024-56071
- Incorrect Privilege Assignment vulnerability in Mike Leembruggen Simple Dashboard allows Privilege Escalation.This issue affects Simple Dashboard: from n/a through 2.0.
+ Incorrect Privilege Assignment vulnerability in mikeleembruggen Simple Dashboard simple-dashboard allows Privilege Escalation.This issue affects Simple Dashboard: from n/a through = 2.0.
 
 
 
 - [https://github.com/Nxploited/CVE-2024-56071](https://github.com/Nxploited/CVE-2024-56071) :  ![starts](https://img.shields.io/github/stars/Nxploited/CVE-2024-56071.svg) ![forks](https://img.shields.io/github/forks/Nxploited/CVE-2024-56071.svg)
 
 ## CVE-2024-56067
- Missing Authorization vulnerability in Azzaroco WP SuperBackup allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects WP SuperBackup: from n/a through 2.3.3.
+ Missing Authorization vulnerability in azzaroco WP SuperBackup indeed-wp-superbackup allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects WP SuperBackup: from n/a through = 2.3.3.
 
 
 
 - [https://github.com/RandomRobbieBF/CVE-2024-56067](https://github.com/RandomRobbieBF/CVE-2024-56067) :  ![starts](https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-56067.svg) ![forks](https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-56067.svg)
 
 ## CVE-2024-56064
- Unrestricted Upload of File with Dangerous Type vulnerability in Azzaroco WP SuperBackup allows Upload a Web Shell to a Web Server.This issue affects WP SuperBackup: from n/a through 2.3.3.
+ Unrestricted Upload of File with Dangerous Type vulnerability in azzaroco WP SuperBackup indeed-wp-superbackup allows Upload a Web Shell to a Web Server.This issue affects WP SuperBackup: from n/a through = 2.3.3.
 
 
 
 - [https://github.com/RandomRobbieBF/CVE-2024-56064](https://github.com/RandomRobbieBF/CVE-2024-56064) :  ![starts](https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-56064.svg) ![forks](https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-56064.svg)
 
 ## CVE-2024-56059
- Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution') vulnerability in Mighty Digital Partners allows Object Injection.This issue affects Partners: from n/a through 0.2.0.
+ Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution') vulnerability in farinspace Partners partners allows Object Injection.This issue affects Partners: from n/a through = 0.2.0.
 
 
 
 - [https://github.com/RandomRobbieBF/CVE-2024-56059](https://github.com/RandomRobbieBF/CVE-2024-56059) :  ![starts](https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-56059.svg) ![forks](https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-56059.svg)
 
 ## CVE-2024-56058
- Deserialization of Untrusted Data vulnerability in Gueststream VRPConnector allows Object Injection.This issue affects VRPConnector: from n/a through 2.0.1.
+ Deserialization of Untrusted Data vulnerability in denniskravetstns VRPConnector vrpconnector allows Object Injection.This issue affects VRPConnector: from n/a through = 2.0.1.
 
 
 
 - [https://github.com/RandomRobbieBF/CVE-2024-56058](https://github.com/RandomRobbieBF/CVE-2024-56058) :  ![starts](https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-56058.svg) ![forks](https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-56058.svg)
 
 ## CVE-2024-55988
- Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Amol Nirmala Waman Navayan CSV Export allows Blind SQL Injection.This issue affects Navayan CSV Export: from n/a through 1.0.9.
+ Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Amol Nirmala Waman Navayan CSV Export navayan-csv-export allows Blind SQL Injection.This issue affects Navayan CSV Export: from n/a through = 1.0.9.
 
 
 
 - [https://github.com/RandomRobbieBF/CVE-2024-55988](https://github.com/RandomRobbieBF/CVE-2024-55988) :  ![starts](https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-55988.svg) ![forks](https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-55988.svg)
 
 ## CVE-2024-55982
- Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in richteam Share Buttons – Social Media allows Blind SQL Injection.This issue affects Share Buttons – Social Media: from n/a through 1.0.2.
+ Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in richteam Share Buttons – Social Media rich-web-share-button allows Blind SQL Injection.This issue affects Share Buttons – Social Media: from n/a through = 1.0.2.
 
 
 
 - [https://github.com/RandomRobbieBF/CVE-2024-55982](https://github.com/RandomRobbieBF/CVE-2024-55982) :  ![starts](https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-55982.svg) ![forks](https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-55982.svg)
 
 ## CVE-2024-55981
- Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Nabajit Roy Nabz Image Gallery allows SQL Injection.This issue affects Nabz Image Gallery: from n/a through v1.00.
+ Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Nabajit Roy Nabz Image Gallery nabz-image-gallery allows SQL Injection.This issue affects Nabz Image Gallery: from n/a through = v1.00.
 
 
 
 - [https://github.com/RandomRobbieBF/CVE-2024-55981](https://github.com/RandomRobbieBF/CVE-2024-55981) :  ![starts](https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-55981.svg) ![forks](https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-55981.svg)
 
 ## CVE-2024-55980
- Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Webriderz Wr Age Verification allows SQL Injection.This issue affects Wr Age Verification: from n/a through 2.0.0.
+ Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in robindkumar Wr Age Verification wr-age-verification allows SQL Injection.This issue affects Wr Age Verification: from n/a through = 2.0.0.
 
 
 
 - [https://github.com/RandomRobbieBF/CVE-2024-55980](https://github.com/RandomRobbieBF/CVE-2024-55980) :  ![starts](https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-55980.svg) ![forks](https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-55980.svg)
 
 ## CVE-2024-55978
- Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in WalletStation.com Code Generator Pro allows SQL Injection.This issue affects Code Generator Pro: from n/a through 1.2.
+ Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in WalletStation Code Generator Pro code-generator-pro allows SQL Injection.This issue affects Code Generator Pro: from n/a through = 1.2.
 
 
 
 - [https://github.com/RandomRobbieBF/CVE-2024-55978](https://github.com/RandomRobbieBF/CVE-2024-55978) :  ![starts](https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-55978.svg) ![forks](https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-55978.svg)
 
 ## CVE-2024-55976
- Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Mike Leembruggen Critical Site Intel allows SQL Injection.This issue affects Critical Site Intel: from n/a through 1.0.
+ Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in mikeleembruggen Critical Site Intel critical-site-intel-stats allows SQL Injection.This issue affects Critical Site Intel: from n/a through = 1.0.
 
 
 
 - [https://github.com/RandomRobbieBF/CVE-2024-55976](https://github.com/RandomRobbieBF/CVE-2024-55976) :  ![starts](https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-55976.svg) ![forks](https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-55976.svg)
 
 ## CVE-2024-55972
- Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Chris Carvache eTemplates allows SQL Injection.This issue affects eTemplates: from n/a through 0.2.1.
+ Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in chriscarvache eTemplates etemplates allows SQL Injection.This issue affects eTemplates: from n/a through = 0.2.1.
 
 
 
@@ -802,42 +802,42 @@ Tomcat 11.0.3, 10.1.35 and 9.0.99 onwards will include checks that sun.io.useCa
 - [https://github.com/wh1te4ever/CVE-2024-54498-PoC](https://github.com/wh1te4ever/CVE-2024-54498-PoC) :  ![starts](https://img.shields.io/github/stars/wh1te4ever/CVE-2024-54498-PoC.svg) ![forks](https://img.shields.io/github/forks/wh1te4ever/CVE-2024-54498-PoC.svg)
 
 ## CVE-2024-54385
- Server-Side Request Forgery (SSRF) vulnerability in SoftLab Radio Player allows Server Side Request Forgery.This issue affects Radio Player: from n/a through 2.0.82.
+ Server-Side Request Forgery (SSRF) vulnerability in princeahmed Radio Player radio-player allows Server Side Request Forgery.This issue affects Radio Player: from n/a through = 2.0.83.
 
 
 
 - [https://github.com/RandomRobbieBF/CVE-2024-54385](https://github.com/RandomRobbieBF/CVE-2024-54385) :  ![starts](https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-54385.svg) ![forks](https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-54385.svg)
 
 ## CVE-2024-54383
- Incorrect Privilege Assignment vulnerability in wpweb WooCommerce PDF Vouchers allows Privilege Escalation.This issue affects WooCommerce PDF Vouchers: from n/a before 4.9.9.
+ Incorrect Privilege Assignment vulnerability in wpweb WooCommerce PDF Vouchers woocommerce-pdf-vouchers allows Privilege Escalation.This issue affects WooCommerce PDF Vouchers: from n/a through  4.9.9.
 
 
 
 - [https://github.com/pashayogi/CVE-2024-54383](https://github.com/pashayogi/CVE-2024-54383) :  ![starts](https://img.shields.io/github/stars/pashayogi/CVE-2024-54383.svg) ![forks](https://img.shields.io/github/forks/pashayogi/CVE-2024-54383.svg)
 
 ## CVE-2024-54379
- Missing Authorization vulnerability in Blokhaus Minterpress allows Privilege Escalation.This issue affects Minterpress: from n/a through 1.0.5.
+ Missing Authorization vulnerability in blokhauswp Minterpress minterpress allows Privilege Escalation.This issue affects Minterpress: from n/a through = 1.0.5.
 
 
 
 - [https://github.com/RandomRobbieBF/CVE-2024-54379](https://github.com/RandomRobbieBF/CVE-2024-54379) :  ![starts](https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-54379.svg) ![forks](https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-54379.svg)
 
 ## CVE-2024-54378
- Missing Authorization vulnerability in Quietly Quietly Insights allows Privilege Escalation.This issue affects Quietly Insights: from n/a through 1.2.2.
+ Missing Authorization vulnerability in Quietly Quietly Insights quietly-insights allows Privilege Escalation.This issue affects Quietly Insights: from n/a through = 1.2.2.
 
 
 
 - [https://github.com/RandomRobbieBF/CVE-2024-54378](https://github.com/RandomRobbieBF/CVE-2024-54378) :  ![starts](https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-54378.svg) ![forks](https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-54378.svg)
 
 ## CVE-2024-54374
- Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability in Sabri Taieb Sogrid allows PHP Local File Inclusion.This issue affects Sogrid: from n/a through 1.5.6.
+ Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability in Sabri Sogrid sogrid allows PHP Local File Inclusion.This issue affects Sogrid: from n/a through = 1.5.6.
 
 
 
 - [https://github.com/RandomRobbieBF/CVE-2024-54374](https://github.com/RandomRobbieBF/CVE-2024-54374) :  ![starts](https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-54374.svg) ![forks](https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-54374.svg)
 
 ## CVE-2024-54369
- Missing Authorization vulnerability in ThemeHunk Zita Site Builder allows Accessing Functionality Not Properly Constrained by ACLs.This issue affects Zita Site Builder: from n/a through 1.0.2.
+ Missing Authorization vulnerability in ThemeHunk Zita Site Builder ai-site-builder allows Accessing Functionality Not Properly Constrained by ACLs.This issue affects Zita Site Builder: from n/a through = 1.0.2.
 
 
 
@@ -846,7 +846,7 @@ Tomcat 11.0.3, 10.1.35 and 9.0.99 onwards will include checks that sun.io.useCa
 - [https://github.com/Nxploited/CVE-2024-54369-PoC](https://github.com/Nxploited/CVE-2024-54369-PoC) :  ![starts](https://img.shields.io/github/stars/Nxploited/CVE-2024-54369-PoC.svg) ![forks](https://img.shields.io/github/forks/Nxploited/CVE-2024-54369-PoC.svg)
 
 ## CVE-2024-54363
- Incorrect Privilege Assignment vulnerability in nssTheme Wp NssUser Register allows Privilege Escalation.This issue affects Wp NssUser Register: from n/a through 1.0.0.
+ Incorrect Privilege Assignment vulnerability in saiful.total Wp NssUser Register wp-nssuser-register allows Privilege Escalation.This issue affects Wp NssUser Register: from n/a through = 1.0.0.
 
 
 
@@ -855,21 +855,21 @@ Tomcat 11.0.3, 10.1.35 and 9.0.99 onwards will include checks that sun.io.useCa
 - [https://github.com/Nxploited/CVE-2024-54363-Exploit](https://github.com/Nxploited/CVE-2024-54363-Exploit) :  ![starts](https://img.shields.io/github/stars/Nxploited/CVE-2024-54363-Exploit.svg) ![forks](https://img.shields.io/github/forks/Nxploited/CVE-2024-54363-Exploit.svg)
 
 ## CVE-2024-54330
- Server-Side Request Forgery (SSRF) vulnerability in Hep Hep Hurra (HHH) Hurrakify allows Server Side Request Forgery.This issue affects Hurrakify: from n/a through 2.4.
+ Server-Side Request Forgery (SSRF) vulnerability in hurraki Hurrakify hurrakify allows Server Side Request Forgery.This issue affects Hurrakify: from n/a through = 2.4.
 
 
 
 - [https://github.com/RandomRobbieBF/CVE-2024-54330](https://github.com/RandomRobbieBF/CVE-2024-54330) :  ![starts](https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-54330.svg) ![forks](https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-54330.svg)
 
 ## CVE-2024-54292
- Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Appsplate Appsplate allows SQL Injection.This issue affects Appsplate: from n/a through 2.1.3.
+ Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in appsplate Appsplate appsplate allows SQL Injection.This issue affects Appsplate: from n/a through = 2.1.3.
 
 
 
 - [https://github.com/RandomRobbieBF/CVE-2024-54292](https://github.com/RandomRobbieBF/CVE-2024-54292) :  ![starts](https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-54292.svg) ![forks](https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-54292.svg)
 
 ## CVE-2024-54262
- Unrestricted Upload of File with Dangerous Type vulnerability in Siddharth Nagar Import Export For WooCommerce allows Upload a Web Shell to a Web Server.This issue affects Import Export For WooCommerce: from n/a through 1.5.
+ Unrestricted Upload of File with Dangerous Type vulnerability in sidngr Import Export For WooCommerce import-export-for-woocommerce allows Upload a Web Shell to a Web Server.This issue affects Import Export For WooCommerce: from n/a through = 1.6.2.
 
 
 
@@ -878,7 +878,7 @@ Tomcat 11.0.3, 10.1.35 and 9.0.99 onwards will include checks that sun.io.useCa
 - [https://github.com/Nxploited/CVE-2024-54262](https://github.com/Nxploited/CVE-2024-54262) :  ![starts](https://img.shields.io/github/stars/Nxploited/CVE-2024-54262.svg) ![forks](https://img.shields.io/github/forks/Nxploited/CVE-2024-54262.svg)
 
 ## CVE-2024-54239
- Missing Authorization vulnerability in dugudlabs Eyewear prescription form allows Privilege Escalation.This issue affects Eyewear prescription form: from n/a through 4.0.18.
+ Missing Authorization vulnerability in dugudlabs Eyewear prescription form eyewear-prescription-form allows Privilege Escalation.This issue affects Eyewear prescription form: from n/a through = 4.0.18.
 
 
 
@@ -1136,49 +1136,49 @@ You can find more details in  https://cwiki.apache.org/confluence/display/WW/S2
 - [https://github.com/d-xuan/CVE-2024-52510](https://github.com/d-xuan/CVE-2024-52510) :  ![starts](https://img.shields.io/github/stars/d-xuan/CVE-2024-52510.svg) ![forks](https://img.shields.io/github/forks/d-xuan/CVE-2024-52510.svg)
 
 ## CVE-2024-52475
- Authentication Bypass Using an Alternate Path or Channel vulnerability in Automation Web Platform Wawp allows Authentication Bypass.This issue affects Wawp: from n/a before 3.0.18.
+ Authentication Bypass Using an Alternate Path or Channel vulnerability in Information Technology Wawp automation-web-platform allows Authentication Bypass.This issue affects Wawp: from n/a through  3.0.18.
 
 
 
 - [https://github.com/ubaydev/CVE-2024-52475](https://github.com/ubaydev/CVE-2024-52475) :  ![starts](https://img.shields.io/github/stars/ubaydev/CVE-2024-52475.svg) ![forks](https://img.shields.io/github/forks/ubaydev/CVE-2024-52475.svg)
 
 ## CVE-2024-52433
- Deserialization of Untrusted Data vulnerability in Mindstien Technologies My Geo Posts Free allows Object Injection.This issue affects My Geo Posts Free: from n/a through 1.2.
+ Deserialization of Untrusted Data vulnerability in Mindstien Technologies My Geo Posts Free my-geo-posts-free allows Object Injection.This issue affects My Geo Posts Free: from n/a through = 1.2.
 
 
 
 - [https://github.com/RandomRobbieBF/CVE-2024-52433](https://github.com/RandomRobbieBF/CVE-2024-52433) :  ![starts](https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-52433.svg) ![forks](https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-52433.svg)
 
 ## CVE-2024-52430
- Deserialization of Untrusted Data vulnerability in Lis Lis Video Gallery allows Object Injection.This issue affects Lis Video Gallery: from n/a through 0.2.1.
+ Deserialization of Untrusted Data vulnerability in bublick Lis Video Gallery lis-video-gallery allows Object Injection.This issue affects Lis Video Gallery: from n/a through = 0.2.1.
 
 
 
 - [https://github.com/RandomRobbieBF/CVE-2024-52430](https://github.com/RandomRobbieBF/CVE-2024-52430) :  ![starts](https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-52430.svg) ![forks](https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-52430.svg)
 
 ## CVE-2024-52429
- Unrestricted Upload of File with Dangerous Type vulnerability in Anton Hoelstad WP Quick Setup allows Upload a Web Shell to a Web Server.This issue affects WP Quick Setup: from n/a through 2.0.
+ Unrestricted Upload of File with Dangerous Type vulnerability in AntonHoelstad WP Quick Setup wp-quick-setup allows Upload a Web Shell to a Web Server.This issue affects WP Quick Setup: from n/a through = 2.0.
 
 
 
 - [https://github.com/RandomRobbieBF/CVE-2024-52429](https://github.com/RandomRobbieBF/CVE-2024-52429) :  ![starts](https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-52429.svg) ![forks](https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-52429.svg)
 
 ## CVE-2024-52402
- Cross-Site Request Forgery (CSRF) vulnerability in Cliconomics Exclusive Content Password Protect allows Upload a Web Shell to a Web Server.This issue affects Exclusive Content Password Protect: from n/a through 1.1.0.
+ Cross-Site Request Forgery (CSRF) vulnerability in gunghoinc Exclusive Content Password Protect exclusive-content-password-protect allows Upload a Web Shell to a Web Server.This issue affects Exclusive Content Password Protect: from n/a through = 1.1.0.
 
 
 
 - [https://github.com/Nxploited/CVE-2024-52402](https://github.com/Nxploited/CVE-2024-52402) :  ![starts](https://img.shields.io/github/stars/Nxploited/CVE-2024-52402.svg) ![forks](https://img.shields.io/github/forks/Nxploited/CVE-2024-52402.svg)
 
 ## CVE-2024-52382
- Missing Authorization vulnerability in Medma Technologies Matix Popup Builder allows Privilege Escalation.This issue affects Matix Popup Builder: from n/a through 1.0.0.
+ Missing Authorization vulnerability in medmatech Matix Popup Builder medma-matix allows Privilege Escalation.This issue affects Matix Popup Builder: from n/a through = 1.0.0.
 
 
 
 - [https://github.com/RandomRobbieBF/CVE-2024-52382](https://github.com/RandomRobbieBF/CVE-2024-52382) :  ![starts](https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-52382.svg) ![forks](https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-52382.svg)
 
 ## CVE-2024-52380
- Unrestricted Upload of File with Dangerous Type vulnerability in Softpulse Infotech Picsmize allows Upload a Web Shell to a Web Server.This issue affects Picsmize: from n/a through 1.0.0.
+ Unrestricted Upload of File with Dangerous Type vulnerability in softpulseinfotech Picsmize picsmize allows Upload a Web Shell to a Web Server.This issue affects Picsmize: from n/a through = 1.0.0.
 
 
 
@@ -1189,7 +1189,7 @@ You can find more details in  https://cwiki.apache.org/confluence/display/WW/S2
 - [https://github.com/0xshoriful/CVE-2024-52380](https://github.com/0xshoriful/CVE-2024-52380) :  ![starts](https://img.shields.io/github/stars/0xshoriful/CVE-2024-52380.svg) ![forks](https://img.shields.io/github/forks/0xshoriful/CVE-2024-52380.svg)
 
 ## CVE-2024-52375
- Unrestricted Upload of File with Dangerous Type vulnerability in Arttia Creative Datasets Manager by Arttia Creative.This issue affects Datasets Manager by Arttia Creative: from n/a through 1.5.
+ Unrestricted Upload of File with Dangerous Type vulnerability in Arttia Creative Datasets Manager by Arttia Creative datasets-manager-by-arttia-creative.This issue affects Datasets Manager by Arttia Creative: from n/a through = 1.5.
 
 
 
@@ -1345,34 +1345,34 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 - [https://github.com/sfewer-r7/BrotherVulnerabilities](https://github.com/sfewer-r7/BrotherVulnerabilities) :  ![starts](https://img.shields.io/github/stars/sfewer-r7/BrotherVulnerabilities.svg) ![forks](https://img.shields.io/github/forks/sfewer-r7/BrotherVulnerabilities.svg)
 
 ## CVE-2024-51818
- Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in NotFound Fancy Product Designer. This issue affects Fancy Product Designer: from n/a through 6.4.3.
+ Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in radykal Fancy Product Designer fancy-product-designer.This issue affects Fancy Product Designer: from n/a through = 6.4.3.
 
 
 
 - [https://github.com/RandomRobbieBF/CVE-2024-51818](https://github.com/RandomRobbieBF/CVE-2024-51818) :  ![starts](https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-51818.svg) ![forks](https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-51818.svg)
 
 ## CVE-2024-51793
- Unrestricted Upload of File with Dangerous Type vulnerability in Webful Creations Computer Repair Shop allows Upload a Web Shell to a Web Server.This issue affects Computer Repair Shop: from n/a through 3.8115.
+ Unrestricted Upload of File with Dangerous Type vulnerability in Ateeq Rafeeq RepairBuddy computer-repair-shop allows Upload a Web Shell to a Web Server.This issue affects RepairBuddy: from n/a through = 3.8115.
 
 
-
-- [https://github.com/KTN1990/CVE-2024-51793](https://github.com/KTN1990/CVE-2024-51793) :  ![starts](https://img.shields.io/github/stars/KTN1990/CVE-2024-51793.svg) ![forks](https://img.shields.io/github/forks/KTN1990/CVE-2024-51793.svg)
 
 - [https://github.com/Nxploited/CVE-2024-51793](https://github.com/Nxploited/CVE-2024-51793) :  ![starts](https://img.shields.io/github/stars/Nxploited/CVE-2024-51793.svg) ![forks](https://img.shields.io/github/forks/Nxploited/CVE-2024-51793.svg)
+
+- [https://github.com/KTN1990/CVE-2024-51793](https://github.com/KTN1990/CVE-2024-51793) :  ![starts](https://img.shields.io/github/stars/KTN1990/CVE-2024-51793.svg) ![forks](https://img.shields.io/github/forks/KTN1990/CVE-2024-51793.svg)
 
 - [https://github.com/JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-51793](https://github.com/JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-51793) :  ![starts](https://img.shields.io/github/stars/JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-51793.svg) ![forks](https://img.shields.io/github/forks/JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-51793.svg)
 
 - [https://github.com/0axz-tools/CVE-2024-51793](https://github.com/0axz-tools/CVE-2024-51793) :  ![starts](https://img.shields.io/github/stars/0axz-tools/CVE-2024-51793.svg) ![forks](https://img.shields.io/github/forks/0axz-tools/CVE-2024-51793.svg)
 
 ## CVE-2024-51791
- Unrestricted Upload of File with Dangerous Type vulnerability in Made I.T. Forms allows Upload a Web Shell to a Web Server.This issue affects Forms: from n/a through 2.8.0.
+ Unrestricted Upload of File with Dangerous Type vulnerability in Made I.T. Forms forms-by-made-it allows Upload a Web Shell to a Web Server.This issue affects Forms: from n/a through = 2.8.0.
 
 
 
 - [https://github.com/JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-51791](https://github.com/JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-51791) :  ![starts](https://img.shields.io/github/stars/JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-51791.svg) ![forks](https://img.shields.io/github/forks/JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-51791.svg)
 
 ## CVE-2024-51788
- Unrestricted Upload of File with Dangerous Type vulnerability in Joshua Wolfe The Novel Design Store Directory allows Upload a Web Shell to a Web Server.This issue affects The Novel Design Store Directory: from n/a through 4.3.0.
+ Unrestricted Upload of File with Dangerous Type vulnerability in Joshua Wolfe The Novel Design Store Directory noveldesign-store-directory allows Upload a Web Shell to a Web Server.This issue affects The Novel Design Store Directory: from n/a through = 4.3.0.
 
 
 
@@ -1386,7 +1386,7 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 - [https://github.com/l20170217b/CVE-2024-51747](https://github.com/l20170217b/CVE-2024-51747) :  ![starts](https://img.shields.io/github/stars/l20170217b/CVE-2024-51747.svg) ![forks](https://img.shields.io/github/forks/l20170217b/CVE-2024-51747.svg)
 
 ## CVE-2024-51665
- Server-Side Request Forgery (SSRF) vulnerability in Noor alam Magical Addons For Elementor allows Server Side Request Forgery.This issue affects Magical Addons For Elementor: from n/a through 1.2.1.
+ Server-Side Request Forgery (SSRF) vulnerability in Noor Alam Magical Addons For Elementor magical-addons-for-elementor allows Server Side Request Forgery.This issue affects Magical Addons For Elementor: from n/a through = 1.2.1.
 
 
 
@@ -1678,42 +1678,42 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 - [https://github.com/Shahid-BugB/fortinet-cve-2024-50562](https://github.com/Shahid-BugB/fortinet-cve-2024-50562) :  ![starts](https://img.shields.io/github/stars/Shahid-BugB/fortinet-cve-2024-50562.svg) ![forks](https://img.shields.io/github/forks/Shahid-BugB/fortinet-cve-2024-50562.svg)
 
 ## CVE-2024-50526
- Unrestricted Upload of File with Dangerous Type vulnerability in mahlamusa Multi Purpose Mail Form allows Upload a Web Shell to a Web Server.This issue affects Multi Purpose Mail Form: from n/a through 1.0.2.
+ Unrestricted Upload of File with Dangerous Type vulnerability in Lindeni Mahlalela Multi Purpose Mail Form multi-purpose-mail-form allows Upload a Web Shell to a Web Server.This issue affects Multi Purpose Mail Form: from n/a through = 1.0.2.
 
 
 
 - [https://github.com/JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-50526](https://github.com/JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-50526) :  ![starts](https://img.shields.io/github/stars/JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-50526.svg) ![forks](https://img.shields.io/github/forks/JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-50526.svg)
 
 ## CVE-2024-50510
- Unrestricted Upload of File with Dangerous Type vulnerability in Web and Print Design AR For Woocommerce allows Upload a Web Shell to a Web Server.This issue affects AR For Woocommerce: from n/a through 6.2.
+ Unrestricted Upload of File with Dangerous Type vulnerability in webandprint AR For Woocommerce ar-for-woocommerce allows Upload a Web Shell to a Web Server.This issue affects AR For Woocommerce: from n/a through = 6.3.
 
 
 
 - [https://github.com/RandomRobbieBF/CVE-2024-50510](https://github.com/RandomRobbieBF/CVE-2024-50510) :  ![starts](https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-50510.svg) ![forks](https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-50510.svg)
 
 ## CVE-2024-50509
- Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability in Chetan Khandla Woocommerce Product Design allows Path Traversal.This issue affects Woocommerce Product Design: from n/a through 1.0.0.
+ Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability in Chetan Khandla Woocommerce Product Design woo-product-design allows Path Traversal.This issue affects Woocommerce Product Design: from n/a through = 1.0.0.
 
 
 
 - [https://github.com/RandomRobbieBF/CVE-2024-50509](https://github.com/RandomRobbieBF/CVE-2024-50509) :  ![starts](https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-50509.svg) ![forks](https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-50509.svg)
 
 ## CVE-2024-50508
- Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability in Chetan Khandla Woocommerce Product Design allows Path Traversal.This issue affects Woocommerce Product Design: from n/a through 1.0.0.
+ Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability in Chetan Khandla Woocommerce Product Design woo-product-design allows Path Traversal.This issue affects Woocommerce Product Design: from n/a through = 1.0.0.
 
 
 
 - [https://github.com/RandomRobbieBF/CVE-2024-50508](https://github.com/RandomRobbieBF/CVE-2024-50508) :  ![starts](https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-50508.svg) ![forks](https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-50508.svg)
 
 ## CVE-2024-50507
- Deserialization of Untrusted Data vulnerability in Daniel Schmitzer DS.DownloadList allows Object Injection.This issue affects DS.DownloadList: from n/a through 1.3.
+ Deserialization of Untrusted Data vulnerability in Daschmi DS.DownloadList dsdownloadlist allows Object Injection.This issue affects DS.DownloadList: from n/a through = 1.3.
 
 
 
 - [https://github.com/RandomRobbieBF/CVE-2024-50507](https://github.com/RandomRobbieBF/CVE-2024-50507) :  ![starts](https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-50507.svg) ![forks](https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-50507.svg)
 
 ## CVE-2024-50498
- Improper Control of Generation of Code ('Code Injection') vulnerability in LUBUS WP Query Console allows Code Injection.This issue affects WP Query Console: from n/a through 1.0.
+ Improper Control of Generation of Code ('Code Injection') vulnerability in Ajit Bohra WP Query Console wp-query-console allows Code Injection.This issue affects WP Query Console: from n/a through = 1.0.
 
 
 
@@ -1728,56 +1728,56 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 - [https://github.com/androidteacher/CVE-2024-50498-wpquery](https://github.com/androidteacher/CVE-2024-50498-wpquery) :  ![starts](https://img.shields.io/github/stars/androidteacher/CVE-2024-50498-wpquery.svg) ![forks](https://img.shields.io/github/forks/androidteacher/CVE-2024-50498-wpquery.svg)
 
 ## CVE-2024-50493
- Unrestricted Upload of File with Dangerous Type vulnerability in masterhomepage Automatic Translation allows Upload a Web Shell to a Web Server.This issue affects Automatic Translation: from n/a through 1.0.4.
+ Unrestricted Upload of File with Dangerous Type vulnerability in masterhomepage Automatic Translation automatic-translation allows Upload a Web Shell to a Web Server.This issue affects Automatic Translation: from n/a through = 1.0.4.
 
 
 
 - [https://github.com/RandomRobbieBF/CVE-2024-50493](https://github.com/RandomRobbieBF/CVE-2024-50493) :  ![starts](https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-50493.svg) ![forks](https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-50493.svg)
 
 ## CVE-2024-50492
- Improper Control of Generation of Code ('Code Injection') vulnerability in Scott Paterson ScottCart allows Code Injection.This issue affects ScottCart: from n/a through 1.1.
+ Improper Control of Generation of Code ('Code Injection') vulnerability in Scott Paterson ScottCart scottcart allows Code Injection.This issue affects ScottCart: from n/a through = 1.1.
 
 
 
 - [https://github.com/Nxploited/CVE-2024-50492](https://github.com/Nxploited/CVE-2024-50492) :  ![starts](https://img.shields.io/github/stars/Nxploited/CVE-2024-50492.svg) ![forks](https://img.shields.io/github/forks/Nxploited/CVE-2024-50492.svg)
 
 ## CVE-2024-50491
- Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Micah Blu RSVP ME allows SQL Injection.This issue affects RSVP ME: from n/a through 1.9.9.
+ Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in MicahBlu RSVP ME rsvp-me allows SQL Injection.This issue affects RSVP ME: from n/a through = 1.9.9.
 
 
 
 - [https://github.com/RandomRobbieBF/CVE-2024-50491](https://github.com/RandomRobbieBF/CVE-2024-50491) :  ![starts](https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-50491.svg) ![forks](https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-50491.svg)
 
 ## CVE-2024-50490
- Missing Authorization vulnerability in Szabolcs Szecsenyi PegaPoll allows Accessing Functionality Not Properly Constrained by ACLs.This issue affects PegaPoll: from n/a through 1.0.2.
+ Missing Authorization vulnerability in lowcage PegaPoll pegapoll allows Accessing Functionality Not Properly Constrained by ACLs.This issue affects PegaPoll: from n/a through = 1.0.2.
 
 
 
 - [https://github.com/RandomRobbieBF/CVE-2024-50490](https://github.com/RandomRobbieBF/CVE-2024-50490) :  ![starts](https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-50490.svg) ![forks](https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-50490.svg)
 
 ## CVE-2024-50488
- Authentication Bypass Using an Alternate Path or Channel vulnerability in Priyabrata Sarkar Token Login allows Authentication Bypass.This issue affects Token Login: from n/a through 1.0.3.
+ Authentication Bypass Using an Alternate Path or Channel vulnerability in yespbs Token Login token-login allows Authentication Bypass.This issue affects Token Login: from n/a through = 1.0.3.
 
 
 
 - [https://github.com/RandomRobbieBF/CVE-2024-50488](https://github.com/RandomRobbieBF/CVE-2024-50488) :  ![starts](https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-50488.svg) ![forks](https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-50488.svg)
 
 ## CVE-2024-50485
- : Incorrect Privilege Assignment vulnerability in Udit Rawat Exam Matrix allows Privilege Escalation.This issue affects Exam Matrix: from n/a through 1.5.
+ Incorrect Privilege Assignment vulnerability in Udit Rawat Exam Matrix exam-matrix allows Privilege Escalation.This issue affects Exam Matrix: from n/a through = 1.5.
 
 
 
 - [https://github.com/RandomRobbieBF/CVE-2024-50485](https://github.com/RandomRobbieBF/CVE-2024-50485) :  ![starts](https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-50485.svg) ![forks](https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-50485.svg)
 
 ## CVE-2024-50483
- Authorization Bypass Through User-Controlled Key vulnerability in Meetup allows Privilege Escalation.This issue affects Meetup: from n/a through 0.1.
+ Authorization Bypass Through User-Controlled Key vulnerability in Tareq Hasan Meetup meetup allows Privilege Escalation.This issue affects Meetup: from n/a through = 0.1.
 
 
 
 - [https://github.com/RandomRobbieBF/CVE-2024-50483](https://github.com/RandomRobbieBF/CVE-2024-50483) :  ![starts](https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-50483.svg) ![forks](https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-50483.svg)
 
 ## CVE-2024-50482
- Unrestricted Upload of File with Dangerous Type vulnerability in Chetan Khandla Woocommerce Product Design allows Upload a Web Shell to a Web Server.This issue affects Woocommerce Product Design: from n/a through 1.0.0.
+ Unrestricted Upload of File with Dangerous Type vulnerability in Chetan Khandla Woocommerce Product Design woo-product-design allows Upload a Web Shell to a Web Server.This issue affects Woocommerce Product Design: from n/a through = 1.0.0.
 
 
 
@@ -1791,42 +1791,42 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 - [https://github.com/RandomRobbieBF/CVE-2024-50478](https://github.com/RandomRobbieBF/CVE-2024-50478) :  ![starts](https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-50478.svg) ![forks](https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-50478.svg)
 
 ## CVE-2024-50477
- Authentication Bypass Using an Alternate Path or Channel vulnerability in Stacks Stacks Mobile App Builder stacks-mobile-app-builder allows Authentication Bypass.This issue affects Stacks Mobile App Builder: from n/a through 5.2.3.
+ Authentication Bypass Using an Alternate Path or Channel vulnerability in Stacks Stacks Mobile App Builder stacks-mobile-app-builder allows Authentication Bypass.This issue affects Stacks Mobile App Builder: from n/a through = 5.2.3.
 
 
 
 - [https://github.com/RandomRobbieBF/CVE-2024-50477](https://github.com/RandomRobbieBF/CVE-2024-50477) :  ![starts](https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-50477.svg) ![forks](https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-50477.svg)
 
 ## CVE-2024-50476
- Missing Authorization vulnerability in GRÜN Software Group GmbH GRÜN spendino Spendenformular allows Privilege Escalation.This issue affects GRÜN spendino Spendenformular: from n/a through 1.0.1.
+ Missing Authorization vulnerability in GRÜN Software Group GmbH GRÜN spendino Spendenformular spendino allows Privilege Escalation.This issue affects GRÜN spendino Spendenformular: from n/a through = 1.0.1.
 
 
 
 - [https://github.com/RandomRobbieBF/CVE-2024-50476](https://github.com/RandomRobbieBF/CVE-2024-50476) :  ![starts](https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-50476.svg) ![forks](https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-50476.svg)
 
 ## CVE-2024-50475
- Missing Authorization vulnerability in Scott Gamon Signup Page allows Privilege Escalation.This issue affects Signup Page: from n/a through 1.0.
+ Missing Authorization vulnerability in Scott Gamon Signup Page signup-page allows Privilege Escalation.This issue affects Signup Page: from n/a through = 1.0.
 
 
 
 - [https://github.com/RandomRobbieBF/CVE-2024-50475](https://github.com/RandomRobbieBF/CVE-2024-50475) :  ![starts](https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-50475.svg) ![forks](https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-50475.svg)
 
 ## CVE-2024-50473
- Unrestricted Upload of File with Dangerous Type vulnerability in Ajar Productions Ajar in5 Embed allows Upload a Web Shell to a Web Server.This issue affects Ajar in5 Embed: from n/a through 3.1.3.
+ Unrestricted Upload of File with Dangerous Type vulnerability in Ajar Productions Ajar in5 Embed ajar-productions-in5-embed allows Upload a Web Shell to a Web Server.This issue affects Ajar in5 Embed: from n/a through = 3.1.3.
 
 
 
 - [https://github.com/RandomRobbieBF/CVE-2024-50473](https://github.com/RandomRobbieBF/CVE-2024-50473) :  ![starts](https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-50473.svg) ![forks](https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-50473.svg)
 
 ## CVE-2024-50450
- Improper Control of Generation of Code ('Code Injection') vulnerability in realmag777 WordPress Meta Data and Taxonomies Filter (MDTF) allows Code Injection.This issue affects WordPress Meta Data and Taxonomies Filter (MDTF): from n/a through 1.3.3.4.
+ Improper Control of Generation of Code ('Code Injection') vulnerability in RealMag777 MDTF wp-meta-data-filter-and-taxonomy-filter allows Code Injection.This issue affects MDTF: from n/a through = 1.3.3.4.
 
 
 
 - [https://github.com/RandomRobbieBF/CVE-2024-50450](https://github.com/RandomRobbieBF/CVE-2024-50450) :  ![starts](https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-50450.svg) ![forks](https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-50450.svg)
 
 ## CVE-2024-50427
- Unrestricted Upload of File with Dangerous Type vulnerability in Devsoft Baltic OÜ SurveyJS: Drag & Drop WordPress Form Builder.This issue affects SurveyJS: Drag & Drop WordPress Form Builder: from n/a through 1.9.136.
+ Unrestricted Upload of File with Dangerous Type vulnerability in devsoftbaltic SurveyJS surveyjs.This issue affects SurveyJS: from n/a through = 1.9.136.
 
 
 
@@ -1886,9 +1886,9 @@ Users are recommended to upgrade to version 11.0.2, 10.1.34 or 9.0.98, which fix
 
 - [https://github.com/Alchemist3dot14/CVE-2024-50379](https://github.com/Alchemist3dot14/CVE-2024-50379) :  ![starts](https://img.shields.io/github/stars/Alchemist3dot14/CVE-2024-50379.svg) ![forks](https://img.shields.io/github/forks/Alchemist3dot14/CVE-2024-50379.svg)
 
-- [https://github.com/thunww/CVE-2024-50379](https://github.com/thunww/CVE-2024-50379) :  ![starts](https://img.shields.io/github/stars/thunww/CVE-2024-50379.svg) ![forks](https://img.shields.io/github/forks/thunww/CVE-2024-50379.svg)
-
 - [https://github.com/Yuri08loveElaina/CVE-2024-50379](https://github.com/Yuri08loveElaina/CVE-2024-50379) :  ![starts](https://img.shields.io/github/stars/Yuri08loveElaina/CVE-2024-50379.svg) ![forks](https://img.shields.io/github/forks/Yuri08loveElaina/CVE-2024-50379.svg)
+
+- [https://github.com/thunww/CVE-2024-50379](https://github.com/thunww/CVE-2024-50379) :  ![starts](https://img.shields.io/github/stars/thunww/CVE-2024-50379.svg) ![forks](https://img.shields.io/github/forks/thunww/CVE-2024-50379.svg)
 
 - [https://github.com/Yuri08loveElaina/CVE-2024-50379-POC](https://github.com/Yuri08loveElaina/CVE-2024-50379-POC) :  ![starts](https://img.shields.io/github/stars/Yuri08loveElaina/CVE-2024-50379-POC.svg) ![forks](https://img.shields.io/github/forks/Yuri08loveElaina/CVE-2024-50379-POC.svg)
 
@@ -2016,35 +2016,35 @@ Call Trace:
 - [https://github.com/SpiralBL0CK/cve2024-49740](https://github.com/SpiralBL0CK/cve2024-49740) :  ![starts](https://img.shields.io/github/stars/SpiralBL0CK/cve2024-49740.svg) ![forks](https://img.shields.io/github/forks/SpiralBL0CK/cve2024-49740.svg)
 
 ## CVE-2024-49699
- Deserialization of Untrusted Data vulnerability in NotFound ARPrice allows Object Injection. This issue affects ARPrice: from n/a through 4.0.3.
+ Deserialization of Untrusted Data vulnerability in reputeinfosystems ARPrice arprice allows Object Injection.This issue affects ARPrice: from n/a through = 4.1.3.
 
 
 
 - [https://github.com/RandomRobbieBF/CVE-2024-49699](https://github.com/RandomRobbieBF/CVE-2024-49699) :  ![starts](https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-49699.svg) ![forks](https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-49699.svg)
 
 ## CVE-2024-49681
- Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in SWIT WP Sessions Time Monitoring Full Automatic allows SQL Injection.This issue affects WP Sessions Time Monitoring Full Automatic: from n/a through 1.0.9.
+ Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in activity-log.com WP Sessions Time Monitoring Full Automatic activitytime allows SQL Injection.This issue affects WP Sessions Time Monitoring Full Automatic: from n/a through = 1.0.9.
 
 
 
 - [https://github.com/RandomRobbieBF/CVE-2024-49681](https://github.com/RandomRobbieBF/CVE-2024-49681) :  ![starts](https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-49681.svg) ![forks](https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-49681.svg)
 
 ## CVE-2024-49668
- Unrestricted Upload of File with Dangerous Type vulnerability in Admin Verbalize WP Upload a Web Shell to a Web Server.This issue affects Verbalize WP: from n/a through 1.0.
+ Unrestricted Upload of File with Dangerous Type vulnerability in christopherdewese1099 Verbalize WP verbalize-wp allows Upload a Web Shell to a Web Server.This issue affects Verbalize WP: from n/a through = 1.0.
 
 
 
 - [https://github.com/Nxploited/CVE-2024-49668](https://github.com/Nxploited/CVE-2024-49668) :  ![starts](https://img.shields.io/github/stars/Nxploited/CVE-2024-49668.svg) ![forks](https://img.shields.io/github/forks/Nxploited/CVE-2024-49668.svg)
 
 ## CVE-2024-49653
- Unrestricted Upload of File with Dangerous Type vulnerability in James Eggers Portfolleo portfolleo allows Upload a Web Shell to a Web Server.This issue affects Portfolleo: from n/a through 1.2.
+ Unrestricted Upload of File with Dangerous Type vulnerability in james-eggers Portfolleo portfolleo allows Upload a Web Shell to a Web Server.This issue affects Portfolleo: from n/a through = 1.2.
 
 
 
 - [https://github.com/Nxploited/CVE-2024-49653](https://github.com/Nxploited/CVE-2024-49653) :  ![starts](https://img.shields.io/github/stars/Nxploited/CVE-2024-49653.svg) ![forks](https://img.shields.io/github/forks/Nxploited/CVE-2024-49653.svg)
 
 ## CVE-2024-49607
- Unrestricted Upload of File with Dangerous Type vulnerability in Redwan Hilali WP Dropbox Dropins allows Upload a Web Shell to a Web Server.This issue affects WP Dropbox Dropins: from n/a through 1.0.
+ Unrestricted Upload of File with Dangerous Type vulnerability in redhopit WP Dropbox Dropins wp-dropbox-dropins allows Upload a Web Shell to a Web Server.This issue affects WP Dropbox Dropins: from n/a through = 1.0.
 
 
 
@@ -2072,7 +2072,7 @@ Call Trace:
 - [https://github.com/Aashay221999/CVE-2024-49368](https://github.com/Aashay221999/CVE-2024-49368) :  ![starts](https://img.shields.io/github/stars/Aashay221999/CVE-2024-49368.svg) ![forks](https://img.shields.io/github/forks/Aashay221999/CVE-2024-49368.svg)
 
 ## CVE-2024-49328
- Authentication Bypass Using an Alternate Path or Channel vulnerability in Vivek Tamrakar WP REST API FNS allows Authentication Bypass.This issue affects WP REST API FNS: from n/a through 1.0.0.
+ Authentication Bypass Using an Alternate Path or Channel vulnerability in vivek2tamrakar WP REST API FNS rest-api-fns allows Authentication Bypass.This issue affects WP REST API FNS: from n/a through = 1.0.0.
 
 
 
@@ -2202,9 +2202,9 @@ Call Trace:
 
 - [https://github.com/CyberCrowCC/CVE-2024-48990](https://github.com/CyberCrowCC/CVE-2024-48990) :  ![starts](https://img.shields.io/github/stars/CyberCrowCC/CVE-2024-48990.svg) ![forks](https://img.shields.io/github/forks/CyberCrowCC/CVE-2024-48990.svg)
 
-- [https://github.com/grecosamuel/CVE-2024-48990](https://github.com/grecosamuel/CVE-2024-48990) :  ![starts](https://img.shields.io/github/stars/grecosamuel/CVE-2024-48990.svg) ![forks](https://img.shields.io/github/forks/grecosamuel/CVE-2024-48990.svg)
-
 - [https://github.com/felmoltor/CVE-2024-48990](https://github.com/felmoltor/CVE-2024-48990) :  ![starts](https://img.shields.io/github/stars/felmoltor/CVE-2024-48990.svg) ![forks](https://img.shields.io/github/forks/felmoltor/CVE-2024-48990.svg)
+
+- [https://github.com/grecosamuel/CVE-2024-48990](https://github.com/grecosamuel/CVE-2024-48990) :  ![starts](https://img.shields.io/github/stars/grecosamuel/CVE-2024-48990.svg) ![forks](https://img.shields.io/github/forks/grecosamuel/CVE-2024-48990.svg)
 
 - [https://github.com/mladicstefan/CVE-2024-48990](https://github.com/mladicstefan/CVE-2024-48990) :  ![starts](https://img.shields.io/github/stars/mladicstefan/CVE-2024-48990.svg) ![forks](https://img.shields.io/github/forks/mladicstefan/CVE-2024-48990.svg)
 
@@ -2855,7 +2855,7 @@ Users are recommended to upgrade to version 18.12.16, which fixes the issue.
 
 
 
-- [https://github.com/pwnc4t/cve-2024-45496](https://github.com/pwnc4t/cve-2024-45496) :  ![starts](https://img.shields.io/github/stars/pwnc4t/cve-2024-45496.svg) ![forks](https://img.shields.io/github/forks/pwnc4t/cve-2024-45496.svg)
+- [https://github.com/b334r/cve-2024-45496](https://github.com/b334r/cve-2024-45496) :  ![starts](https://img.shields.io/github/stars/b334r/cve-2024-45496.svg) ![forks](https://img.shields.io/github/forks/b334r/cve-2024-45496.svg)
 
 ## CVE-2024-45440
  core/authorize.php in Drupal 11.x-dev allows Full Path Disclosure (even when error logging is None) if the value of hash_salt is file_get_contents of a file that does not exist.
@@ -3294,7 +3294,7 @@ Allocated by task 6166:
 - [https://github.com/CrackerCat/CVE-2024-44083](https://github.com/CrackerCat/CVE-2024-44083) :  ![starts](https://img.shields.io/github/stars/CrackerCat/CVE-2024-44083.svg) ![forks](https://img.shields.io/github/forks/CrackerCat/CVE-2024-44083.svg)
 
 ## CVE-2024-44000
- Insufficiently Protected Credentials vulnerability in LiteSpeed Technologies LiteSpeed Cache allows Authentication Bypass.This issue affects LiteSpeed Cache: from n/a before 6.5.0.1.
+ Insufficiently Protected Credentials vulnerability in LiteSpeed Technologies LiteSpeed Cache litespeed-cache allows Authentication Bypass.This issue affects LiteSpeed Cache: from n/a through  6.5.0.1.
 
 
 
@@ -5261,9 +5261,9 @@ Versions 2.22.6, 2.23.6, 2.24.4, and 2.25.2 contain a patch for the issue. A wor
 
 - [https://github.com/mantanhacker/CVE-2024-36401-MASS](https://github.com/mantanhacker/CVE-2024-36401-MASS) :  ![starts](https://img.shields.io/github/stars/mantanhacker/CVE-2024-36401-MASS.svg) ![forks](https://img.shields.io/github/forks/mantanhacker/CVE-2024-36401-MASS.svg)
 
-- [https://github.com/funnyDog896/CVE-2024-36401-WoodpeckerPlugin](https://github.com/funnyDog896/CVE-2024-36401-WoodpeckerPlugin) :  ![starts](https://img.shields.io/github/stars/funnyDog896/CVE-2024-36401-WoodpeckerPlugin.svg) ![forks](https://img.shields.io/github/forks/funnyDog896/CVE-2024-36401-WoodpeckerPlugin.svg)
-
 - [https://github.com/y1s4s/CVE-2024-36401-PoC](https://github.com/y1s4s/CVE-2024-36401-PoC) :  ![starts](https://img.shields.io/github/stars/y1s4s/CVE-2024-36401-PoC.svg) ![forks](https://img.shields.io/github/forks/y1s4s/CVE-2024-36401-PoC.svg)
+
+- [https://github.com/funnyDog896/CVE-2024-36401-WoodpeckerPlugin](https://github.com/funnyDog896/CVE-2024-36401-WoodpeckerPlugin) :  ![starts](https://img.shields.io/github/stars/funnyDog896/CVE-2024-36401-WoodpeckerPlugin.svg) ![forks](https://img.shields.io/github/forks/funnyDog896/CVE-2024-36401-WoodpeckerPlugin.svg)
 
 - [https://github.com/jakabakos/CVE-2024-36401-GeoServer-RCE](https://github.com/jakabakos/CVE-2024-36401-GeoServer-RCE) :  ![starts](https://img.shields.io/github/stars/jakabakos/CVE-2024-36401-GeoServer-RCE.svg) ![forks](https://img.shields.io/github/forks/jakabakos/CVE-2024-36401-GeoServer-RCE.svg)
 
@@ -5821,7 +5821,7 @@ Users are recommended to upgrade to version 4.0.1 or 3.1.3, which fixes the issu
 - [https://github.com/fuzzlove/soplanning-1.52-exploits](https://github.com/fuzzlove/soplanning-1.52-exploits) :  ![starts](https://img.shields.io/github/stars/fuzzlove/soplanning-1.52-exploits.svg) ![forks](https://img.shields.io/github/forks/fuzzlove/soplanning-1.52-exploits.svg)
 
 ## CVE-2024-33648
- Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Kemory Grubb Recencio Book Reviews allows DOM-Based XSS.This issue affects Recencio Book Reviews: from n/a through 1.66.0.
+ Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Kemory Grubb Recencio Book Reviews recencio-book-reviews allows DOM-Based XSS.This issue affects Recencio Book Reviews: from n/a through = 1.66.0.
 
 
 
@@ -5998,7 +5998,7 @@ Users are recommended to upgrade to version 4.0.1 or 3.1.3, which fixes the issu
 - [https://github.com/absholi7ly/FreeRDP-Out-of-Bounds-Read-CVE-2024-32459-](https://github.com/absholi7ly/FreeRDP-Out-of-Bounds-Read-CVE-2024-32459-) :  ![starts](https://img.shields.io/github/stars/absholi7ly/FreeRDP-Out-of-Bounds-Read-CVE-2024-32459-.svg) ![forks](https://img.shields.io/github/forks/absholi7ly/FreeRDP-Out-of-Bounds-Read-CVE-2024-32459-.svg)
 
 ## CVE-2024-32444
- Incorrect Privilege Assignment vulnerability in InspiryThemes RealHomes allows Privilege Escalation.This issue affects RealHomes: from n/a through 4.3.6.
+ Incorrect Privilege Assignment vulnerability in InspiryThemes RealHomes realhomes allows Privilege Escalation.This issue affects RealHomes: from n/a through = 4.3.6.
 
 
 
@@ -6121,9 +6121,9 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 
 - [https://github.com/hexared/CVE-2024-32019_poc](https://github.com/hexared/CVE-2024-32019_poc) :  ![starts](https://img.shields.io/github/stars/hexared/CVE-2024-32019_poc.svg) ![forks](https://img.shields.io/github/forks/hexared/CVE-2024-32019_poc.svg)
 
-- [https://github.com/juanbelin/CVE-2024-32019-POC](https://github.com/juanbelin/CVE-2024-32019-POC) :  ![starts](https://img.shields.io/github/stars/juanbelin/CVE-2024-32019-POC.svg) ![forks](https://img.shields.io/github/forks/juanbelin/CVE-2024-32019-POC.svg)
-
 - [https://github.com/C0deInBlack/CVE-2024-32019-poc](https://github.com/C0deInBlack/CVE-2024-32019-poc) :  ![starts](https://img.shields.io/github/stars/C0deInBlack/CVE-2024-32019-poc.svg) ![forks](https://img.shields.io/github/forks/C0deInBlack/CVE-2024-32019-poc.svg)
+
+- [https://github.com/juanbelin/CVE-2024-32019-POC](https://github.com/juanbelin/CVE-2024-32019-POC) :  ![starts](https://img.shields.io/github/stars/juanbelin/CVE-2024-32019-POC.svg) ![forks](https://img.shields.io/github/forks/juanbelin/CVE-2024-32019-POC.svg)
 
 - [https://github.com/justjoeyking/CVE-2024-32019-ndsudo](https://github.com/justjoeyking/CVE-2024-32019-ndsudo) :  ![starts](https://img.shields.io/github/stars/justjoeyking/CVE-2024-32019-ndsudo.svg) ![forks](https://img.shields.io/github/forks/justjoeyking/CVE-2024-32019-ndsudo.svg)
 
@@ -6207,13 +6207,13 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 
 - [https://github.com/blackninja23/CVE-2024-32002](https://github.com/blackninja23/CVE-2024-32002) :  ![starts](https://img.shields.io/github/stars/blackninja23/CVE-2024-32002.svg) ![forks](https://img.shields.io/github/forks/blackninja23/CVE-2024-32002.svg)
 
+- [https://github.com/431m/rcetest](https://github.com/431m/rcetest) :  ![starts](https://img.shields.io/github/stars/431m/rcetest.svg) ![forks](https://img.shields.io/github/forks/431m/rcetest.svg)
+
 - [https://github.com/JoaoLeonello/cve-2024-32002-poc](https://github.com/JoaoLeonello/cve-2024-32002-poc) :  ![starts](https://img.shields.io/github/stars/JoaoLeonello/cve-2024-32002-poc.svg) ![forks](https://img.shields.io/github/forks/JoaoLeonello/cve-2024-32002-poc.svg)
 
 - [https://github.com/ControlO8/CVE-2024-32002](https://github.com/ControlO8/CVE-2024-32002) :  ![starts](https://img.shields.io/github/stars/ControlO8/CVE-2024-32002.svg) ![forks](https://img.shields.io/github/forks/ControlO8/CVE-2024-32002.svg)
 
 - [https://github.com/WOOOOONG/CVE-2024-32002](https://github.com/WOOOOONG/CVE-2024-32002) :  ![starts](https://img.shields.io/github/stars/WOOOOONG/CVE-2024-32002.svg) ![forks](https://img.shields.io/github/forks/WOOOOONG/CVE-2024-32002.svg)
-
-- [https://github.com/431m/rcetest](https://github.com/431m/rcetest) :  ![starts](https://img.shields.io/github/stars/431m/rcetest.svg) ![forks](https://img.shields.io/github/forks/431m/rcetest.svg)
 
 - [https://github.com/daemon-reconfig/CVE-2024-32002](https://github.com/daemon-reconfig/CVE-2024-32002) :  ![starts](https://img.shields.io/github/stars/daemon-reconfig/CVE-2024-32002.svg) ![forks](https://img.shields.io/github/forks/daemon-reconfig/CVE-2024-32002.svg)
 
@@ -6233,11 +6233,11 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 
 - [https://github.com/Masamuneee/CVE-2024-32002-POC](https://github.com/Masamuneee/CVE-2024-32002-POC) :  ![starts](https://img.shields.io/github/stars/Masamuneee/CVE-2024-32002-POC.svg) ![forks](https://img.shields.io/github/forks/Masamuneee/CVE-2024-32002-POC.svg)
 
-- [https://github.com/1mxml/CVE-2024-32002-poc](https://github.com/1mxml/CVE-2024-32002-poc) :  ![starts](https://img.shields.io/github/stars/1mxml/CVE-2024-32002-poc.svg) ![forks](https://img.shields.io/github/forks/1mxml/CVE-2024-32002-poc.svg)
-
 - [https://github.com/WOOOOONG/hook](https://github.com/WOOOOONG/hook) :  ![starts](https://img.shields.io/github/stars/WOOOOONG/hook.svg) ![forks](https://img.shields.io/github/forks/WOOOOONG/hook.svg)
 
 - [https://github.com/10cks/CVE-2024-32002-hulk](https://github.com/10cks/CVE-2024-32002-hulk) :  ![starts](https://img.shields.io/github/stars/10cks/CVE-2024-32002-hulk.svg) ![forks](https://img.shields.io/github/forks/10cks/CVE-2024-32002-hulk.svg)
+
+- [https://github.com/1mxml/CVE-2024-32002-poc](https://github.com/1mxml/CVE-2024-32002-poc) :  ![starts](https://img.shields.io/github/stars/1mxml/CVE-2024-32002-poc.svg) ![forks](https://img.shields.io/github/forks/1mxml/CVE-2024-32002-poc.svg)
 
 - [https://github.com/sysonlai/CVE-2024-32002-hook](https://github.com/sysonlai/CVE-2024-32002-hook) :  ![starts](https://img.shields.io/github/stars/sysonlai/CVE-2024-32002-hook.svg) ![forks](https://img.shields.io/github/forks/sysonlai/CVE-2024-32002-hook.svg)
 
@@ -6255,15 +6255,15 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 
 - [https://github.com/O-Carneiro/cve_2024_32002_rce](https://github.com/O-Carneiro/cve_2024_32002_rce) :  ![starts](https://img.shields.io/github/stars/O-Carneiro/cve_2024_32002_rce.svg) ![forks](https://img.shields.io/github/forks/O-Carneiro/cve_2024_32002_rce.svg)
 
+- [https://github.com/ControlO8/CVE-2024-32002-hook](https://github.com/ControlO8/CVE-2024-32002-hook) :  ![starts](https://img.shields.io/github/stars/ControlO8/CVE-2024-32002-hook.svg) ![forks](https://img.shields.io/github/forks/ControlO8/CVE-2024-32002-hook.svg)
+
 - [https://github.com/ashutosh0408/Cve-2024-32002-poc](https://github.com/ashutosh0408/Cve-2024-32002-poc) :  ![starts](https://img.shields.io/github/stars/ashutosh0408/Cve-2024-32002-poc.svg) ![forks](https://img.shields.io/github/forks/ashutosh0408/Cve-2024-32002-poc.svg)
 
 - [https://github.com/srakkk/cve-2024-32002-demo](https://github.com/srakkk/cve-2024-32002-demo) :  ![starts](https://img.shields.io/github/stars/srakkk/cve-2024-32002-demo.svg) ![forks](https://img.shields.io/github/forks/srakkk/cve-2024-32002-demo.svg)
 
-- [https://github.com/ControlO8/CVE-2024-32002-hook](https://github.com/ControlO8/CVE-2024-32002-hook) :  ![starts](https://img.shields.io/github/stars/ControlO8/CVE-2024-32002-hook.svg) ![forks](https://img.shields.io/github/forks/ControlO8/CVE-2024-32002-hook.svg)
+- [https://github.com/10cks/CVE-2024-32002-smash](https://github.com/10cks/CVE-2024-32002-smash) :  ![starts](https://img.shields.io/github/stars/10cks/CVE-2024-32002-smash.svg) ![forks](https://img.shields.io/github/forks/10cks/CVE-2024-32002-smash.svg)
 
 - [https://github.com/fadhilthomas/hook](https://github.com/fadhilthomas/hook) :  ![starts](https://img.shields.io/github/stars/fadhilthomas/hook.svg) ![forks](https://img.shields.io/github/forks/fadhilthomas/hook.svg)
-
-- [https://github.com/10cks/CVE-2024-32002-smash](https://github.com/10cks/CVE-2024-32002-smash) :  ![starts](https://img.shields.io/github/stars/10cks/CVE-2024-32002-smash.svg) ![forks](https://img.shields.io/github/forks/10cks/CVE-2024-32002-smash.svg)
 
 - [https://github.com/10cks/CVE-2024-32002-linux-submod](https://github.com/10cks/CVE-2024-32002-linux-submod) :  ![starts](https://img.shields.io/github/stars/10cks/CVE-2024-32002-linux-submod.svg) ![forks](https://img.shields.io/github/forks/10cks/CVE-2024-32002-linux-submod.svg)
 
@@ -7262,9 +7262,9 @@ Users are recommended to upgrade to version 0.95.0, which fixes the issue.
 
 - [https://github.com/X-Projetion/CVE-2024-27956-WORDPRESS-RCE-PLUGIN](https://github.com/X-Projetion/CVE-2024-27956-WORDPRESS-RCE-PLUGIN) :  ![starts](https://img.shields.io/github/stars/X-Projetion/CVE-2024-27956-WORDPRESS-RCE-PLUGIN.svg) ![forks](https://img.shields.io/github/forks/X-Projetion/CVE-2024-27956-WORDPRESS-RCE-PLUGIN.svg)
 
-- [https://github.com/cve-2024/CVE-2024-27956-RCE](https://github.com/cve-2024/CVE-2024-27956-RCE) :  ![starts](https://img.shields.io/github/stars/cve-2024/CVE-2024-27956-RCE.svg) ![forks](https://img.shields.io/github/forks/cve-2024/CVE-2024-27956-RCE.svg)
-
 - [https://github.com/CERTologists/EXPLOITING-CVE-2024-27956](https://github.com/CERTologists/EXPLOITING-CVE-2024-27956) :  ![starts](https://img.shields.io/github/stars/CERTologists/EXPLOITING-CVE-2024-27956.svg) ![forks](https://img.shields.io/github/forks/CERTologists/EXPLOITING-CVE-2024-27956.svg)
+
+- [https://github.com/cve-2024/CVE-2024-27956-RCE](https://github.com/cve-2024/CVE-2024-27956-RCE) :  ![starts](https://img.shields.io/github/stars/cve-2024/CVE-2024-27956-RCE.svg) ![forks](https://img.shields.io/github/forks/cve-2024/CVE-2024-27956-RCE.svg)
 
 - [https://github.com/m4nInTh3mIdDle/wordpress-CVE-2024-27956](https://github.com/m4nInTh3mIdDle/wordpress-CVE-2024-27956) :  ![starts](https://img.shields.io/github/stars/m4nInTh3mIdDle/wordpress-CVE-2024-27956.svg) ![forks](https://img.shields.io/github/forks/m4nInTh3mIdDle/wordpress-CVE-2024-27956.svg)
 
@@ -7655,9 +7655,9 @@ Users are recommended to upgrade to version 1.3.0 with Java11 & enable the Auth 
 
 - [https://github.com/dbwlsdnr95/CVE-2024-27198](https://github.com/dbwlsdnr95/CVE-2024-27198) :  ![starts](https://img.shields.io/github/stars/dbwlsdnr95/CVE-2024-27198.svg) ![forks](https://img.shields.io/github/forks/dbwlsdnr95/CVE-2024-27198.svg)
 
-- [https://github.com/HPT-Intern-Task-Submission/CVE-2024-27198](https://github.com/HPT-Intern-Task-Submission/CVE-2024-27198) :  ![starts](https://img.shields.io/github/stars/HPT-Intern-Task-Submission/CVE-2024-27198.svg) ![forks](https://img.shields.io/github/forks/HPT-Intern-Task-Submission/CVE-2024-27198.svg)
-
 - [https://github.com/dkhacks/CVE_2024_27198](https://github.com/dkhacks/CVE_2024_27198) :  ![starts](https://img.shields.io/github/stars/dkhacks/CVE_2024_27198.svg) ![forks](https://img.shields.io/github/forks/dkhacks/CVE_2024_27198.svg)
+
+- [https://github.com/HPT-Intern-Task-Submission/CVE-2024-27198](https://github.com/HPT-Intern-Task-Submission/CVE-2024-27198) :  ![starts](https://img.shields.io/github/stars/HPT-Intern-Task-Submission/CVE-2024-27198.svg) ![forks](https://img.shields.io/github/forks/HPT-Intern-Task-Submission/CVE-2024-27198.svg)
 
 - [https://github.com/Cythonic1/CVE-2024-27198_POC](https://github.com/Cythonic1/CVE-2024-27198_POC) :  ![starts](https://img.shields.io/github/stars/Cythonic1/CVE-2024-27198_POC.svg) ![forks](https://img.shields.io/github/forks/Cythonic1/CVE-2024-27198_POC.svg)
 
@@ -8277,11 +8277,11 @@ Users are recommended to upgrade to version 1.26, which fixes the issue.
 
 - [https://github.com/nexblade12/CVE-2024-24919](https://github.com/nexblade12/CVE-2024-24919) :  ![starts](https://img.shields.io/github/stars/nexblade12/CVE-2024-24919.svg) ![forks](https://img.shields.io/github/forks/nexblade12/CVE-2024-24919.svg)
 
-- [https://github.com/fernandobortotti/CVE-2024-24919](https://github.com/fernandobortotti/CVE-2024-24919) :  ![starts](https://img.shields.io/github/stars/fernandobortotti/CVE-2024-24919.svg) ![forks](https://img.shields.io/github/forks/fernandobortotti/CVE-2024-24919.svg)
+- [https://github.com/SalehLardhi/CVE-2024-24919](https://github.com/SalehLardhi/CVE-2024-24919) :  ![starts](https://img.shields.io/github/stars/SalehLardhi/CVE-2024-24919.svg) ![forks](https://img.shields.io/github/forks/SalehLardhi/CVE-2024-24919.svg)
 
 - [https://github.com/0xans/CVE-2024-24919](https://github.com/0xans/CVE-2024-24919) :  ![starts](https://img.shields.io/github/stars/0xans/CVE-2024-24919.svg) ![forks](https://img.shields.io/github/forks/0xans/CVE-2024-24919.svg)
 
-- [https://github.com/SalehLardhi/CVE-2024-24919](https://github.com/SalehLardhi/CVE-2024-24919) :  ![starts](https://img.shields.io/github/stars/SalehLardhi/CVE-2024-24919.svg) ![forks](https://img.shields.io/github/forks/SalehLardhi/CVE-2024-24919.svg)
+- [https://github.com/fernandobortotti/CVE-2024-24919](https://github.com/fernandobortotti/CVE-2024-24919) :  ![starts](https://img.shields.io/github/stars/fernandobortotti/CVE-2024-24919.svg) ![forks](https://img.shields.io/github/forks/fernandobortotti/CVE-2024-24919.svg)
 
 - [https://github.com/0xYumeko/CVE-2024-24919](https://github.com/0xYumeko/CVE-2024-24919) :  ![starts](https://img.shields.io/github/stars/0xYumeko/CVE-2024-24919.svg) ![forks](https://img.shields.io/github/forks/0xYumeko/CVE-2024-24919.svg)
 
@@ -8315,9 +8315,9 @@ Users are recommended to upgrade to version 1.26, which fixes the issue.
 
 - [https://github.com/H3KEY/CVE-2024-24919](https://github.com/H3KEY/CVE-2024-24919) :  ![starts](https://img.shields.io/github/stars/H3KEY/CVE-2024-24919.svg) ![forks](https://img.shields.io/github/forks/H3KEY/CVE-2024-24919.svg)
 
-- [https://github.com/YN1337/CVE-2024-24919](https://github.com/YN1337/CVE-2024-24919) :  ![starts](https://img.shields.io/github/stars/YN1337/CVE-2024-24919.svg) ![forks](https://img.shields.io/github/forks/YN1337/CVE-2024-24919.svg)
-
 - [https://github.com/Jutrm/cve-2024-24919](https://github.com/Jutrm/cve-2024-24919) :  ![starts](https://img.shields.io/github/stars/Jutrm/cve-2024-24919.svg) ![forks](https://img.shields.io/github/forks/Jutrm/cve-2024-24919.svg)
+
+- [https://github.com/YN1337/CVE-2024-24919](https://github.com/YN1337/CVE-2024-24919) :  ![starts](https://img.shields.io/github/stars/YN1337/CVE-2024-24919.svg) ![forks](https://img.shields.io/github/forks/YN1337/CVE-2024-24919.svg)
 
 - [https://github.com/P3wc0/CVE-2024-24919](https://github.com/P3wc0/CVE-2024-24919) :  ![starts](https://img.shields.io/github/stars/P3wc0/CVE-2024-24919.svg) ![forks](https://img.shields.io/github/forks/P3wc0/CVE-2024-24919.svg)
 
@@ -8862,9 +8862,9 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 
 - [https://github.com/brandonhjh/Jenkins-CVE-2024-23897-Exploit-Demo](https://github.com/brandonhjh/Jenkins-CVE-2024-23897-Exploit-Demo) :  ![starts](https://img.shields.io/github/stars/brandonhjh/Jenkins-CVE-2024-23897-Exploit-Demo.svg) ![forks](https://img.shields.io/github/forks/brandonhjh/Jenkins-CVE-2024-23897-Exploit-Demo.svg)
 
-- [https://github.com/Surko888/Surko-Exploit-Jenkins-CVE-2024-23897](https://github.com/Surko888/Surko-Exploit-Jenkins-CVE-2024-23897) :  ![starts](https://img.shields.io/github/stars/Surko888/Surko-Exploit-Jenkins-CVE-2024-23897.svg) ![forks](https://img.shields.io/github/forks/Surko888/Surko-Exploit-Jenkins-CVE-2024-23897.svg)
-
 - [https://github.com/classic130/CVE-2024-23897-Jenkins-4.441](https://github.com/classic130/CVE-2024-23897-Jenkins-4.441) :  ![starts](https://img.shields.io/github/stars/classic130/CVE-2024-23897-Jenkins-4.441.svg) ![forks](https://img.shields.io/github/forks/classic130/CVE-2024-23897-Jenkins-4.441.svg)
+
+- [https://github.com/Surko888/Surko-Exploit-Jenkins-CVE-2024-23897](https://github.com/Surko888/Surko-Exploit-Jenkins-CVE-2024-23897) :  ![starts](https://img.shields.io/github/stars/Surko888/Surko-Exploit-Jenkins-CVE-2024-23897.svg) ![forks](https://img.shields.io/github/forks/Surko888/Surko-Exploit-Jenkins-CVE-2024-23897.svg)
 
 - [https://github.com/amalpvatayam67/day03-jenkins-23897](https://github.com/amalpvatayam67/day03-jenkins-23897) :  ![starts](https://img.shields.io/github/stars/amalpvatayam67/day03-jenkins-23897.svg) ![forks](https://img.shields.io/github/forks/amalpvatayam67/day03-jenkins-23897.svg)
 
@@ -9469,7 +9469,7 @@ at least version 7.4.0 and 7.2.0 through 7.2.6 and 7.0.1 through 7.0.6 and 6.4.5
 
 
 
-- [https://github.com/mindstorm38/ensimag-secu3a-cve-2024-22416](https://github.com/mindstorm38/ensimag-secu3a-cve-2024-22416) :  ![starts](https://img.shields.io/github/stars/mindstorm38/ensimag-secu3a-cve-2024-22416.svg) ![forks](https://img.shields.io/github/forks/mindstorm38/ensimag-secu3a-cve-2024-22416.svg)
+- [https://github.com/theorzr/ensimag-secu3a-cve-2024-22416](https://github.com/theorzr/ensimag-secu3a-cve-2024-22416) :  ![starts](https://img.shields.io/github/stars/theorzr/ensimag-secu3a-cve-2024-22416.svg) ![forks](https://img.shields.io/github/forks/theorzr/ensimag-secu3a-cve-2024-22416.svg)
 
 ## CVE-2024-22411
  Avo is a framework to create admin panels for Ruby on Rails apps. In Avo 3 pre12, any HTML inside text that is passed to `error` or `succeed` in an `Avo::BaseAction` subclass will be rendered directly without sanitization in the toast/notification that appears in the UI on Action completion. A malicious user could exploit this vulnerability to trigger a cross site scripting attack on an unsuspecting user. This issue has been addressed in the 3.3.0 and 2.47.0 releases of Avo. Users are advised to upgrade.
@@ -9594,7 +9594,7 @@ An application is not vulnerable if any of the following is true:
 - [https://github.com/xiw1ll/CVE-2024-22198_Checker](https://github.com/xiw1ll/CVE-2024-22198_Checker) :  ![starts](https://img.shields.io/github/stars/xiw1ll/CVE-2024-22198_Checker.svg) ![forks](https://img.shields.io/github/forks/xiw1ll/CVE-2024-22198_Checker.svg)
 
 ## CVE-2024-22145
- Improper Privilege Management vulnerability in InstaWP Team InstaWP Connect allows Privilege Escalation.This issue affects InstaWP Connect: from n/a through 0.1.0.8.
+ Incorrect Privilege Assignment vulnerability in InstaWP InstaWP Connect instawp-connect.This issue affects InstaWP Connect: from n/a through = 0.1.0.8.
 
 
 
@@ -11119,9 +11119,9 @@ when someone on the local network repeatedly requests the /accessdenied URL.
 
 - [https://github.com/filipzag/CVE-2024-10220](https://github.com/filipzag/CVE-2024-10220) :  ![starts](https://img.shields.io/github/stars/filipzag/CVE-2024-10220.svg) ![forks](https://img.shields.io/github/forks/filipzag/CVE-2024-10220.svg)
 
-- [https://github.com/orgC/CVE-2024-10220-demo](https://github.com/orgC/CVE-2024-10220-demo) :  ![starts](https://img.shields.io/github/stars/orgC/CVE-2024-10220-demo.svg) ![forks](https://img.shields.io/github/forks/orgC/CVE-2024-10220-demo.svg)
-
 - [https://github.com/imohammed28/cve-2024-10220-test](https://github.com/imohammed28/cve-2024-10220-test) :  ![starts](https://img.shields.io/github/stars/imohammed28/cve-2024-10220-test.svg) ![forks](https://img.shields.io/github/forks/imohammed28/cve-2024-10220-test.svg)
+
+- [https://github.com/orgC/CVE-2024-10220-demo](https://github.com/orgC/CVE-2024-10220-demo) :  ![starts](https://img.shields.io/github/stars/orgC/CVE-2024-10220-demo.svg) ![forks](https://img.shields.io/github/forks/orgC/CVE-2024-10220-demo.svg)
 
 - [https://github.com/saleha-muzammil/cve-2024-10220-git-on-git](https://github.com/saleha-muzammil/cve-2024-10220-git-on-git) :  ![starts](https://img.shields.io/github/stars/saleha-muzammil/cve-2024-10220-git-on-git.svg) ![forks](https://img.shields.io/github/forks/saleha-muzammil/cve-2024-10220-git-on-git.svg)
 
@@ -11919,7 +11919,7 @@ The issue was partially fixed in version 2.3.8 and fully fixed in 2.3.9
 
 
 
-- [https://github.com/pwnc4t/cve-2024-7387](https://github.com/pwnc4t/cve-2024-7387) :  ![starts](https://img.shields.io/github/stars/pwnc4t/cve-2024-7387.svg) ![forks](https://img.shields.io/github/forks/pwnc4t/cve-2024-7387.svg)
+- [https://github.com/b334r/cve-2024-7387](https://github.com/b334r/cve-2024-7387) :  ![starts](https://img.shields.io/github/stars/b334r/cve-2024-7387.svg) ![forks](https://img.shields.io/github/forks/b334r/cve-2024-7387.svg)
 
 ## CVE-2024-7339
  A vulnerability has been found in TVT DVR TD-2104TS-CL, DVR TD-2108TS-HP, Provision-ISR DVR SH-4050A5-5L(MM) and AVISION DVR AV108T and classified as problematic. This vulnerability affects unknown code of the file /queryDevInfo. The manipulation leads to information disclosure. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. VDB-273262 is the identifier assigned to this vulnerability. NOTE: The vendor was contacted early about this disclosure but did not respond in any way.
@@ -12292,9 +12292,9 @@ This issue affects Authentication Gateway: through 12.10.2.
 
 - [https://github.com/jack0we/CVE-2024-6387](https://github.com/jack0we/CVE-2024-6387) :  ![starts](https://img.shields.io/github/stars/jack0we/CVE-2024-6387.svg) ![forks](https://img.shields.io/github/forks/jack0we/CVE-2024-6387.svg)
 
-- [https://github.com/dream434/CVE-2024-6387](https://github.com/dream434/CVE-2024-6387) :  ![starts](https://img.shields.io/github/stars/dream434/CVE-2024-6387.svg) ![forks](https://img.shields.io/github/forks/dream434/CVE-2024-6387.svg)
-
 - [https://github.com/imv7/CVE-2024-6387](https://github.com/imv7/CVE-2024-6387) :  ![starts](https://img.shields.io/github/stars/imv7/CVE-2024-6387.svg) ![forks](https://img.shields.io/github/forks/imv7/CVE-2024-6387.svg)
+
+- [https://github.com/dream434/CVE-2024-6387](https://github.com/dream434/CVE-2024-6387) :  ![starts](https://img.shields.io/github/stars/dream434/CVE-2024-6387.svg) ![forks](https://img.shields.io/github/forks/dream434/CVE-2024-6387.svg)
 
 - [https://github.com/kaleth4/CVE-2024-6387](https://github.com/kaleth4/CVE-2024-6387) :  ![starts](https://img.shields.io/github/stars/kaleth4/CVE-2024-6387.svg) ![forks](https://img.shields.io/github/forks/kaleth4/CVE-2024-6387.svg)
 
@@ -12312,15 +12312,15 @@ This issue affects Authentication Gateway: through 12.10.2.
 
 - [https://github.com/Doux-x/CVE-2024-6387-analysis](https://github.com/Doux-x/CVE-2024-6387-analysis) :  ![starts](https://img.shields.io/github/stars/Doux-x/CVE-2024-6387-analysis.svg) ![forks](https://img.shields.io/github/forks/Doux-x/CVE-2024-6387-analysis.svg)
 
-- [https://github.com/HadesNull123/CVE-2024-6387_Check](https://github.com/HadesNull123/CVE-2024-6387_Check) :  ![starts](https://img.shields.io/github/stars/HadesNull123/CVE-2024-6387_Check.svg) ![forks](https://img.shields.io/github/forks/HadesNull123/CVE-2024-6387_Check.svg)
-
 - [https://github.com/RickGeex/CVE-2024-6387-Checker](https://github.com/RickGeex/CVE-2024-6387-Checker) :  ![starts](https://img.shields.io/github/stars/RickGeex/CVE-2024-6387-Checker.svg) ![forks](https://img.shields.io/github/forks/RickGeex/CVE-2024-6387-Checker.svg)
+
+- [https://github.com/HadesNull123/CVE-2024-6387_Check](https://github.com/HadesNull123/CVE-2024-6387_Check) :  ![starts](https://img.shields.io/github/stars/HadesNull123/CVE-2024-6387_Check.svg) ![forks](https://img.shields.io/github/forks/HadesNull123/CVE-2024-6387_Check.svg)
 
 - [https://github.com/zenzue/CVE-2024-6387-Mitigation](https://github.com/zenzue/CVE-2024-6387-Mitigation) :  ![starts](https://img.shields.io/github/stars/zenzue/CVE-2024-6387-Mitigation.svg) ![forks](https://img.shields.io/github/forks/zenzue/CVE-2024-6387-Mitigation.svg)
 
-- [https://github.com/jocker2410/CVE-2024-6387_poc](https://github.com/jocker2410/CVE-2024-6387_poc) :  ![starts](https://img.shields.io/github/stars/jocker2410/CVE-2024-6387_poc.svg) ![forks](https://img.shields.io/github/forks/jocker2410/CVE-2024-6387_poc.svg)
-
 - [https://github.com/dgourillon/mitigate-CVE-2024-6387](https://github.com/dgourillon/mitigate-CVE-2024-6387) :  ![starts](https://img.shields.io/github/stars/dgourillon/mitigate-CVE-2024-6387.svg) ![forks](https://img.shields.io/github/forks/dgourillon/mitigate-CVE-2024-6387.svg)
+
+- [https://github.com/jocker2410/CVE-2024-6387_poc](https://github.com/jocker2410/CVE-2024-6387_poc) :  ![starts](https://img.shields.io/github/stars/jocker2410/CVE-2024-6387_poc.svg) ![forks](https://img.shields.io/github/forks/jocker2410/CVE-2024-6387_poc.svg)
 
 - [https://github.com/SkyGodling/CVE-2024-6387-POC](https://github.com/SkyGodling/CVE-2024-6387-POC) :  ![starts](https://img.shields.io/github/stars/SkyGodling/CVE-2024-6387-POC.svg) ![forks](https://img.shields.io/github/forks/SkyGodling/CVE-2024-6387-POC.svg)
 
@@ -12515,9 +12515,9 @@ Note: Expedition is a tool aiding in configuration migration, tuning, and enrich
 
 - [https://github.com/l00neyhacker/CVE-2024-57754](https://github.com/l00neyhacker/CVE-2024-57754) :  ![starts](https://img.shields.io/github/stars/l00neyhacker/CVE-2024-57754.svg) ![forks](https://img.shields.io/github/forks/l00neyhacker/CVE-2024-57754.svg)
 
-- [https://github.com/l00neyhacker/CVE-2024-57750](https://github.com/l00neyhacker/CVE-2024-57750) :  ![starts](https://img.shields.io/github/stars/l00neyhacker/CVE-2024-57750.svg) ![forks](https://img.shields.io/github/forks/l00neyhacker/CVE-2024-57750.svg)
-
 - [https://github.com/l00neyhacker/CVE-2024-57756](https://github.com/l00neyhacker/CVE-2024-57756) :  ![starts](https://img.shields.io/github/stars/l00neyhacker/CVE-2024-57756.svg) ![forks](https://img.shields.io/github/forks/l00neyhacker/CVE-2024-57756.svg)
+
+- [https://github.com/l00neyhacker/CVE-2024-57750](https://github.com/l00neyhacker/CVE-2024-57750) :  ![starts](https://img.shields.io/github/stars/l00neyhacker/CVE-2024-57750.svg) ![forks](https://img.shields.io/github/forks/l00neyhacker/CVE-2024-57750.svg)
 
 - [https://github.com/l00neyhacker/CVE-2024-57753](https://github.com/l00neyhacker/CVE-2024-57753) :  ![starts](https://img.shields.io/github/stars/l00neyhacker/CVE-2024-57753.svg) ![forks](https://img.shields.io/github/forks/l00neyhacker/CVE-2024-57753.svg)
 
@@ -12663,9 +12663,9 @@ become available.
 
 
 
-- [https://github.com/mallo-m/CVE-2024-55187](https://github.com/mallo-m/CVE-2024-55187) :  ![starts](https://img.shields.io/github/stars/mallo-m/CVE-2024-55187.svg) ![forks](https://img.shields.io/github/forks/mallo-m/CVE-2024-55187.svg)
-
 - [https://github.com/MernJsb/CVE-2024-55182](https://github.com/MernJsb/CVE-2024-55182) :  ![starts](https://img.shields.io/github/stars/MernJsb/CVE-2024-55182.svg) ![forks](https://img.shields.io/github/forks/MernJsb/CVE-2024-55182.svg)
+
+- [https://github.com/mallo-m/CVE-2024-55187](https://github.com/mallo-m/CVE-2024-55187) :  ![starts](https://img.shields.io/github/stars/mallo-m/CVE-2024-55187.svg) ![forks](https://img.shields.io/github/forks/mallo-m/CVE-2024-55187.svg)
 
 ## CVE-2024-5476
  ** RESERVED ** This candidate has been reserved by an organization or individual that will use it when announcing a new security problem. When the candidate has been publicized, the details for this candidate will be provided.
@@ -12794,9 +12794,9 @@ The specific flaw exists within the handling of DNS names. The issue results fro
 
 - [https://github.com/KTN1990/CVE-2024-5084](https://github.com/KTN1990/CVE-2024-5084) :  ![starts](https://img.shields.io/github/stars/KTN1990/CVE-2024-5084.svg) ![forks](https://img.shields.io/github/forks/KTN1990/CVE-2024-5084.svg)
 
-- [https://github.com/Raeezrbr/CVE-2024-5084](https://github.com/Raeezrbr/CVE-2024-5084) :  ![starts](https://img.shields.io/github/stars/Raeezrbr/CVE-2024-5084.svg) ![forks](https://img.shields.io/github/forks/Raeezrbr/CVE-2024-5084.svg)
-
 - [https://github.com/NanoWraith/CVE-2024-5084](https://github.com/NanoWraith/CVE-2024-5084) :  ![starts](https://img.shields.io/github/stars/NanoWraith/CVE-2024-5084.svg) ![forks](https://img.shields.io/github/forks/NanoWraith/CVE-2024-5084.svg)
+
+- [https://github.com/Raeezrbr/CVE-2024-5084](https://github.com/Raeezrbr/CVE-2024-5084) :  ![starts](https://img.shields.io/github/stars/Raeezrbr/CVE-2024-5084.svg) ![forks](https://img.shields.io/github/forks/Raeezrbr/CVE-2024-5084.svg)
 
 - [https://github.com/ModeBrutal/CVE-2024-5084-Auto-Exploit](https://github.com/ModeBrutal/CVE-2024-5084-Auto-Exploit) :  ![starts](https://img.shields.io/github/stars/ModeBrutal/CVE-2024-5084-Auto-Exploit.svg) ![forks](https://img.shields.io/github/forks/ModeBrutal/CVE-2024-5084-Auto-Exploit.svg)
 
@@ -12831,11 +12831,11 @@ This issue affects Nexus Repository 2 OSS/Pro versions up to and including 2.15.
 
 - [https://github.com/xungzzz/CVE-2024-4956](https://github.com/xungzzz/CVE-2024-4956) :  ![starts](https://img.shields.io/github/stars/xungzzz/CVE-2024-4956.svg) ![forks](https://img.shields.io/github/forks/xungzzz/CVE-2024-4956.svg)
 
+- [https://github.com/GoatSecurity/CVE-2024-4956](https://github.com/GoatSecurity/CVE-2024-4956) :  ![starts](https://img.shields.io/github/stars/GoatSecurity/CVE-2024-4956.svg) ![forks](https://img.shields.io/github/forks/GoatSecurity/CVE-2024-4956.svg)
+
 - [https://github.com/erickfernandox/CVE-2024-4956](https://github.com/erickfernandox/CVE-2024-4956) :  ![starts](https://img.shields.io/github/stars/erickfernandox/CVE-2024-4956.svg) ![forks](https://img.shields.io/github/forks/erickfernandox/CVE-2024-4956.svg)
 
 - [https://github.com/Cappricio-Securities/CVE-2024-4956](https://github.com/Cappricio-Securities/CVE-2024-4956) :  ![starts](https://img.shields.io/github/stars/Cappricio-Securities/CVE-2024-4956.svg) ![forks](https://img.shields.io/github/forks/Cappricio-Securities/CVE-2024-4956.svg)
-
-- [https://github.com/GoatSecurity/CVE-2024-4956](https://github.com/GoatSecurity/CVE-2024-4956) :  ![starts](https://img.shields.io/github/stars/GoatSecurity/CVE-2024-4956.svg) ![forks](https://img.shields.io/github/forks/GoatSecurity/CVE-2024-4956.svg)
 
 - [https://github.com/gmh5225/CVE-2024-4956](https://github.com/gmh5225/CVE-2024-4956) :  ![starts](https://img.shields.io/github/stars/gmh5225/CVE-2024-4956.svg) ![forks](https://img.shields.io/github/forks/gmh5225/CVE-2024-4956.svg)
 
@@ -13082,19 +13082,19 @@ WhatsUp.ExportUtilities.Export.GetFileWithoutZip
 
 - [https://github.com/tpdlshdmlrkfmcla/php-cgi-cve-2024-4577](https://github.com/tpdlshdmlrkfmcla/php-cgi-cve-2024-4577) :  ![starts](https://img.shields.io/github/stars/tpdlshdmlrkfmcla/php-cgi-cve-2024-4577.svg) ![forks](https://img.shields.io/github/forks/tpdlshdmlrkfmcla/php-cgi-cve-2024-4577.svg)
 
-- [https://github.com/bl4cksku11/CVE-2024-4577](https://github.com/bl4cksku11/CVE-2024-4577) :  ![starts](https://img.shields.io/github/stars/bl4cksku11/CVE-2024-4577.svg) ![forks](https://img.shields.io/github/forks/bl4cksku11/CVE-2024-4577.svg)
-
 - [https://github.com/dbyMelina/CVE-2024-4577](https://github.com/dbyMelina/CVE-2024-4577) :  ![starts](https://img.shields.io/github/stars/dbyMelina/CVE-2024-4577.svg) ![forks](https://img.shields.io/github/forks/dbyMelina/CVE-2024-4577.svg)
 
 - [https://github.com/a-roshbaik/CVE-2024-4577](https://github.com/a-roshbaik/CVE-2024-4577) :  ![starts](https://img.shields.io/github/stars/a-roshbaik/CVE-2024-4577.svg) ![forks](https://img.shields.io/github/forks/a-roshbaik/CVE-2024-4577.svg)
 
-- [https://github.com/Jcccccx/CVE-2024-4577](https://github.com/Jcccccx/CVE-2024-4577) :  ![starts](https://img.shields.io/github/stars/Jcccccx/CVE-2024-4577.svg) ![forks](https://img.shields.io/github/forks/Jcccccx/CVE-2024-4577.svg)
+- [https://github.com/bl4cksku11/CVE-2024-4577](https://github.com/bl4cksku11/CVE-2024-4577) :  ![starts](https://img.shields.io/github/stars/bl4cksku11/CVE-2024-4577.svg) ![forks](https://img.shields.io/github/forks/bl4cksku11/CVE-2024-4577.svg)
 
 - [https://github.com/Skycritch/CVE-2024-4577](https://github.com/Skycritch/CVE-2024-4577) :  ![starts](https://img.shields.io/github/stars/Skycritch/CVE-2024-4577.svg) ![forks](https://img.shields.io/github/forks/Skycritch/CVE-2024-4577.svg)
 
 - [https://github.com/princew88/CVE-2024-4577](https://github.com/princew88/CVE-2024-4577) :  ![starts](https://img.shields.io/github/stars/princew88/CVE-2024-4577.svg) ![forks](https://img.shields.io/github/forks/princew88/CVE-2024-4577.svg)
 
 - [https://github.com/Didarul342/CVE-2024-4577](https://github.com/Didarul342/CVE-2024-4577) :  ![starts](https://img.shields.io/github/stars/Didarul342/CVE-2024-4577.svg) ![forks](https://img.shields.io/github/forks/Didarul342/CVE-2024-4577.svg)
+
+- [https://github.com/Jcccccx/CVE-2024-4577](https://github.com/Jcccccx/CVE-2024-4577) :  ![starts](https://img.shields.io/github/stars/Jcccccx/CVE-2024-4577.svg) ![forks](https://img.shields.io/github/forks/Jcccccx/CVE-2024-4577.svg)
 
 - [https://github.com/KimJuhyeong95/cve-2024-4577](https://github.com/KimJuhyeong95/cve-2024-4577) :  ![starts](https://img.shields.io/github/stars/KimJuhyeong95/cve-2024-4577.svg) ![forks](https://img.shields.io/github/forks/KimJuhyeong95/cve-2024-4577.svg)
 
@@ -13323,9 +13323,9 @@ Successful exploitation of this vulnerability could allow the attacker to gain u
 
 
 
-- [https://github.com/Redfox-Security/Digisol-DG--GR1321-s-Password-Storage-in-Plaintext--CVE-2024-4232](https://github.com/Redfox-Security/Digisol-DG--GR1321-s-Password-Storage-in-Plaintext--CVE-2024-4232) :  ![starts](https://img.shields.io/github/stars/Redfox-Security/Digisol-DG--GR1321-s-Password-Storage-in-Plaintext--CVE-2024-4232.svg) ![forks](https://img.shields.io/github/forks/Redfox-Security/Digisol-DG--GR1321-s-Password-Storage-in-Plaintext--CVE-2024-4232.svg)
-
 - [https://github.com/Redfox-Security/Digisol-DG-GR1321-s-Password-Storage-in-Plaintext-CVE-2024-4232](https://github.com/Redfox-Security/Digisol-DG-GR1321-s-Password-Storage-in-Plaintext-CVE-2024-4232) :  ![starts](https://img.shields.io/github/stars/Redfox-Security/Digisol-DG-GR1321-s-Password-Storage-in-Plaintext-CVE-2024-4232.svg) ![forks](https://img.shields.io/github/forks/Redfox-Security/Digisol-DG-GR1321-s-Password-Storage-in-Plaintext-CVE-2024-4232.svg)
+
+- [https://github.com/Redfox-Security/Digisol-DG--GR1321-s-Password-Storage-in-Plaintext--CVE-2024-4232](https://github.com/Redfox-Security/Digisol-DG--GR1321-s-Password-Storage-in-Plaintext--CVE-2024-4232) :  ![starts](https://img.shields.io/github/stars/Redfox-Security/Digisol-DG--GR1321-s-Password-Storage-in-Plaintext--CVE-2024-4232.svg) ![forks](https://img.shields.io/github/forks/Redfox-Security/Digisol-DG--GR1321-s-Password-Storage-in-Plaintext--CVE-2024-4232.svg)
 
 ## CVE-2024-4231
  This vulnerability exists in Digisol Router (DG-GR1321: Hardware version 3.7L;  Firmware version : v3.2.02) due to presence of root terminal access on a serial interface without proper access control. An attacker with physical access could exploit this by identifying UART pins and accessing the root shell on the vulnerable system.
@@ -13662,19 +13662,17 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 
 - [https://github.com/tfrederick74656/cve-2024-3400-poc](https://github.com/tfrederick74656/cve-2024-3400-poc) :  ![starts](https://img.shields.io/github/stars/tfrederick74656/cve-2024-3400-poc.svg) ![forks](https://img.shields.io/github/forks/tfrederick74656/cve-2024-3400-poc.svg)
 
-- [https://github.com/Kr0ff/cve-2024-3400](https://github.com/Kr0ff/cve-2024-3400) :  ![starts](https://img.shields.io/github/stars/Kr0ff/cve-2024-3400.svg) ![forks](https://img.shields.io/github/forks/Kr0ff/cve-2024-3400.svg)
+- [https://github.com/FoxyProxys/CVE-2024-3400](https://github.com/FoxyProxys/CVE-2024-3400) :  ![starts](https://img.shields.io/github/stars/FoxyProxys/CVE-2024-3400.svg) ![forks](https://img.shields.io/github/forks/FoxyProxys/CVE-2024-3400.svg)
 
 - [https://github.com/LoanVitor/CVE-2024-3400-](https://github.com/LoanVitor/CVE-2024-3400-) :  ![starts](https://img.shields.io/github/stars/LoanVitor/CVE-2024-3400-.svg) ![forks](https://img.shields.io/github/forks/LoanVitor/CVE-2024-3400-.svg)
 
 - [https://github.com/workshop748/CVE-2024-3400](https://github.com/workshop748/CVE-2024-3400) :  ![starts](https://img.shields.io/github/stars/workshop748/CVE-2024-3400.svg) ![forks](https://img.shields.io/github/forks/workshop748/CVE-2024-3400.svg)
 
-- [https://github.com/FoxyProxys/CVE-2024-3400](https://github.com/FoxyProxys/CVE-2024-3400) :  ![starts](https://img.shields.io/github/stars/FoxyProxys/CVE-2024-3400.svg) ![forks](https://img.shields.io/github/forks/FoxyProxys/CVE-2024-3400.svg)
-
 - [https://github.com/nanwinata/CVE-2024-3400](https://github.com/nanwinata/CVE-2024-3400) :  ![starts](https://img.shields.io/github/stars/nanwinata/CVE-2024-3400.svg) ![forks](https://img.shields.io/github/forks/nanwinata/CVE-2024-3400.svg)
 
 - [https://github.com/Ravaan21/CVE-2024-3400](https://github.com/Ravaan21/CVE-2024-3400) :  ![starts](https://img.shields.io/github/stars/Ravaan21/CVE-2024-3400.svg) ![forks](https://img.shields.io/github/forks/Ravaan21/CVE-2024-3400.svg)
 
-- [https://github.com/MrR0b0t19/CVE-2024-3400](https://github.com/MrR0b0t19/CVE-2024-3400) :  ![starts](https://img.shields.io/github/stars/MrR0b0t19/CVE-2024-3400.svg) ![forks](https://img.shields.io/github/forks/MrR0b0t19/CVE-2024-3400.svg)
+- [https://github.com/Kr0ff/cve-2024-3400](https://github.com/Kr0ff/cve-2024-3400) :  ![starts](https://img.shields.io/github/stars/Kr0ff/cve-2024-3400.svg) ![forks](https://img.shields.io/github/forks/Kr0ff/cve-2024-3400.svg)
 
 - [https://github.com/codeblueprint/CVE-2024-3400](https://github.com/codeblueprint/CVE-2024-3400) :  ![starts](https://img.shields.io/github/stars/codeblueprint/CVE-2024-3400.svg) ![forks](https://img.shields.io/github/forks/codeblueprint/CVE-2024-3400.svg)
 
@@ -13684,15 +13682,17 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 
 - [https://github.com/andrelia-hacks/CVE-2024-3400](https://github.com/andrelia-hacks/CVE-2024-3400) :  ![starts](https://img.shields.io/github/stars/andrelia-hacks/CVE-2024-3400.svg) ![forks](https://img.shields.io/github/forks/andrelia-hacks/CVE-2024-3400.svg)
 
+- [https://github.com/MrR0b0t19/CVE-2024-3400](https://github.com/MrR0b0t19/CVE-2024-3400) :  ![starts](https://img.shields.io/github/stars/MrR0b0t19/CVE-2024-3400.svg) ![forks](https://img.shields.io/github/forks/MrR0b0t19/CVE-2024-3400.svg)
+
 - [https://github.com/hahasagined/CVE-2024-3400](https://github.com/hahasagined/CVE-2024-3400) :  ![starts](https://img.shields.io/github/stars/hahasagined/CVE-2024-3400.svg) ![forks](https://img.shields.io/github/forks/hahasagined/CVE-2024-3400.svg)
 
 - [https://github.com/terminalJunki3/CVE-2024-3400-Checker](https://github.com/terminalJunki3/CVE-2024-3400-Checker) :  ![starts](https://img.shields.io/github/stars/terminalJunki3/CVE-2024-3400-Checker.svg) ![forks](https://img.shields.io/github/forks/terminalJunki3/CVE-2024-3400-Checker.svg)
 
+- [https://github.com/GhassanSabir/CVE-2024-3400-poc](https://github.com/GhassanSabir/CVE-2024-3400-poc) :  ![starts](https://img.shields.io/github/stars/GhassanSabir/CVE-2024-3400-poc.svg) ![forks](https://img.shields.io/github/forks/GhassanSabir/CVE-2024-3400-poc.svg)
+
 - [https://github.com/sxyrxyy/CVE-2024-3400-Check](https://github.com/sxyrxyy/CVE-2024-3400-Check) :  ![starts](https://img.shields.io/github/stars/sxyrxyy/CVE-2024-3400-Check.svg) ![forks](https://img.shields.io/github/forks/sxyrxyy/CVE-2024-3400-Check.svg)
 
 - [https://github.com/index2014/CVE-2024-3400-Checker](https://github.com/index2014/CVE-2024-3400-Checker) :  ![starts](https://img.shields.io/github/stars/index2014/CVE-2024-3400-Checker.svg) ![forks](https://img.shields.io/github/forks/index2014/CVE-2024-3400-Checker.svg)
-
-- [https://github.com/GhassanSabir/CVE-2024-3400-poc](https://github.com/GhassanSabir/CVE-2024-3400-poc) :  ![starts](https://img.shields.io/github/stars/GhassanSabir/CVE-2024-3400-poc.svg) ![forks](https://img.shields.io/github/forks/GhassanSabir/CVE-2024-3400-poc.svg)
 
 - [https://github.com/MurrayR0123/CVE-2024-3400-Compromise-Checker](https://github.com/MurrayR0123/CVE-2024-3400-Compromise-Checker) :  ![starts](https://img.shields.io/github/stars/MurrayR0123/CVE-2024-3400-Compromise-Checker.svg) ![forks](https://img.shields.io/github/forks/MurrayR0123/CVE-2024-3400-Compromise-Checker.svg)
 
@@ -14194,9 +14194,9 @@ Through a series of complex obfuscations, the liblzma build process extracts a p
 
 - [https://github.com/ASR511-OO7/CVE-2024-24103](https://github.com/ASR511-OO7/CVE-2024-24103) :  ![starts](https://img.shields.io/github/stars/ASR511-OO7/CVE-2024-24103.svg) ![forks](https://img.shields.io/github/forks/ASR511-OO7/CVE-2024-24103.svg)
 
-- [https://github.com/ASR511-OO7/CVE-2024-24108](https://github.com/ASR511-OO7/CVE-2024-24108) :  ![starts](https://img.shields.io/github/stars/ASR511-OO7/CVE-2024-24108.svg) ![forks](https://img.shields.io/github/forks/ASR511-OO7/CVE-2024-24108.svg)
-
 - [https://github.com/ASR511-OO7/CVE-2024-24104](https://github.com/ASR511-OO7/CVE-2024-24104) :  ![starts](https://img.shields.io/github/stars/ASR511-OO7/CVE-2024-24104.svg) ![forks](https://img.shields.io/github/forks/ASR511-OO7/CVE-2024-24104.svg)
+
+- [https://github.com/ASR511-OO7/CVE-2024-24108](https://github.com/ASR511-OO7/CVE-2024-24108) :  ![starts](https://img.shields.io/github/stars/ASR511-OO7/CVE-2024-24108.svg) ![forks](https://img.shields.io/github/forks/ASR511-OO7/CVE-2024-24108.svg)
 
 ## CVE-2024-2409
  The MasterStudy LMS plugin for WordPress is vulnerable to Privilege Escalation in all versions up to, and including, 3.3.1. This is due to insufficient validation checks within the _register_user() function called by the 'wp_ajax_nopriv_stm_lms_register' AJAX action. This makes it possible for unauthenticated attackers to register a user with administrator-level privileges when MasterStudy LMS Pro is installed and the LMS Forms Editor add-on is enabled.
@@ -14668,15 +14668,15 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 
 - [https://github.com/Alicey0719/docker-POC_CVE-2024-1086](https://github.com/Alicey0719/docker-POC_CVE-2024-1086) :  ![starts](https://img.shields.io/github/stars/Alicey0719/docker-POC_CVE-2024-1086.svg) ![forks](https://img.shields.io/github/forks/Alicey0719/docker-POC_CVE-2024-1086.svg)
 
+- [https://github.com/feely666/CVE-2024-1086](https://github.com/feely666/CVE-2024-1086) :  ![starts](https://img.shields.io/github/stars/feely666/CVE-2024-1086.svg) ![forks](https://img.shields.io/github/forks/feely666/CVE-2024-1086.svg)
+
 - [https://github.com/ndt2111200203/CVE-2024-1086](https://github.com/ndt2111200203/CVE-2024-1086) :  ![starts](https://img.shields.io/github/stars/ndt2111200203/CVE-2024-1086.svg) ![forks](https://img.shields.io/github/forks/ndt2111200203/CVE-2024-1086.svg)
 
-- [https://github.com/feely666/CVE-2024-1086](https://github.com/feely666/CVE-2024-1086) :  ![starts](https://img.shields.io/github/stars/feely666/CVE-2024-1086.svg) ![forks](https://img.shields.io/github/forks/feely666/CVE-2024-1086.svg)
+- [https://github.com/xzx482/CVE-2024-1086](https://github.com/xzx482/CVE-2024-1086) :  ![starts](https://img.shields.io/github/stars/xzx482/CVE-2024-1086.svg) ![forks](https://img.shields.io/github/forks/xzx482/CVE-2024-1086.svg)
 
 - [https://github.com/CCIEVoice2009/CVE-2024-1086](https://github.com/CCIEVoice2009/CVE-2024-1086) :  ![starts](https://img.shields.io/github/stars/CCIEVoice2009/CVE-2024-1086.svg) ![forks](https://img.shields.io/github/forks/CCIEVoice2009/CVE-2024-1086.svg)
 
 - [https://github.com/vettrivel007/CVE-2024-1086](https://github.com/vettrivel007/CVE-2024-1086) :  ![starts](https://img.shields.io/github/stars/vettrivel007/CVE-2024-1086.svg) ![forks](https://img.shields.io/github/forks/vettrivel007/CVE-2024-1086.svg)
-
-- [https://github.com/xzx482/CVE-2024-1086](https://github.com/xzx482/CVE-2024-1086) :  ![starts](https://img.shields.io/github/stars/xzx482/CVE-2024-1086.svg) ![forks](https://img.shields.io/github/forks/xzx482/CVE-2024-1086.svg)
 
 - [https://github.com/sandesh9978/cve-2024-1086-lpe](https://github.com/sandesh9978/cve-2024-1086-lpe) :  ![starts](https://img.shields.io/github/stars/sandesh9978/cve-2024-1086-lpe.svg) ![forks](https://img.shields.io/github/forks/sandesh9978/cve-2024-1086-lpe.svg)
 
