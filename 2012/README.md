@@ -323,6 +323,8 @@
 
 - [https://github.com/Jimmy01240397/CVE-2012-1823-Analyze](https://github.com/Jimmy01240397/CVE-2012-1823-Analyze) :  ![starts](https://img.shields.io/github/stars/Jimmy01240397/CVE-2012-1823-Analyze.svg) ![forks](https://img.shields.io/github/forks/Jimmy01240397/CVE-2012-1823-Analyze.svg)
 
+- [https://github.com/tryj/CVE-2012-1823---PHP-CGI---RCE](https://github.com/tryj/CVE-2012-1823---PHP-CGI---RCE) :  ![starts](https://img.shields.io/github/stars/tryj/CVE-2012-1823---PHP-CGI---RCE.svg) ![forks](https://img.shields.io/github/forks/tryj/CVE-2012-1823---PHP-CGI---RCE.svg)
+
 - [https://github.com/nulltrace1336/PHP-CGI-Argument-Injection-Exploit](https://github.com/nulltrace1336/PHP-CGI-Argument-Injection-Exploit) :  ![starts](https://img.shields.io/github/stars/nulltrace1336/PHP-CGI-Argument-Injection-Exploit.svg) ![forks](https://img.shields.io/github/forks/nulltrace1336/PHP-CGI-Argument-Injection-Exploit.svg)
 
 - [https://github.com/waburig/Open-Worldwide-Application-Security-Project-OWASP-](https://github.com/waburig/Open-Worldwide-Application-Security-Project-OWASP-) :  ![starts](https://img.shields.io/github/stars/waburig/Open-Worldwide-Application-Security-Project-OWASP-.svg) ![forks](https://img.shields.io/github/forks/waburig/Open-Worldwide-Application-Security-Project-OWASP-.svg)
