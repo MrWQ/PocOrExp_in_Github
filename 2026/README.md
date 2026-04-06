@@ -402,6 +402,13 @@ The `extract()` function in `gzip.js` constructs file-write paths using `fs.crea
 
 - [https://github.com/MorielHarush/CVE-2026-30952-PoC](https://github.com/MorielHarush/CVE-2026-30952-PoC) :  ![starts](https://img.shields.io/github/stars/MorielHarush/CVE-2026-30952-PoC.svg) ![forks](https://img.shields.io/github/forks/MorielHarush/CVE-2026-30952-PoC.svg)
 
+## CVE-2026-30951
+ Sequelize is a Node.js ORM tool. Prior to 6.37.8, there is SQL injection via unescaped cast type in JSON/JSONB where clause processing. The _traverseJSON() function splits JSON path keys on :: to extract a cast type, which is interpolated raw into CAST(... AS type) SQL. An attacker who controls JSON object keys can inject arbitrary SQL and exfiltrate data from any table. This vulnerability is fixed in 6.37.8.
+
+
+
+- [https://github.com/EQSTLab/CVE-2026-30951](https://github.com/EQSTLab/CVE-2026-30951) :  ![starts](https://img.shields.io/github/stars/EQSTLab/CVE-2026-30951.svg) ![forks](https://img.shields.io/github/forks/EQSTLab/CVE-2026-30951.svg)
+
 ## CVE-2026-30945
  StudioCMS is a server-side-rendered, Astro native, headless content management system. Prior to 0.4.0, the DELETE /studiocms_api/dashboard/api-tokens endpoint allows any authenticated user with editor privileges or above to revoke API tokens belonging to any other user, including admin and owner accounts. The handler accepts tokenID and userID directly from the request payload without verifying token ownership, caller identity, or role hierarchy. This enables targeted denial of service against critical integrations and automations. This vulnerability is fixed in 0.4.0.
 
@@ -579,9 +586,9 @@ The `extract()` function in `gzip.js` constructs file-write paths using `fs.crea
 
 - [https://github.com/0xW1LD/CVE-2026-29000](https://github.com/0xW1LD/CVE-2026-29000) :  ![starts](https://img.shields.io/github/stars/0xW1LD/CVE-2026-29000.svg) ![forks](https://img.shields.io/github/forks/0xW1LD/CVE-2026-29000.svg)
 
-- [https://github.com/FranzAlvis/Cve_2026_29000_exploit](https://github.com/FranzAlvis/Cve_2026_29000_exploit) :  ![starts](https://img.shields.io/github/stars/FranzAlvis/Cve_2026_29000_exploit.svg) ![forks](https://img.shields.io/github/forks/FranzAlvis/Cve_2026_29000_exploit.svg)
-
 - [https://github.com/rootdirective-sec/CVE-2026-29000-Lab](https://github.com/rootdirective-sec/CVE-2026-29000-Lab) :  ![starts](https://img.shields.io/github/stars/rootdirective-sec/CVE-2026-29000-Lab.svg) ![forks](https://img.shields.io/github/forks/rootdirective-sec/CVE-2026-29000-Lab.svg)
+
+- [https://github.com/FranzAlvis/Cve_2026_29000_exploit](https://github.com/FranzAlvis/Cve_2026_29000_exploit) :  ![starts](https://img.shields.io/github/stars/FranzAlvis/Cve_2026_29000_exploit.svg) ![forks](https://img.shields.io/github/forks/FranzAlvis/Cve_2026_29000_exploit.svg)
 
 - [https://github.com/PtechAmanja/CVE-2026-29000-pac4j-jwt-auth-bypass](https://github.com/PtechAmanja/CVE-2026-29000-pac4j-jwt-auth-bypass) :  ![starts](https://img.shields.io/github/stars/PtechAmanja/CVE-2026-29000-pac4j-jwt-auth-bypass.svg) ![forks](https://img.shields.io/github/forks/PtechAmanja/CVE-2026-29000-pac4j-jwt-auth-bypass.svg)
 
@@ -623,12 +630,26 @@ The `extract()` function in `gzip.js` constructs file-write paths using `fs.crea
 
 - [https://github.com/kalibb/CVE-2026-28372-GNU-inetutils-telnetd-Privilege-Escalation-main](https://github.com/kalibb/CVE-2026-28372-GNU-inetutils-telnetd-Privilege-Escalation-main) :  ![starts](https://img.shields.io/github/stars/kalibb/CVE-2026-28372-GNU-inetutils-telnetd-Privilege-Escalation-main.svg) ![forks](https://img.shields.io/github/forks/kalibb/CVE-2026-28372-GNU-inetutils-telnetd-Privilege-Escalation-main.svg)
 
+## CVE-2026-28363
+ In OpenClaw before 2026.2.23, tools.exec.safeBins validation for sort could be bypassed via GNU long-option abbreviations (such as --compress-prog) in allowlist mode, leading to approval-free execution paths that were intended to require approval. Only an exact string such as --compress-program was denied.
+
+
+
+- [https://github.com/kaleth4/CVE-2026-28363](https://github.com/kaleth4/CVE-2026-28363) :  ![starts](https://img.shields.io/github/stars/kaleth4/CVE-2026-28363.svg) ![forks](https://img.shields.io/github/forks/kaleth4/CVE-2026-28363.svg)
+
 ## CVE-2026-28289
  FreeScout is a free help desk and shared inbox built with PHP's Laravel framework. A patch bypass vulnerability for CVE-2026-27636 in FreeScout 1.8.206 and earlier allows any authenticated user with file upload permissions to achieve Remote Code Execution (RCE) on the server by uploading a malicious .htaccess file using a zero-width space character prefix to bypass the security check. The vulnerability exists in the sanitizeUploadedFileName() function in app/Http/Helper.php. The function contains a Time-of-Check to Time-of-Use (TOCTOU) flaw where the dot-prefix check occurs before sanitization removes invisible characters. This vulnerability is fixed in 1.8.207.
 
 
 
 - [https://github.com/0xBlackash/CVE-2026-28289](https://github.com/0xBlackash/CVE-2026-28289) :  ![starts](https://img.shields.io/github/stars/0xBlackash/CVE-2026-28289.svg) ![forks](https://img.shields.io/github/forks/0xBlackash/CVE-2026-28289.svg)
+
+## CVE-2026-28286
+ ZimaOS is a fork of CasaOS, an operating system for Zima devices and x86-64 systems with UEFI. In version 1.5.2-beta3, the application enforces restrictions in the frontend/UI to prevent users from creating files or folders in internal OS paths. However, when interacting directly with the API, the restrictions are bypass-able. By sending a crafted request targeting paths like /etc, /usr, or other sensitive system directories, the API successfully creates files or directories in locations where normal users should have no write access. This indicates that the API does not properly validate the target path, allowing unauthorized operations on critical system directories. No known patch is publicly available.
+
+
+
+- [https://github.com/Rushi9/zimaos-cve-2026-28286-arbitrary-file-write](https://github.com/Rushi9/zimaos-cve-2026-28286-arbitrary-file-write) :  ![starts](https://img.shields.io/github/stars/Rushi9/zimaos-cve-2026-28286-arbitrary-file-write.svg) ![forks](https://img.shields.io/github/forks/Rushi9/zimaos-cve-2026-28286-arbitrary-file-write.svg)
 
 ## CVE-2026-27966
  Langflow is a tool for building and deploying AI-powered agents and workflows. Prior to version 1.8.0, the CSV Agent node in Langflow hardcodes `allow_dangerous_code=True`, which automatically exposes LangChain’s Python REPL tool (`python_repl_ast`). As a result, an attacker can execute arbitrary Python and OS commands on the server via prompt injection, leading to full Remote Code Execution (RCE). Version 1.8.0 fixes the issue.
@@ -1079,6 +1100,8 @@ an authorization bypass vulnerability in the FUXA allows an unauthenticated, rem
 
 - [https://github.com/hakaioffsec/CVE-2026-25769](https://github.com/hakaioffsec/CVE-2026-25769) :  ![starts](https://img.shields.io/github/stars/hakaioffsec/CVE-2026-25769.svg) ![forks](https://img.shields.io/github/forks/hakaioffsec/CVE-2026-25769.svg)
 
+- [https://github.com/njeru-codes/CVE-2026-25769](https://github.com/njeru-codes/CVE-2026-25769) :  ![starts](https://img.shields.io/github/stars/njeru-codes/CVE-2026-25769.svg) ![forks](https://img.shields.io/github/forks/njeru-codes/CVE-2026-25769.svg)
+
 - [https://github.com/Samres27/CVE-2026-25769---CVE-2026-25770](https://github.com/Samres27/CVE-2026-25769---CVE-2026-25770) :  ![starts](https://img.shields.io/github/stars/Samres27/CVE-2026-25769---CVE-2026-25770.svg) ![forks](https://img.shields.io/github/forks/Samres27/CVE-2026-25769---CVE-2026-25770.svg)
 
 ## CVE-2026-25755
@@ -1135,9 +1158,9 @@ Users are recommended to upgrade to version 4.18.0, which fixes the issue. For t
 
 - [https://github.com/joshuavanderpoll/CVE-2026-25643](https://github.com/joshuavanderpoll/CVE-2026-25643) :  ![starts](https://img.shields.io/github/stars/joshuavanderpoll/CVE-2026-25643.svg) ![forks](https://img.shields.io/github/forks/joshuavanderpoll/CVE-2026-25643.svg)
 
-- [https://github.com/jduardo2704/CVE-2026-25643-Frigate-RCE](https://github.com/jduardo2704/CVE-2026-25643-Frigate-RCE) :  ![starts](https://img.shields.io/github/stars/jduardo2704/CVE-2026-25643-Frigate-RCE.svg) ![forks](https://img.shields.io/github/forks/jduardo2704/CVE-2026-25643-Frigate-RCE.svg)
-
 - [https://github.com/DyniePro/CVE-2026-25643](https://github.com/DyniePro/CVE-2026-25643) :  ![starts](https://img.shields.io/github/stars/DyniePro/CVE-2026-25643.svg) ![forks](https://img.shields.io/github/forks/DyniePro/CVE-2026-25643.svg)
+
+- [https://github.com/jduardo2704/CVE-2026-25643-Frigate-RCE](https://github.com/jduardo2704/CVE-2026-25643-Frigate-RCE) :  ![starts](https://img.shields.io/github/stars/jduardo2704/CVE-2026-25643-Frigate-RCE.svg) ![forks](https://img.shields.io/github/forks/jduardo2704/CVE-2026-25643-Frigate-RCE.svg)
 
 ## CVE-2026-25596
  InvoicePlane is a self-hosted open source application for managing invoices, clients, and payments. A Stored Cross-Site Scripting (XSS) vulnerability exists in InvoicePlane 1.7.0 via the Product Unit Name fields. An authenticated administrator can inject malicious JavaScript that executes when any administrator views an invoice containing a product with the malicious unit. Version 1.7.1 patches the issue.
@@ -1495,11 +1518,11 @@ This issue was fixed in 3.18.4.
 
 - [https://github.com/tiborscholtz/CVE-2026-24061](https://github.com/tiborscholtz/CVE-2026-24061) :  ![starts](https://img.shields.io/github/stars/tiborscholtz/CVE-2026-24061.svg) ![forks](https://img.shields.io/github/forks/tiborscholtz/CVE-2026-24061.svg)
 
-- [https://github.com/0x7556/CVE-2026-24061](https://github.com/0x7556/CVE-2026-24061) :  ![starts](https://img.shields.io/github/stars/0x7556/CVE-2026-24061.svg) ![forks](https://img.shields.io/github/forks/0x7556/CVE-2026-24061.svg)
-
 - [https://github.com/monstertsl/CVE-2026-24061](https://github.com/monstertsl/CVE-2026-24061) :  ![starts](https://img.shields.io/github/stars/monstertsl/CVE-2026-24061.svg) ![forks](https://img.shields.io/github/forks/monstertsl/CVE-2026-24061.svg)
 
 - [https://github.com/typeconfused/CVE-2026-24061](https://github.com/typeconfused/CVE-2026-24061) :  ![starts](https://img.shields.io/github/stars/typeconfused/CVE-2026-24061.svg) ![forks](https://img.shields.io/github/forks/typeconfused/CVE-2026-24061.svg)
+
+- [https://github.com/0x7556/CVE-2026-24061](https://github.com/0x7556/CVE-2026-24061) :  ![starts](https://img.shields.io/github/stars/0x7556/CVE-2026-24061.svg) ![forks](https://img.shields.io/github/forks/0x7556/CVE-2026-24061.svg)
 
 - [https://github.com/midox008/CVE-2026-24061](https://github.com/midox008/CVE-2026-24061) :  ![starts](https://img.shields.io/github/stars/midox008/CVE-2026-24061.svg) ![forks](https://img.shields.io/github/forks/midox008/CVE-2026-24061.svg)
 
@@ -1532,6 +1555,8 @@ This issue was fixed in 3.18.4.
 - [https://github.com/nrnw/CVE-2026-24061-GNU-inetutils-Telnet-Detector](https://github.com/nrnw/CVE-2026-24061-GNU-inetutils-Telnet-Detector) :  ![starts](https://img.shields.io/github/stars/nrnw/CVE-2026-24061-GNU-inetutils-Telnet-Detector.svg) ![forks](https://img.shields.io/github/forks/nrnw/CVE-2026-24061-GNU-inetutils-Telnet-Detector.svg)
 
 - [https://github.com/0xXyc/telnet-inetutils-auth-bypass-CVE-2026-24061](https://github.com/0xXyc/telnet-inetutils-auth-bypass-CVE-2026-24061) :  ![starts](https://img.shields.io/github/stars/0xXyc/telnet-inetutils-auth-bypass-CVE-2026-24061.svg) ![forks](https://img.shields.io/github/forks/0xXyc/telnet-inetutils-auth-bypass-CVE-2026-24061.svg)
+
+- [https://github.com/Risma2025/CVE-2026-24061-GNU-InetUtils-telnetd-Authentication-Bypass-Vulnerability](https://github.com/Risma2025/CVE-2026-24061-GNU-InetUtils-telnetd-Authentication-Bypass-Vulnerability) :  ![starts](https://img.shields.io/github/stars/Risma2025/CVE-2026-24061-GNU-InetUtils-telnetd-Authentication-Bypass-Vulnerability.svg) ![forks](https://img.shields.io/github/forks/Risma2025/CVE-2026-24061-GNU-InetUtils-telnetd-Authentication-Bypass-Vulnerability.svg)
 
 - [https://github.com/mbanyamer/CVE-2026-24061-GNU-Inetutils-telnetd-Remote-Authentication-Bypass-Root-Shell-](https://github.com/mbanyamer/CVE-2026-24061-GNU-Inetutils-telnetd-Remote-Authentication-Bypass-Root-Shell-) :  ![starts](https://img.shields.io/github/stars/mbanyamer/CVE-2026-24061-GNU-Inetutils-telnetd-Remote-Authentication-Bypass-Root-Shell-.svg) ![forks](https://img.shields.io/github/forks/mbanyamer/CVE-2026-24061-GNU-Inetutils-telnetd-Remote-Authentication-Bypass-Root-Shell-.svg)
 
@@ -1650,8 +1675,6 @@ been adjusted.
 
 - [https://github.com/ctzisme/CVE-2026-23744](https://github.com/ctzisme/CVE-2026-23744) :  ![starts](https://img.shields.io/github/stars/ctzisme/CVE-2026-23744.svg) ![forks](https://img.shields.io/github/forks/ctzisme/CVE-2026-23744.svg)
 
-- [https://github.com/yassertioursi/htb-kobold-writeup](https://github.com/yassertioursi/htb-kobold-writeup) :  ![starts](https://img.shields.io/github/stars/yassertioursi/htb-kobold-writeup.svg) ![forks](https://img.shields.io/github/forks/yassertioursi/htb-kobold-writeup.svg)
-
 - [https://github.com/AhmadF77/CVE-2026-23744](https://github.com/AhmadF77/CVE-2026-23744) :  ![starts](https://img.shields.io/github/stars/AhmadF77/CVE-2026-23744.svg) ![forks](https://img.shields.io/github/forks/AhmadF77/CVE-2026-23744.svg)
 
 - [https://github.com/InzegoSec/CVE-2026-23744](https://github.com/InzegoSec/CVE-2026-23744) :  ![starts](https://img.shields.io/github/stars/InzegoSec/CVE-2026-23744.svg) ![forks](https://img.shields.io/github/forks/InzegoSec/CVE-2026-23744.svg)
@@ -1746,6 +1769,43 @@ also happens to simplify the logic.
 
 - [https://github.com/bluedragonsecurity/CVE-2026-23416-POC](https://github.com/bluedragonsecurity/CVE-2026-23416-POC) :  ![starts](https://img.shields.io/github/stars/bluedragonsecurity/CVE-2026-23416-POC.svg) ![forks](https://img.shields.io/github/forks/bluedragonsecurity/CVE-2026-23416-POC.svg)
 
+## CVE-2026-23398
+ In the Linux kernel, the following vulnerability has been resolved:
+
+icmp: fix NULL pointer dereference in icmp_tag_validation()
+
+icmp_tag_validation() unconditionally dereferences the result of
+rcu_dereference(inet_protos[proto]) without checking for NULL.
+The inet_protos[] array is sparse -- only about 15 of 256 protocol
+numbers have registered handlers. When ip_no_pmtu_disc is set to 3
+(hardened PMTU mode) and the kernel receives an ICMP Fragmentation
+Needed error with a quoted inner IP header containing an unregistered
+protocol number, the NULL dereference causes a kernel panic in
+softirq context.
+
+ Oops: general protection fault, probably for non-canonical address 0xdffffc0000000002: 0000 [#1] SMP KASAN NOPTI
+ KASAN: null-ptr-deref in range [0x0000000000000010-0x0000000000000017]
+ RIP: 0010:icmp_unreach (net/ipv4/icmp.c:1085 net/ipv4/icmp.c:1143)
+ Call Trace:
+  IRQ
+  icmp_rcv (net/ipv4/icmp.c:1527)
+  ip_protocol_deliver_rcu (net/ipv4/ip_input.c:207)
+  ip_local_deliver_finish (net/ipv4/ip_input.c:242)
+  ip_local_deliver (net/ipv4/ip_input.c:262)
+  ip_rcv (net/ipv4/ip_input.c:573)
+  __netif_receive_skb_one_core (net/core/dev.c:6164)
+  process_backlog (net/core/dev.c:6628)
+  handle_softirqs (kernel/softirq.c:561)
+  /IRQ
+
+Add a NULL check before accessing icmp_strict_tag_validation. If the
+protocol has no registered handler, return false since it cannot
+perform strict tag validation.
+
+
+
+- [https://github.com/JohannesLks/CVE-2026-23398](https://github.com/JohannesLks/CVE-2026-23398) :  ![starts](https://img.shields.io/github/stars/JohannesLks/CVE-2026-23398.svg) ![forks](https://img.shields.io/github/forks/JohannesLks/CVE-2026-23398.svg)
+
 ## CVE-2026-22862
  go-ethereum (geth) is a golang execution layer implementation of the Ethereum protocol. A vulnerable node can be forced to shutdown/crash using a specially crafted message. This vulnerability is fixed in 1.16.8.
 
@@ -1769,9 +1829,9 @@ also happens to simplify the logic.
 
 - [https://github.com/barrersoftware/opencode-secure](https://github.com/barrersoftware/opencode-secure) :  ![starts](https://img.shields.io/github/stars/barrersoftware/opencode-secure.svg) ![forks](https://img.shields.io/github/forks/barrersoftware/opencode-secure.svg)
 
-- [https://github.com/0xgh057r3c0n/CVE-2026-22812](https://github.com/0xgh057r3c0n/CVE-2026-22812) :  ![starts](https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2026-22812.svg) ![forks](https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2026-22812.svg)
-
 - [https://github.com/Udyz/CVE-2026-22812-Exp](https://github.com/Udyz/CVE-2026-22812-Exp) :  ![starts](https://img.shields.io/github/stars/Udyz/CVE-2026-22812-Exp.svg) ![forks](https://img.shields.io/github/forks/Udyz/CVE-2026-22812-Exp.svg)
+
+- [https://github.com/0xgh057r3c0n/CVE-2026-22812](https://github.com/0xgh057r3c0n/CVE-2026-22812) :  ![starts](https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2026-22812.svg) ![forks](https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2026-22812.svg)
 
 - [https://github.com/HodgeLuke/ai-agent-security-research](https://github.com/HodgeLuke/ai-agent-security-research) :  ![starts](https://img.shields.io/github/stars/HodgeLuke/ai-agent-security-research.svg) ![forks](https://img.shields.io/github/forks/HodgeLuke/ai-agent-security-research.svg)
 
@@ -1860,6 +1920,8 @@ The vulnerability exists due to missing input sanitization.
  A malicious actor with access to the network could exploit a Path Traversal vulnerability found in the UniFi Network Application to access files on the underlying system that could be manipulated to access an underlying account.
 
 
+
+- [https://github.com/0xBlackash/CVE-2026-22557](https://github.com/0xBlackash/CVE-2026-22557) :  ![starts](https://img.shields.io/github/stars/0xBlackash/CVE-2026-22557.svg) ![forks](https://img.shields.io/github/forks/0xBlackash/CVE-2026-22557.svg)
 
 - [https://github.com/GarethMSheldon/cve-2026-22557-unifi-detection](https://github.com/GarethMSheldon/cve-2026-22557-unifi-detection) :  ![starts](https://img.shields.io/github/stars/GarethMSheldon/cve-2026-22557-unifi-detection.svg) ![forks](https://img.shields.io/github/forks/GarethMSheldon/cve-2026-22557-unifi-detection.svg)
 
@@ -2589,6 +2651,13 @@ The specific flaw exists within the hap_pair_verify_handler function of the hk_h
 
 
 - [https://github.com/b0b0haha/CVE-2026-29955](https://github.com/b0b0haha/CVE-2026-29955) :  ![starts](https://img.shields.io/github/stars/b0b0haha/CVE-2026-29955.svg) ![forks](https://img.shields.io/github/forks/b0b0haha/CVE-2026-29955.svg)
+
+## CVE-2026-2992
+ The KiviCare – Clinic & Patient Management System (EHR) plugin for WordPress is vulnerable to Privilege Escalation due to missing authorization on the `/wp-json/kivicare/v1/setup-wizard/clinic` REST API endpoint in all versions up to, and including, 4.1.2. This makes it possible for unauthenticated attackers to create a new clinic and a WordPress user with clinic admin privileges.
+
+
+
+- [https://github.com/Smarttfoxx/CVE-2026-29923](https://github.com/Smarttfoxx/CVE-2026-29923) :  ![starts](https://img.shields.io/github/stars/Smarttfoxx/CVE-2026-29923.svg) ![forks](https://img.shields.io/github/forks/Smarttfoxx/CVE-2026-29923.svg)
 
 ## CVE-2026-2991
  The KiviCare – Clinic & Patient Management System (EHR) plugin for WordPress is vulnerable to Authentication Bypass in all versions up to, and including, 4.1.2. This is due to the `patientSocialLogin()` function not verifying the social provider access token before authenticating a user. This makes it possible for unauthenticated attackers to log in as any patient registered on the system by providing only their email address and an arbitrary value for the access token, bypassing all credential verification. The attacker gains access to sensitive medical records, appointments, prescriptions, and billing information (PII/PHI breach). Additionally, authentication cookies are set before the role check, meaning the auth cookies for non-patient users (including administrators) are also set in the HTTP response headers, even though a 403 response is returned.
