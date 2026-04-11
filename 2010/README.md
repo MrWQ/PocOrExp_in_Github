@@ -182,6 +182,8 @@
 
 - [https://github.com/JoseLRC97/UnrealIRCd-3.2.8.1-Backdoor-Command-Execution](https://github.com/JoseLRC97/UnrealIRCd-3.2.8.1-Backdoor-Command-Execution) :  ![starts](https://img.shields.io/github/stars/JoseLRC97/UnrealIRCd-3.2.8.1-Backdoor-Command-Execution.svg) ![forks](https://img.shields.io/github/forks/JoseLRC97/UnrealIRCd-3.2.8.1-Backdoor-Command-Execution.svg)
 
+- [https://github.com/Nyabayo/flatiron-pentest-nmap-enum4linux-smb-ftp-samba-metasploitable2-kali-healthcare-report](https://github.com/Nyabayo/flatiron-pentest-nmap-enum4linux-smb-ftp-samba-metasploitable2-kali-healthcare-report) :  ![starts](https://img.shields.io/github/stars/Nyabayo/flatiron-pentest-nmap-enum4linux-smb-ftp-samba-metasploitable2-kali-healthcare-report.svg) ![forks](https://img.shields.io/github/forks/Nyabayo/flatiron-pentest-nmap-enum4linux-smb-ftp-samba-metasploitable2-kali-healthcare-report.svg)
+
 ## CVE-2010-1938
  Off-by-one error in the __opiereadrec function in readrec.c in libopie in OPIE 2.4.1-test1 and earlier, as used on FreeBSD 6.4 through 8.1-PRERELEASE and other platforms, allows remote attackers to cause a denial of service (daemon crash) or possibly execute arbitrary code via a long username, as demonstrated by a long USER command to the FreeBSD 8.0 ftpd.
 
