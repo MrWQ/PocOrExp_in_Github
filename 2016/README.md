@@ -144,7 +144,7 @@
 
 
 
-- [https://github.com/oxagast/oxasploits](https://github.com/oxagast/oxasploits) :  ![starts](https://img.shields.io/github/stars/oxagast/oxasploits.svg) ![forks](https://img.shields.io/github/forks/oxagast/oxasploits.svg)
+- [https://github.com/oxasploits/oxasploits](https://github.com/oxasploits/oxasploits) :  ![starts](https://img.shields.io/github/stars/oxasploits/oxasploits.svg) ![forks](https://img.shields.io/github/forks/oxasploits/oxasploits.svg)
 
 ## CVE-2016-10277
  An elevation of privilege vulnerability in the Motorola bootloader could enable a local malicious application to execute arbitrary code within the context of the bootloader. This issue is rated as Critical due to the possibility of a local permanent device compromise, which may require reflashing the operating system to repair the device. Product: Android. Versions: Kernel-3.10, Kernel-3.18. Android ID: A-33840490.
@@ -1794,9 +1794,9 @@
 
 - [https://github.com/kennetham/cve_2016_0728](https://github.com/kennetham/cve_2016_0728) :  ![starts](https://img.shields.io/github/stars/kennetham/cve_2016_0728.svg) ![forks](https://img.shields.io/github/forks/kennetham/cve_2016_0728.svg)
 
-- [https://github.com/idl3r/cve-2016-0728](https://github.com/idl3r/cve-2016-0728) :  ![starts](https://img.shields.io/github/stars/idl3r/cve-2016-0728.svg) ![forks](https://img.shields.io/github/forks/idl3r/cve-2016-0728.svg)
-
 - [https://github.com/mfer/cve_2016_0728](https://github.com/mfer/cve_2016_0728) :  ![starts](https://img.shields.io/github/stars/mfer/cve_2016_0728.svg) ![forks](https://img.shields.io/github/forks/mfer/cve_2016_0728.svg)
+
+- [https://github.com/idl3r/cve-2016-0728](https://github.com/idl3r/cve-2016-0728) :  ![starts](https://img.shields.io/github/stars/idl3r/cve-2016-0728.svg) ![forks](https://img.shields.io/github/forks/idl3r/cve-2016-0728.svg)
 
 - [https://github.com/sugarvillela/CVE](https://github.com/sugarvillela/CVE) :  ![starts](https://img.shields.io/github/stars/sugarvillela/CVE.svg) ![forks](https://img.shields.io/github/forks/sugarvillela/CVE.svg)
 
