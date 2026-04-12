@@ -151,7 +151,7 @@
 
 
 
-- [https://github.com/oxagast/oxasploits](https://github.com/oxagast/oxasploits) :  ![starts](https://img.shields.io/github/stars/oxagast/oxasploits.svg) ![forks](https://img.shields.io/github/forks/oxagast/oxasploits.svg)
+- [https://github.com/oxasploits/oxasploits](https://github.com/oxasploits/oxasploits) :  ![starts](https://img.shields.io/github/stars/oxasploits/oxasploits.svg) ![forks](https://img.shields.io/github/forks/oxasploits/oxasploits.svg)
 
 ## CVE-2010-2553
  The Cinepak codec in Microsoft Windows XP SP2 and SP3, Windows Vista SP1 and SP2, and Windows 7 does not properly decompress media files, which allows remote attackers to execute arbitrary code via a crafted file, aka "Cinepak Codec Decompression Vulnerability."
