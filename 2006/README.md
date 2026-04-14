@@ -68,13 +68,13 @@ This issue affects Apache HTTP Server 2.4.54 and earlier.
 
 - [https://github.com/0xtz/CVE-2006-3392](https://github.com/0xtz/CVE-2006-3392) :  ![starts](https://img.shields.io/github/stars/0xtz/CVE-2006-3392.svg) ![forks](https://img.shields.io/github/forks/0xtz/CVE-2006-3392.svg)
 
-- [https://github.com/oxagast/oxasploits](https://github.com/oxagast/oxasploits) :  ![starts](https://img.shields.io/github/stars/oxagast/oxasploits.svg) ![forks](https://img.shields.io/github/forks/oxagast/oxasploits.svg)
-
 - [https://github.com/Adel-kaka-dz/CVE-2006-3392](https://github.com/Adel-kaka-dz/CVE-2006-3392) :  ![starts](https://img.shields.io/github/stars/Adel-kaka-dz/CVE-2006-3392.svg) ![forks](https://img.shields.io/github/forks/Adel-kaka-dz/CVE-2006-3392.svg)
 
 - [https://github.com/kernel-cyber/CVE-2006-3392](https://github.com/kernel-cyber/CVE-2006-3392) :  ![starts](https://img.shields.io/github/stars/kernel-cyber/CVE-2006-3392.svg) ![forks](https://img.shields.io/github/forks/kernel-cyber/CVE-2006-3392.svg)
 
 - [https://github.com/gb21oc/ExploitWebmin](https://github.com/gb21oc/ExploitWebmin) :  ![starts](https://img.shields.io/github/stars/gb21oc/ExploitWebmin.svg) ![forks](https://img.shields.io/github/forks/gb21oc/ExploitWebmin.svg)
+
+- [https://github.com/oxasploits/oxasploits](https://github.com/oxasploits/oxasploits) :  ![starts](https://img.shields.io/github/stars/oxasploits/oxasploits.svg) ![forks](https://img.shields.io/github/forks/oxasploits/oxasploits.svg)
 
 ## CVE-2006-2842
  PHP remote file inclusion vulnerability in functions/plugin.php in SquirrelMail 1.4.6 and earlier, if register_globals is enabled and magic_quotes_gpc is disabled, allows remote attackers to execute arbitrary PHP code via a URL in the plugins array parameter.  NOTE: this issue has been disputed by third parties, who state that Squirrelmail provides prominent warnings to the administrator when register_globals is enabled.  Since the varieties of administrator negligence are uncountable, perhaps this type of issue should not be included in CVE.  However, the original developer has posted a security advisory, so there might be relevant real-world environments under which this vulnerability is applicable
@@ -82,13 +82,6 @@ This issue affects Apache HTTP Server 2.4.54 and earlier.
 
 
 - [https://github.com/karthi-the-hacker/CVE-2006-2842](https://github.com/karthi-the-hacker/CVE-2006-2842) :  ![starts](https://img.shields.io/github/stars/karthi-the-hacker/CVE-2006-2842.svg) ![forks](https://img.shields.io/github/forks/karthi-the-hacker/CVE-2006-2842.svg)
-
-## CVE-2006-2369
- RealVNC 4.1.1, and other products that use RealVNC such as AdderLink IP and Cisco CallManager, allows remote attackers to bypass authentication via a request in which the client specifies an insecure security type such as "Type 1 - None", which is accepted even if it is not offered by the server, as originally demonstrated using a long password.
-
-
-
-- [https://github.com/hacker1337itme/CVE-2006-2369](https://github.com/hacker1337itme/CVE-2006-2369) :  ![starts](https://img.shields.io/github/stars/hacker1337itme/CVE-2006-2369.svg) ![forks](https://img.shields.io/github/forks/hacker1337itme/CVE-2006-2369.svg)
 
 ## CVE-2006-1236
  Buffer overflow in the SetUp function in socket/request.c in CrossFire 1.9.0 allows remote attackers to execute arbitrary code via a long setup sound command, a different vulnerability than CVE-2006-1010.
