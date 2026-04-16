@@ -25,6 +25,8 @@
 
 - [https://github.com/war4uthor/CVE-2003-0264](https://github.com/war4uthor/CVE-2003-0264) :  ![starts](https://img.shields.io/github/stars/war4uthor/CVE-2003-0264.svg) ![forks](https://img.shields.io/github/forks/war4uthor/CVE-2003-0264.svg)
 
+- [https://github.com/TheMalwareGuardian/CVE-2003-0264](https://github.com/TheMalwareGuardian/CVE-2003-0264) :  ![starts](https://img.shields.io/github/stars/TheMalwareGuardian/CVE-2003-0264.svg) ![forks](https://img.shields.io/github/forks/TheMalwareGuardian/CVE-2003-0264.svg)
+
 - [https://github.com/adenkiewicz/CVE-2003-0264](https://github.com/adenkiewicz/CVE-2003-0264) :  ![starts](https://img.shields.io/github/stars/adenkiewicz/CVE-2003-0264.svg) ![forks](https://img.shields.io/github/forks/adenkiewicz/CVE-2003-0264.svg)
 
 - [https://github.com/vrikodar/CVE-2003-0264_EXPLOIT](https://github.com/vrikodar/CVE-2003-0264_EXPLOIT) :  ![starts](https://img.shields.io/github/stars/vrikodar/CVE-2003-0264_EXPLOIT.svg) ![forks](https://img.shields.io/github/forks/vrikodar/CVE-2003-0264_EXPLOIT.svg)
@@ -57,6 +59,13 @@
 
 
 - [https://github.com/cyberdesu/Remote-Buffer-overflow-CVE-2003-0172](https://github.com/cyberdesu/Remote-Buffer-overflow-CVE-2003-0172) :  ![starts](https://img.shields.io/github/stars/cyberdesu/Remote-Buffer-overflow-CVE-2003-0172.svg) ![forks](https://img.shields.io/github/forks/cyberdesu/Remote-Buffer-overflow-CVE-2003-0172.svg)
+
+## CVE-2003-0127
+ The kernel module loader in Linux kernel 2.2.x before 2.2.25, and 2.4.x before 2.4.21, allows local users to gain root privileges by using ptrace to attach to a child process that is spawned by the kernel.
+
+
+
+- [https://github.com/anilkashyap01/Binary-Exploitation-and-Kernel-Escalation](https://github.com/anilkashyap01/Binary-Exploitation-and-Kernel-Escalation) :  ![starts](https://img.shields.io/github/stars/anilkashyap01/Binary-Exploitation-and-Kernel-Escalation.svg) ![forks](https://img.shields.io/github/forks/anilkashyap01/Binary-Exploitation-and-Kernel-Escalation.svg)
 
 ## CVE-2003-0001
  Multiple ethernet Network Interface Card (NIC) device drivers do not pad frames with null bytes, which allows remote attackers to obtain information from previous packets or kernel memory by using malformed packets, as demonstrated by Etherleak.
