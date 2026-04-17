@@ -190,6 +190,8 @@
 
 - [https://github.com/hajisthabegum/Exploiting-vsFTPd-2.3.4-Backdoor-Vulnerability-Ethical-Hacking-Lab-with-Metasploitable-2-Metasploit](https://github.com/hajisthabegum/Exploiting-vsFTPd-2.3.4-Backdoor-Vulnerability-Ethical-Hacking-Lab-with-Metasploitable-2-Metasploit) :  ![starts](https://img.shields.io/github/stars/hajisthabegum/Exploiting-vsFTPd-2.3.4-Backdoor-Vulnerability-Ethical-Hacking-Lab-with-Metasploitable-2-Metasploit.svg) ![forks](https://img.shields.io/github/forks/hajisthabegum/Exploiting-vsFTPd-2.3.4-Backdoor-Vulnerability-Ethical-Hacking-Lab-with-Metasploitable-2-Metasploit.svg)
 
+- [https://github.com/emilebarnard242/pentest-metasploitable2](https://github.com/emilebarnard242/pentest-metasploitable2) :  ![starts](https://img.shields.io/github/stars/emilebarnard242/pentest-metasploitable2.svg) ![forks](https://img.shields.io/github/forks/emilebarnard242/pentest-metasploitable2.svg)
+
 ## CVE-2011-2461
  Cross-site scripting (XSS) vulnerability in the Adobe Flex SDK 3.x and 4.x before 4.6 allows remote attackers to inject arbitrary web script or HTML via vectors related to the loading of modules from different domains.
 
