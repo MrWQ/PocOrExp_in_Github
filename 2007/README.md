@@ -109,25 +109,27 @@
 
 - [https://github.com/Nosferatuvjr/Samba-Usermap-exploit](https://github.com/Nosferatuvjr/Samba-Usermap-exploit) :  ![starts](https://img.shields.io/github/stars/Nosferatuvjr/Samba-Usermap-exploit.svg) ![forks](https://img.shields.io/github/forks/Nosferatuvjr/Samba-Usermap-exploit.svg)
 
+- [https://github.com/Daviddoctor/Samba-CVE-2007-2447-Exploit-Username-Map-Script](https://github.com/Daviddoctor/Samba-CVE-2007-2447-Exploit-Username-Map-Script) :  ![starts](https://img.shields.io/github/stars/Daviddoctor/Samba-CVE-2007-2447-Exploit-Username-Map-Script.svg) ![forks](https://img.shields.io/github/forks/Daviddoctor/Samba-CVE-2007-2447-Exploit-Username-Map-Script.svg)
+
 - [https://github.com/b33m0x00/CVE-2007-2447](https://github.com/b33m0x00/CVE-2007-2447) :  ![starts](https://img.shields.io/github/stars/b33m0x00/CVE-2007-2447.svg) ![forks](https://img.shields.io/github/forks/b33m0x00/CVE-2007-2447.svg)
 
 - [https://github.com/b1fair/smb_usermap](https://github.com/b1fair/smb_usermap) :  ![starts](https://img.shields.io/github/stars/b1fair/smb_usermap.svg) ![forks](https://img.shields.io/github/forks/b1fair/smb_usermap.svg)
 
 - [https://github.com/xlcc4096/exploit-CVE-2007-2447](https://github.com/xlcc4096/exploit-CVE-2007-2447) :  ![starts](https://img.shields.io/github/stars/xlcc4096/exploit-CVE-2007-2447.svg) ![forks](https://img.shields.io/github/forks/xlcc4096/exploit-CVE-2007-2447.svg)
 
+- [https://github.com/0xKn/CVE-2007-2447](https://github.com/0xKn/CVE-2007-2447) :  ![starts](https://img.shields.io/github/stars/0xKn/CVE-2007-2447.svg) ![forks](https://img.shields.io/github/forks/0xKn/CVE-2007-2447.svg)
+
 - [https://github.com/G01d3nW01f/CVE-2007-2447](https://github.com/G01d3nW01f/CVE-2007-2447) :  ![starts](https://img.shields.io/github/stars/G01d3nW01f/CVE-2007-2447.svg) ![forks](https://img.shields.io/github/forks/G01d3nW01f/CVE-2007-2447.svg)
 
 - [https://github.com/foudadev/CVE-2007-2447](https://github.com/foudadev/CVE-2007-2447) :  ![starts](https://img.shields.io/github/stars/foudadev/CVE-2007-2447.svg) ![forks](https://img.shields.io/github/forks/foudadev/CVE-2007-2447.svg)
-
-- [https://github.com/0xKn/CVE-2007-2447](https://github.com/0xKn/CVE-2007-2447) :  ![starts](https://img.shields.io/github/stars/0xKn/CVE-2007-2447.svg) ![forks](https://img.shields.io/github/forks/0xKn/CVE-2007-2447.svg)
 
 - [https://github.com/JoseBarrios/CVE-2007-2447](https://github.com/JoseBarrios/CVE-2007-2447) :  ![starts](https://img.shields.io/github/stars/JoseBarrios/CVE-2007-2447.svg) ![forks](https://img.shields.io/github/forks/JoseBarrios/CVE-2007-2447.svg)
 
 - [https://github.com/testaross4/CVE-2007-2447](https://github.com/testaross4/CVE-2007-2447) :  ![starts](https://img.shields.io/github/stars/testaross4/CVE-2007-2447.svg) ![forks](https://img.shields.io/github/forks/testaross4/CVE-2007-2447.svg)
 
-- [https://github.com/abdulsaabir/CVE-2007-2447](https://github.com/abdulsaabir/CVE-2007-2447) :  ![starts](https://img.shields.io/github/stars/abdulsaabir/CVE-2007-2447.svg) ![forks](https://img.shields.io/github/forks/abdulsaabir/CVE-2007-2447.svg)
-
 - [https://github.com/Juantos/cve-2007-2447](https://github.com/Juantos/cve-2007-2447) :  ![starts](https://img.shields.io/github/stars/Juantos/cve-2007-2447.svg) ![forks](https://img.shields.io/github/forks/Juantos/cve-2007-2447.svg)
+
+- [https://github.com/abdulsaabir/CVE-2007-2447](https://github.com/abdulsaabir/CVE-2007-2447) :  ![starts](https://img.shields.io/github/stars/abdulsaabir/CVE-2007-2447.svg) ![forks](https://img.shields.io/github/forks/abdulsaabir/CVE-2007-2447.svg)
 
 - [https://github.com/nika0x38/CVE-2007-2447](https://github.com/nika0x38/CVE-2007-2447) :  ![starts](https://img.shields.io/github/stars/nika0x38/CVE-2007-2447.svg) ![forks](https://img.shields.io/github/forks/nika0x38/CVE-2007-2447.svg)
 
@@ -141,9 +143,9 @@
 
 - [https://github.com/bdunlap9/CVE-2007-2447_python](https://github.com/bdunlap9/CVE-2007-2447_python) :  ![starts](https://img.shields.io/github/stars/bdunlap9/CVE-2007-2447_python.svg) ![forks](https://img.shields.io/github/forks/bdunlap9/CVE-2007-2447_python.svg)
 
-- [https://github.com/MrRoma577/exploit_cve-2007-2447_again](https://github.com/MrRoma577/exploit_cve-2007-2447_again) :  ![starts](https://img.shields.io/github/stars/MrRoma577/exploit_cve-2007-2447_again.svg) ![forks](https://img.shields.io/github/forks/MrRoma577/exploit_cve-2007-2447_again.svg)
-
 - [https://github.com/nulltrace1336/Samba-Exploit-CVE-2007-2447](https://github.com/nulltrace1336/Samba-Exploit-CVE-2007-2447) :  ![starts](https://img.shields.io/github/stars/nulltrace1336/Samba-Exploit-CVE-2007-2447.svg) ![forks](https://img.shields.io/github/forks/nulltrace1336/Samba-Exploit-CVE-2007-2447.svg)
+
+- [https://github.com/MrRoma577/exploit_cve-2007-2447_again](https://github.com/MrRoma577/exploit_cve-2007-2447_again) :  ![starts](https://img.shields.io/github/stars/MrRoma577/exploit_cve-2007-2447_again.svg) ![forks](https://img.shields.io/github/forks/MrRoma577/exploit_cve-2007-2447_again.svg)
 
 - [https://github.com/ShivamDey/Samba-CVE-2007-2447-Exploit](https://github.com/ShivamDey/Samba-CVE-2007-2447-Exploit) :  ![starts](https://img.shields.io/github/stars/ShivamDey/Samba-CVE-2007-2447-Exploit.svg) ![forks](https://img.shields.io/github/forks/ShivamDey/Samba-CVE-2007-2447-Exploit.svg)
 
@@ -171,9 +173,9 @@
 
 
 
-- [https://github.com/war4uthor/CVE-2007-1567](https://github.com/war4uthor/CVE-2007-1567) :  ![starts](https://img.shields.io/github/stars/war4uthor/CVE-2007-1567.svg) ![forks](https://img.shields.io/github/forks/war4uthor/CVE-2007-1567.svg)
-
 - [https://github.com/TheMalwareGuardian/CVE-2007-1567](https://github.com/TheMalwareGuardian/CVE-2007-1567) :  ![starts](https://img.shields.io/github/stars/TheMalwareGuardian/CVE-2007-1567.svg) ![forks](https://img.shields.io/github/forks/TheMalwareGuardian/CVE-2007-1567.svg)
+
+- [https://github.com/war4uthor/CVE-2007-1567](https://github.com/war4uthor/CVE-2007-1567) :  ![starts](https://img.shields.io/github/stars/war4uthor/CVE-2007-1567.svg) ![forks](https://img.shields.io/github/forks/war4uthor/CVE-2007-1567.svg)
 
 ## CVE-2007-1260
  Stack-based buffer overflow in the connectHandle function in server.cpp in WebMod 0.48 allows remote attackers to execute arbitrary code via a long string in the Content-Length HTTP header.
