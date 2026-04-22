@@ -33,6 +33,13 @@
 
 - [https://github.com/K3ysTr0K3R/CVE-2008-5862-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2008-5862-EXPLOIT) :  ![starts](https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2008-5862-EXPLOIT.svg) ![forks](https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2008-5862-EXPLOIT.svg)
 
+## CVE-2008-5416
+ Heap-based buffer overflow in Microsoft SQL Server 2000 SP4, 8.00.2050, 8.00.2039, and earlier; SQL Server 2000 Desktop Engine (MSDE 2000) SP4; SQL Server 2005 SP2 and 9.00.1399.06; SQL Server 2000 Desktop Engine (WMSDE) on Windows Server 2003 SP1 and SP2; and Windows Internal Database (WYukon) SP2 allows remote authenticated users to cause a denial of service (access violation exception) or execute arbitrary code by calling the sp_replwritetovarbin extended stored procedure with a set of invalid parameters that trigger memory overwrite, aka "SQL Server sp_replwritetovarbin Limited Memory Overwrite Vulnerability."
+
+
+
+- [https://github.com/SECFORCE/CVE-2008-5416](https://github.com/SECFORCE/CVE-2008-5416) :  ![starts](https://img.shields.io/github/stars/SECFORCE/CVE-2008-5416.svg) ![forks](https://img.shields.io/github/forks/SECFORCE/CVE-2008-5416.svg)
+
 ## CVE-2008-5161
  Error handling in the SSH protocol in (1) SSH Tectia Client and Server and Connector 4.0 through 4.4.11, 5.0 through 5.2.4, and 5.3 through 5.3.8; Client and Server and ConnectSecure 6.0 through 6.0.4; Server for Linux on IBM System z 6.0.4; Server for IBM z/OS 5.5.1 and earlier, 6.0.0, and 6.0.1; and Client 4.0-J through 4.3.3-J and 4.0-K through 4.3.10-K; and (2) OpenSSH 4.7p1 and possibly other versions, when using a block cipher algorithm in Cipher Block Chaining (CBC) mode, makes it easier for remote attackers to recover certain plaintext data from an arbitrary block of ciphertext in an SSH session via unknown vectors.
 
@@ -56,9 +63,9 @@
 
 - [https://github.com/KernelErr/VLC-CVE-2008-4654-Exploit](https://github.com/KernelErr/VLC-CVE-2008-4654-Exploit) :  ![starts](https://img.shields.io/github/stars/KernelErr/VLC-CVE-2008-4654-Exploit.svg) ![forks](https://img.shields.io/github/forks/KernelErr/VLC-CVE-2008-4654-Exploit.svg)
 
-- [https://github.com/rnnsz/CVE-2008-4654](https://github.com/rnnsz/CVE-2008-4654) :  ![starts](https://img.shields.io/github/stars/rnnsz/CVE-2008-4654.svg) ![forks](https://img.shields.io/github/forks/rnnsz/CVE-2008-4654.svg)
-
 - [https://github.com/bongbongco/CVE-2008-4654](https://github.com/bongbongco/CVE-2008-4654) :  ![starts](https://img.shields.io/github/stars/bongbongco/CVE-2008-4654.svg) ![forks](https://img.shields.io/github/forks/bongbongco/CVE-2008-4654.svg)
+
+- [https://github.com/rnnsz/CVE-2008-4654](https://github.com/rnnsz/CVE-2008-4654) :  ![starts](https://img.shields.io/github/stars/rnnsz/CVE-2008-4654.svg) ![forks](https://img.shields.io/github/forks/rnnsz/CVE-2008-4654.svg)
 
 - [https://github.com/Hexastrike/CVE-2008-4654](https://github.com/Hexastrike/CVE-2008-4654) :  ![starts](https://img.shields.io/github/stars/Hexastrike/CVE-2008-4654.svg) ![forks](https://img.shields.io/github/forks/Hexastrike/CVE-2008-4654.svg)
 
