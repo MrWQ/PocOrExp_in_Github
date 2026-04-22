@@ -557,9 +557,9 @@
 
 - [https://github.com/jas502n/CVE-2015-5254](https://github.com/jas502n/CVE-2015-5254) :  ![starts](https://img.shields.io/github/stars/jas502n/CVE-2015-5254.svg) ![forks](https://img.shields.io/github/forks/jas502n/CVE-2015-5254.svg)
 
-- [https://github.com/Ma1Dong/ActiveMQ_CVE-2015-5254](https://github.com/Ma1Dong/ActiveMQ_CVE-2015-5254) :  ![starts](https://img.shields.io/github/stars/Ma1Dong/ActiveMQ_CVE-2015-5254.svg) ![forks](https://img.shields.io/github/forks/Ma1Dong/ActiveMQ_CVE-2015-5254.svg)
-
 - [https://github.com/Catherines77/ActiveMQ-EXPtools](https://github.com/Catherines77/ActiveMQ-EXPtools) :  ![starts](https://img.shields.io/github/stars/Catherines77/ActiveMQ-EXPtools.svg) ![forks](https://img.shields.io/github/forks/Catherines77/ActiveMQ-EXPtools.svg)
+
+- [https://github.com/Ma1Dong/ActiveMQ_CVE-2015-5254](https://github.com/Ma1Dong/ActiveMQ_CVE-2015-5254) :  ![starts](https://img.shields.io/github/stars/Ma1Dong/ActiveMQ_CVE-2015-5254.svg) ![forks](https://img.shields.io/github/forks/Ma1Dong/ActiveMQ_CVE-2015-5254.svg)
 
 - [https://github.com/guigui237/Exploitation-de-la-vuln-rabilit-CVE-2015-5254-](https://github.com/guigui237/Exploitation-de-la-vuln-rabilit-CVE-2015-5254-) :  ![starts](https://img.shields.io/github/stars/guigui237/Exploitation-de-la-vuln-rabilit-CVE-2015-5254-.svg) ![forks](https://img.shields.io/github/forks/guigui237/Exploitation-de-la-vuln-rabilit-CVE-2015-5254-.svg)
 
@@ -833,13 +833,6 @@
 
 - [https://github.com/duo-labs/mysslstrip](https://github.com/duo-labs/mysslstrip) :  ![starts](https://img.shields.io/github/stars/duo-labs/mysslstrip.svg) ![forks](https://img.shields.io/github/forks/duo-labs/mysslstrip.svg)
 
-## CVE-2015-3145
- The sanitize_cookie_path function in cURL and libcurl 7.31.0 through 7.41.0 does not properly calculate an index, which allows remote attackers to cause a denial of service (out-of-bounds write and crash) or possibly have other unspecified impact via a cookie path containing only a double-quote character.
-
-
-
-- [https://github.com/serz999/CVE-2015-3145](https://github.com/serz999/CVE-2015-3145) :  ![starts](https://img.shields.io/github/stars/serz999/CVE-2015-3145.svg) ![forks](https://img.shields.io/github/forks/serz999/CVE-2015-3145.svg)
-
 ## CVE-2015-3105
  Adobe Flash Player before 13.0.0.292 and 14.x through 18.x before 18.0.0.160 on Windows and OS X and before 11.2.202.466 on Linux, Adobe AIR before 18.0.0.144 on Windows and before 18.0.0.143 on OS X and Android, Adobe AIR SDK before 18.0.0.144 on Windows and before 18.0.0.143 on OS X, and Adobe AIR SDK & Compiler before 18.0.0.144 on Windows and before 18.0.0.143 on OS X allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors.
 
@@ -924,9 +917,9 @@
 
 
 
-- [https://github.com/Tare05/Intel-CVE-2015-2291](https://github.com/Tare05/Intel-CVE-2015-2291) :  ![starts](https://img.shields.io/github/stars/Tare05/Intel-CVE-2015-2291.svg) ![forks](https://img.shields.io/github/forks/Tare05/Intel-CVE-2015-2291.svg)
-
 - [https://github.com/gmh5225/CVE-2015-2291](https://github.com/gmh5225/CVE-2015-2291) :  ![starts](https://img.shields.io/github/stars/gmh5225/CVE-2015-2291.svg) ![forks](https://img.shields.io/github/forks/gmh5225/CVE-2015-2291.svg)
+
+- [https://github.com/Tare05/Intel-CVE-2015-2291](https://github.com/Tare05/Intel-CVE-2015-2291) :  ![starts](https://img.shields.io/github/stars/Tare05/Intel-CVE-2015-2291.svg) ![forks](https://img.shields.io/github/forks/Tare05/Intel-CVE-2015-2291.svg)
 
 - [https://github.com/paysonism/CVE-2015-2291-Spoofer-Analysis](https://github.com/paysonism/CVE-2015-2291-Spoofer-Analysis) :  ![starts](https://img.shields.io/github/stars/paysonism/CVE-2015-2291-Spoofer-Analysis.svg) ![forks](https://img.shields.io/github/forks/paysonism/CVE-2015-2291-Spoofer-Analysis.svg)
 
