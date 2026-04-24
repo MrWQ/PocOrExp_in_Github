@@ -73,7 +73,7 @@
 
 - [https://github.com/rvizx/CVE-2016-10924](https://github.com/rvizx/CVE-2016-10924) :  ![starts](https://img.shields.io/github/stars/rvizx/CVE-2016-10924.svg) ![forks](https://img.shields.io/github/forks/rvizx/CVE-2016-10924.svg)
 
-- [https://github.com/808ale/cve-2016-10924-POC](https://github.com/808ale/cve-2016-10924-POC) :  ![starts](https://img.shields.io/github/stars/808ale/cve-2016-10924-POC.svg) ![forks](https://img.shields.io/github/forks/808ale/cve-2016-10924-POC.svg)
+- [https://github.com/alealeluyah/cve-2016-10924-POC](https://github.com/alealeluyah/cve-2016-10924-POC) :  ![starts](https://img.shields.io/github/stars/alealeluyah/cve-2016-10924-POC.svg) ![forks](https://img.shields.io/github/forks/alealeluyah/cve-2016-10924-POC.svg)
 
 - [https://github.com/LGenAgul/Wordpress-ebook-CVE-2016-10924](https://github.com/LGenAgul/Wordpress-ebook-CVE-2016-10924) :  ![starts](https://img.shields.io/github/stars/LGenAgul/Wordpress-ebook-CVE-2016-10924.svg) ![forks](https://img.shields.io/github/forks/LGenAgul/Wordpress-ebook-CVE-2016-10924.svg)
 
@@ -933,9 +933,9 @@
 
 - [https://github.com/KosukeShimofuji/CVE-2016-5195](https://github.com/KosukeShimofuji/CVE-2016-5195) :  ![starts](https://img.shields.io/github/stars/KosukeShimofuji/CVE-2016-5195.svg) ![forks](https://img.shields.io/github/forks/KosukeShimofuji/CVE-2016-5195.svg)
 
-- [https://github.com/ldenevi/CVE-2016-5195](https://github.com/ldenevi/CVE-2016-5195) :  ![starts](https://img.shields.io/github/stars/ldenevi/CVE-2016-5195.svg) ![forks](https://img.shields.io/github/forks/ldenevi/CVE-2016-5195.svg)
-
 - [https://github.com/fei9747/CVE-2016-5195](https://github.com/fei9747/CVE-2016-5195) :  ![starts](https://img.shields.io/github/stars/fei9747/CVE-2016-5195.svg) ![forks](https://img.shields.io/github/forks/fei9747/CVE-2016-5195.svg)
+
+- [https://github.com/ldenevi/CVE-2016-5195](https://github.com/ldenevi/CVE-2016-5195) :  ![starts](https://img.shields.io/github/stars/ldenevi/CVE-2016-5195.svg) ![forks](https://img.shields.io/github/forks/ldenevi/CVE-2016-5195.svg)
 
 - [https://github.com/ASUKA39/CVE-2016-5195](https://github.com/ASUKA39/CVE-2016-5195) :  ![starts](https://img.shields.io/github/stars/ASUKA39/CVE-2016-5195.svg) ![forks](https://img.shields.io/github/forks/ASUKA39/CVE-2016-5195.svg)
 
