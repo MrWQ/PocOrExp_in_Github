@@ -178,6 +178,8 @@
 
 - [https://github.com/Efehamzaa/Metasploit-Red-Pentest-Lab](https://github.com/Efehamzaa/Metasploit-Red-Pentest-Lab) :  ![starts](https://img.shields.io/github/stars/Efehamzaa/Metasploit-Red-Pentest-Lab.svg) ![forks](https://img.shields.io/github/forks/Efehamzaa/Metasploit-Red-Pentest-Lab.svg)
 
+- [https://github.com/Mithileshan/soc-investigation-lab](https://github.com/Mithileshan/soc-investigation-lab) :  ![starts](https://img.shields.io/github/stars/Mithileshan/soc-investigation-lab.svg) ![forks](https://img.shields.io/github/forks/Mithileshan/soc-investigation-lab.svg)
+
 - [https://github.com/Tr00jan99/PwnTillDawn-Portal-Walkthrough](https://github.com/Tr00jan99/PwnTillDawn-Portal-Walkthrough) :  ![starts](https://img.shields.io/github/stars/Tr00jan99/PwnTillDawn-Portal-Walkthrough.svg) ![forks](https://img.shields.io/github/forks/Tr00jan99/PwnTillDawn-Portal-Walkthrough.svg)
 
 - [https://github.com/Mirza-22144/Vulnerability-Assessment-Exploitation-Lab](https://github.com/Mirza-22144/Vulnerability-Assessment-Exploitation-Lab) :  ![starts](https://img.shields.io/github/stars/Mirza-22144/Vulnerability-Assessment-Exploitation-Lab.svg) ![forks](https://img.shields.io/github/forks/Mirza-22144/Vulnerability-Assessment-Exploitation-Lab.svg)
