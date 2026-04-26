@@ -28,12 +28,26 @@
 
 - [https://github.com/wlensinas/CVE-2002-1614](https://github.com/wlensinas/CVE-2002-1614) :  ![starts](https://img.shields.io/github/stars/wlensinas/CVE-2002-1614.svg) ![forks](https://img.shields.io/github/forks/wlensinas/CVE-2002-1614.svg)
 
+## CVE-2002-1120
+ Buffer overflow in Savant Web Server 3.1 and earlier allows remote attackers to execute arbitrary code via a long HTTP GET request.
+
+
+
+- [https://github.com/TheMalwareGuardian/CVE-2002-1120](https://github.com/TheMalwareGuardian/CVE-2002-1120) :  ![starts](https://img.shields.io/github/stars/TheMalwareGuardian/CVE-2002-1120.svg) ![forks](https://img.shields.io/github/forks/TheMalwareGuardian/CVE-2002-1120.svg)
+
 ## CVE-2002-0991
  Buffer overflows in the cifslogin command for HP CIFS/9000 Client A.01.06 and earlier, based on the Sharity package, allows local users to gain root privileges via long (1) -U, (2) -D, (3) -P, (4) -S, (5) -N, or (6) -u parameters.
 
 
 
 - [https://github.com/alt3kx/CVE-2002-0991](https://github.com/alt3kx/CVE-2002-0991) :  ![starts](https://img.shields.io/github/stars/alt3kx/CVE-2002-0991.svg) ![forks](https://img.shields.io/github/forks/alt3kx/CVE-2002-0991.svg)
+
+## CVE-2002-0936
+ The Java Server Pages (JSP) engine in Tomcat allows web page owners to cause a denial of service (engine crash) on the web server via a JSP page that calls WPrinterJob().pageSetup(null,null).
+
+
+
+- [https://github.com/om4rsallam/Full-Attack-Lifecycle-Simulation-on-Metasploitable](https://github.com/om4rsallam/Full-Attack-Lifecycle-Simulation-on-Metasploitable) :  ![starts](https://img.shields.io/github/stars/om4rsallam/Full-Attack-Lifecycle-Simulation-on-Metasploitable.svg) ![forks](https://img.shields.io/github/forks/om4rsallam/Full-Attack-Lifecycle-Simulation-on-Metasploitable.svg)
 
 ## CVE-2002-0748
  LabVIEW Web Server 5.1.1 through 6.1 allows remote attackers to cause a denial of service (crash) via an HTTP GET request that ends in two newline characters, instead of the expected carriage return/newline combinations.
@@ -111,3 +125,5 @@
 
 
 - [https://github.com/ratiros01/CVE-2002-0082](https://github.com/ratiros01/CVE-2002-0082) :  ![starts](https://img.shields.io/github/stars/ratiros01/CVE-2002-0082.svg) ![forks](https://img.shields.io/github/forks/ratiros01/CVE-2002-0082.svg)
+
+- [https://github.com/anilkashyap01/Binary-Exploitation-and-Kernel-Escalation](https://github.com/anilkashyap01/Binary-Exploitation-and-Kernel-Escalation) :  ![starts](https://img.shields.io/github/stars/anilkashyap01/Binary-Exploitation-and-Kernel-Escalation.svg) ![forks](https://img.shields.io/github/forks/anilkashyap01/Binary-Exploitation-and-Kernel-Escalation.svg)
