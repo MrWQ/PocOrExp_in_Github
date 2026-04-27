@@ -213,9 +213,9 @@ Exploitation of this vulnerability requires that a user or application run or in
 
 - [https://github.com/DavidBr27/CVE-2013-3900-Remediation-Script](https://github.com/DavidBr27/CVE-2013-3900-Remediation-Script) :  ![starts](https://img.shields.io/github/stars/DavidBr27/CVE-2013-3900-Remediation-Script.svg) ![forks](https://img.shields.io/github/forks/DavidBr27/CVE-2013-3900-Remediation-Script.svg)
 
-- [https://github.com/SDimitri05/cve-2013-3900-winverifytrust-mitigation](https://github.com/SDimitri05/cve-2013-3900-winverifytrust-mitigation) :  ![starts](https://img.shields.io/github/stars/SDimitri05/cve-2013-3900-winverifytrust-mitigation.svg) ![forks](https://img.shields.io/github/forks/SDimitri05/cve-2013-3900-winverifytrust-mitigation.svg)
-
 - [https://github.com/malaya-m/cve-2013-3900-remediation-report](https://github.com/malaya-m/cve-2013-3900-remediation-report) :  ![starts](https://img.shields.io/github/stars/malaya-m/cve-2013-3900-remediation-report.svg) ![forks](https://img.shields.io/github/forks/malaya-m/cve-2013-3900-remediation-report.svg)
+
+- [https://github.com/SDimitri05/cve-2013-3900-winverifytrust-mitigation](https://github.com/SDimitri05/cve-2013-3900-winverifytrust-mitigation) :  ![starts](https://img.shields.io/github/stars/SDimitri05/cve-2013-3900-winverifytrust-mitigation.svg) ![forks](https://img.shields.io/github/forks/SDimitri05/cve-2013-3900-winverifytrust-mitigation.svg)
 
 - [https://github.com/AdenilsonSantos/WinVerifyTrust](https://github.com/AdenilsonSantos/WinVerifyTrust) :  ![starts](https://img.shields.io/github/stars/AdenilsonSantos/WinVerifyTrust.svg) ![forks](https://img.shields.io/github/forks/AdenilsonSantos/WinVerifyTrust.svg)
 
@@ -276,13 +276,6 @@ Exploitation of this vulnerability requires that a user or application run or in
 
 - [https://github.com/shadofren/CVE-2013-3214](https://github.com/shadofren/CVE-2013-3214) :  ![starts](https://img.shields.io/github/stars/shadofren/CVE-2013-3214.svg) ![forks](https://img.shields.io/github/forks/shadofren/CVE-2013-3214.svg)
 
-## CVE-2013-2977
- Integer overflow in IBM Notes 8.5.x before 8.5.3 FP4 Interim Fix 1 and 9.x before 9.0 Interim Fix 1 on Windows, and 8.5.x before 8.5.3 FP5 and 9.x before 9.0.1 on Linux, allows remote attackers to execute arbitrary code via a malformed PNG image in a previewed e-mail message, aka SPR NPEI96K82Q.
-
-
-
-- [https://github.com/defrancescojp/CVE-2013-2977](https://github.com/defrancescojp/CVE-2013-2977) :  ![starts](https://img.shields.io/github/stars/defrancescojp/CVE-2013-2977.svg) ![forks](https://img.shields.io/github/forks/defrancescojp/CVE-2013-2977.svg)
-
 ## CVE-2013-2842
  Use-after-free vulnerability in Google Chrome before 27.0.1453.93 allows remote attackers to cause a denial of service or possibly have unspecified other impact via vectors related to the handling of widgets.
 
@@ -297,13 +290,6 @@ Exploitation of this vulnerability requires that a user or application run or in
 
 - [https://github.com/yjaaidi/exploits](https://github.com/yjaaidi/exploits) :  ![starts](https://img.shields.io/github/stars/yjaaidi/exploits.svg) ![forks](https://img.shields.io/github/forks/yjaaidi/exploits.svg)
 
-## CVE-2013-2730
- Buffer overflow in Adobe Reader and Acrobat 9.x before 9.5.5, 10.x before 10.1.7, and 11.x before 11.0.03 allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2013-2733.
-
-
-
-- [https://github.com/feliam/CVE-2013-2730](https://github.com/feliam/CVE-2013-2730) :  ![starts](https://img.shields.io/github/stars/feliam/CVE-2013-2730.svg) ![forks](https://img.shields.io/github/forks/feliam/CVE-2013-2730.svg)
-
 ## CVE-2013-2729
  Integer overflow in Adobe Reader and Acrobat 9.x before 9.5.5, 10.x before 10.1.7, and 11.x before 11.0.03 allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2013-2727.
 
@@ -317,13 +303,6 @@ Exploitation of this vulnerability requires that a user or application run or in
 
 
 - [https://github.com/fi01/libmsm_acdb_exploit](https://github.com/fi01/libmsm_acdb_exploit) :  ![starts](https://img.shields.io/github/stars/fi01/libmsm_acdb_exploit.svg) ![forks](https://img.shields.io/github/forks/fi01/libmsm_acdb_exploit.svg)
-
-## CVE-2013-2596
- Integer overflow in the fb_mmap function in drivers/video/fbmem.c in the Linux kernel before 3.8.9, as used in a certain Motorola build of Android 4.1.2 and other products, allows local users to create a read-write memory mapping for the entirety of kernel memory, and consequently gain privileges, via crafted /dev/graphics/fb0 mmap2 system calls, as demonstrated by the Motochopper pwn program.
-
-
-
-- [https://github.com/hiikezoe/libfb_mem_exploit](https://github.com/hiikezoe/libfb_mem_exploit) :  ![starts](https://img.shields.io/github/stars/hiikezoe/libfb_mem_exploit.svg) ![forks](https://img.shields.io/github/forks/hiikezoe/libfb_mem_exploit.svg)
 
 ## CVE-2013-2595
  The device-initialization functionality in the MSM camera driver for the Linux kernel 2.6.x and 3.x, as used in Qualcomm Innovation Center (QuIC) Android contributions for MSM devices and other products, enables MSM_CAM_IOCTL_SET_MEM_MAP_INFO ioctl calls for an unrestricted mmap interface, which allows attackers to gain privileges via a crafted application.
@@ -356,13 +335,6 @@ Exploitation of this vulnerability requires that a user or application run or in
 - [https://github.com/sa1g0n1337/CVE_2013_2186](https://github.com/sa1g0n1337/CVE_2013_2186) :  ![starts](https://img.shields.io/github/stars/sa1g0n1337/CVE_2013_2186.svg) ![forks](https://img.shields.io/github/forks/sa1g0n1337/CVE_2013_2186.svg)
 
 - [https://github.com/sa1g0n1337/Payload_CVE_2013_2186](https://github.com/sa1g0n1337/Payload_CVE_2013_2186) :  ![starts](https://img.shields.io/github/stars/sa1g0n1337/Payload_CVE_2013_2186.svg) ![forks](https://img.shields.io/github/forks/sa1g0n1337/Payload_CVE_2013_2186.svg)
-
-## CVE-2013-2171
- The vm_map_lookup function in sys/vm/vm_map.c in the mmap implementation in the kernel in FreeBSD 9.0 through 9.1-RELEASE-p4 does not properly determine whether a task should have write access to a memory location, which allows local users to bypass filesystem write permissions and consequently gain privileges via a crafted application that leverages read permissions, and makes mmap and ptrace system calls.
-
-
-
-- [https://github.com/0xGabe/FreeBSD-9.0-9.1-Privilege-Escalation](https://github.com/0xGabe/FreeBSD-9.0-9.1-Privilege-Escalation) :  ![starts](https://img.shields.io/github/stars/0xGabe/FreeBSD-9.0-9.1-Privilege-Escalation.svg) ![forks](https://img.shields.io/github/forks/0xGabe/FreeBSD-9.0-9.1-Privilege-Escalation.svg)
 
 ## CVE-2013-2165
  ResourceBuilderImpl.java in the RichFaces 3.x through 5.x implementation in Red Hat JBoss Web Framework Kit before 2.3.0, Red Hat JBoss Web Platform through 5.2.0, Red Hat JBoss Enterprise Application Platform through 4.3.0 CP10 and 5.x through 5.2.0, Red Hat JBoss BRMS through 5.3.1, Red Hat JBoss SOA Platform through 4.3.0 CP05 and 5.x through 5.3.1, Red Hat JBoss Portal through 4.3 CP07 and 5.x through 5.2.2, and Red Hat JBoss Operations Network through 2.4.2 and 3.x through 3.1.2 does not restrict the classes for which deserialization methods can be called, which allows remote attackers to execute arbitrary code via crafted serialized data.
@@ -397,66 +369,12 @@ Exploitation of this vulnerability requires that a user or application run or in
 
 - [https://github.com/bl4ck5un/cve-2013-2072](https://github.com/bl4ck5un/cve-2013-2072) :  ![starts](https://img.shields.io/github/stars/bl4ck5un/cve-2013-2072.svg) ![forks](https://img.shields.io/github/forks/bl4ck5un/cve-2013-2072.svg)
 
-## CVE-2013-2028
- The ngx_http_parse_chunked function in http/ngx_http_parse.c in nginx 1.3.9 through 1.4.0 allows remote attackers to cause a denial of service (crash) and execute arbitrary code via a chunked Transfer-Encoding request with a large chunk size, which triggers an integer signedness error and a stack-based buffer overflow.
-
-
-
-- [https://github.com/kitctf/nginxpwn](https://github.com/kitctf/nginxpwn) :  ![starts](https://img.shields.io/github/stars/kitctf/nginxpwn.svg) ![forks](https://img.shields.io/github/forks/kitctf/nginxpwn.svg)
-
-- [https://github.com/danghvu/nginx-1.4.0](https://github.com/danghvu/nginx-1.4.0) :  ![starts](https://img.shields.io/github/stars/danghvu/nginx-1.4.0.svg) ![forks](https://img.shields.io/github/forks/danghvu/nginx-1.4.0.svg)
-
-- [https://github.com/m4drat/CVE-2013-2028-Exploit](https://github.com/m4drat/CVE-2013-2028-Exploit) :  ![starts](https://img.shields.io/github/stars/m4drat/CVE-2013-2028-Exploit.svg) ![forks](https://img.shields.io/github/forks/m4drat/CVE-2013-2028-Exploit.svg)
-
-- [https://github.com/tachibana51/CVE-2013-2028-x64-bypass-ssp-and-pie-PoC](https://github.com/tachibana51/CVE-2013-2028-x64-bypass-ssp-and-pie-PoC) :  ![starts](https://img.shields.io/github/stars/tachibana51/CVE-2013-2028-x64-bypass-ssp-and-pie-PoC.svg) ![forks](https://img.shields.io/github/forks/tachibana51/CVE-2013-2028-x64-bypass-ssp-and-pie-PoC.svg)
-
-- [https://github.com/jptr218/nginxhack](https://github.com/jptr218/nginxhack) :  ![starts](https://img.shields.io/github/stars/jptr218/nginxhack.svg) ![forks](https://img.shields.io/github/forks/jptr218/nginxhack.svg)
-
-- [https://github.com/Sunqiz/CVE-2013-2028-reproduction](https://github.com/Sunqiz/CVE-2013-2028-reproduction) :  ![starts](https://img.shields.io/github/stars/Sunqiz/CVE-2013-2028-reproduction.svg) ![forks](https://img.shields.io/github/forks/Sunqiz/CVE-2013-2028-reproduction.svg)
-
-- [https://github.com/xiw1ll/CVE-2013-2028_Checker](https://github.com/xiw1ll/CVE-2013-2028_Checker) :  ![starts](https://img.shields.io/github/stars/xiw1ll/CVE-2013-2028_Checker.svg) ![forks](https://img.shields.io/github/forks/xiw1ll/CVE-2013-2028_Checker.svg)
-
-## CVE-2013-2010
- WordPress W3 Total Cache Plugin 0.9.2.8 has a Remote PHP Code Execution Vulnerability
-
-
-
-- [https://github.com/spyata123/w3-total-cache-cve-2013-2010](https://github.com/spyata123/w3-total-cache-cve-2013-2010) :  ![starts](https://img.shields.io/github/stars/spyata123/w3-total-cache-cve-2013-2010.svg) ![forks](https://img.shields.io/github/forks/spyata123/w3-total-cache-cve-2013-2010.svg)
-
-## CVE-2013-2006
- OpenStack Identity (Keystone) Grizzly 2013.1.1, when DEBUG mode logging is enabled, logs the (1) admin_token and (2) LDAP password in plaintext, which allows local users to obtain sensitive by reading the log file.
-
-
-
-- [https://github.com/LogSec/CVE-2013-2006](https://github.com/LogSec/CVE-2013-2006) :  ![starts](https://img.shields.io/github/stars/LogSec/CVE-2013-2006.svg) ![forks](https://img.shields.io/github/forks/LogSec/CVE-2013-2006.svg)
-
 ## CVE-2013-1965
  Apache Struts Showcase App 2.0.0 through 2.3.13, as used in Struts 2 before 2.3.14.3, allows remote attackers to execute arbitrary OGNL code via a crafted parameter name that is not properly handled when invoking a redirect.
 
 
 
 - [https://github.com/cinno/CVE-2013-1965](https://github.com/cinno/CVE-2013-1965) :  ![starts](https://img.shields.io/github/stars/cinno/CVE-2013-1965.svg) ![forks](https://img.shields.io/github/forks/cinno/CVE-2013-1965.svg)
-
-## CVE-2013-1775
- sudo 1.6.0 through 1.7.10p6 and sudo 1.8.0 through 1.8.6p6 allows local users or physically proximate attackers to bypass intended time restrictions and retain privileges without re-authenticating by setting the system clock and sudo user timestamp to the epoch.
-
-
-
-- [https://github.com/bekhzod0725/perl-CVE-2013-1775](https://github.com/bekhzod0725/perl-CVE-2013-1775) :  ![starts](https://img.shields.io/github/stars/bekhzod0725/perl-CVE-2013-1775.svg) ![forks](https://img.shields.io/github/forks/bekhzod0725/perl-CVE-2013-1775.svg)
-
-## CVE-2013-1763
- Array index error in the __sock_diag_rcv_msg function in net/core/sock_diag.c in the Linux kernel before 3.7.10 allows local users to gain privileges via a large family value in a Netlink message.
-
-
-
-- [https://github.com/qkrtjsrbs315/CVE-2013-1763](https://github.com/qkrtjsrbs315/CVE-2013-1763) :  ![starts](https://img.shields.io/github/stars/qkrtjsrbs315/CVE-2013-1763.svg) ![forks](https://img.shields.io/github/forks/qkrtjsrbs315/CVE-2013-1763.svg)
-
-## CVE-2013-1690
- Mozilla Firefox before 22.0, Firefox ESR 17.x before 17.0.7, Thunderbird before 17.0.7, and Thunderbird ESR 17.x before 17.0.7 do not properly handle onreadystatechange events in conjunction with page reloading, which allows remote attackers to cause a denial of service (application crash) or possibly execute arbitrary code via a crafted web site that triggers an attempt to execute data at an unmapped memory location.
-
-
-
-- [https://github.com/vlad902/annotated-fbi-tbb-exploit](https://github.com/vlad902/annotated-fbi-tbb-exploit) :  ![starts](https://img.shields.io/github/stars/vlad902/annotated-fbi-tbb-exploit.svg) ![forks](https://img.shields.io/github/forks/vlad902/annotated-fbi-tbb-exploit.svg)
 
 ## CVE-2013-1491
  The Java Runtime Environment (JRE) component in Oracle Java SE 7 Update 17 and earlier, 6 Update 43 and earlier, 5.0 Update 41 and earlier, and JavaFX 2.2.7 and earlier allows remote attackers to execute arbitrary code via vectors related to 2D, as demonstrated by Joshua Drake during a Pwn2Own competition at CanSecWest 2013.
@@ -478,13 +396,6 @@ Exploitation of this vulnerability requires that a user or application run or in
 
 
 - [https://github.com/Meatballs1/cve-2013-1300](https://github.com/Meatballs1/cve-2013-1300) :  ![starts](https://img.shields.io/github/stars/Meatballs1/cve-2013-1300.svg) ![forks](https://img.shields.io/github/forks/Meatballs1/cve-2013-1300.svg)
-
-## CVE-2013-1081
- Directory traversal vulnerability in MDM.php in Novell ZENworks Mobile Management (ZMM) 2.6.1 and 2.7.0 allows remote attackers to include and execute arbitrary local files via the language parameter.
-
-
-
-- [https://github.com/steponequit/CVE-2013-1081](https://github.com/steponequit/CVE-2013-1081) :  ![starts](https://img.shields.io/github/stars/steponequit/CVE-2013-1081.svg) ![forks](https://img.shields.io/github/forks/steponequit/CVE-2013-1081.svg)
 
 ## CVE-2013-0333
  lib/active_support/json/backends/yaml.rb in Ruby on Rails 2.3.x before 2.3.16 and 3.0.x before 3.0.20 does not properly convert JSON data to YAML data for processing by a YAML parser, which allows remote attackers to execute arbitrary code, conduct SQL injection attacks, or bypass authentication via crafted data that triggers unsafe decoding, a different vulnerability than CVE-2013-0156.
@@ -546,9 +457,9 @@ Exploitation of this vulnerability requires that a user or application run or in
 
 - [https://github.com/Jjdt12/kuang_grade_mk11](https://github.com/Jjdt12/kuang_grade_mk11) :  ![starts](https://img.shields.io/github/stars/Jjdt12/kuang_grade_mk11.svg) ![forks](https://img.shields.io/github/forks/Jjdt12/kuang_grade_mk11.svg)
 
-- [https://github.com/7s26simon/CVE-2013-0156](https://github.com/7s26simon/CVE-2013-0156) :  ![starts](https://img.shields.io/github/stars/7s26simon/CVE-2013-0156.svg) ![forks](https://img.shields.io/github/forks/7s26simon/CVE-2013-0156.svg)
-
 - [https://github.com/oxben10/CVE-2013-0156](https://github.com/oxben10/CVE-2013-0156) :  ![starts](https://img.shields.io/github/stars/oxben10/CVE-2013-0156.svg) ![forks](https://img.shields.io/github/forks/oxben10/CVE-2013-0156.svg)
+
+- [https://github.com/7s26simon/CVE-2013-0156](https://github.com/7s26simon/CVE-2013-0156) :  ![starts](https://img.shields.io/github/stars/7s26simon/CVE-2013-0156.svg) ![forks](https://img.shields.io/github/forks/7s26simon/CVE-2013-0156.svg)
 
 - [https://github.com/R3dKn33-zz/CVE-2013-0156](https://github.com/R3dKn33-zz/CVE-2013-0156) :  ![starts](https://img.shields.io/github/stars/R3dKn33-zz/CVE-2013-0156.svg) ![forks](https://img.shields.io/github/forks/R3dKn33-zz/CVE-2013-0156.svg)
 
