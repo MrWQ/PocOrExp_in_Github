@@ -12,9 +12,9 @@
 
 - [https://github.com/rafaelh/CVE-2000-0649](https://github.com/rafaelh/CVE-2000-0649) :  ![starts](https://img.shields.io/github/stars/rafaelh/CVE-2000-0649.svg) ![forks](https://img.shields.io/github/forks/rafaelh/CVE-2000-0649.svg)
 
-- [https://github.com/stevenvegar/cve-2000-0649](https://github.com/stevenvegar/cve-2000-0649) :  ![starts](https://img.shields.io/github/stars/stevenvegar/cve-2000-0649.svg) ![forks](https://img.shields.io/github/forks/stevenvegar/cve-2000-0649.svg)
-
 - [https://github.com/Downgraderz/PoC-CVE-2000-0649](https://github.com/Downgraderz/PoC-CVE-2000-0649) :  ![starts](https://img.shields.io/github/stars/Downgraderz/PoC-CVE-2000-0649.svg) ![forks](https://img.shields.io/github/forks/Downgraderz/PoC-CVE-2000-0649.svg)
+
+- [https://github.com/stevenvegar/cve-2000-0649](https://github.com/stevenvegar/cve-2000-0649) :  ![starts](https://img.shields.io/github/stars/stevenvegar/cve-2000-0649.svg) ![forks](https://img.shields.io/github/forks/stevenvegar/cve-2000-0649.svg)
 
 ## CVE-2000-0170
  Buffer overflow in the man program in Linux allows local users to gain privileges via the MANPAGER environmental variable.
@@ -22,6 +22,13 @@
 
 
 - [https://github.com/mike182/exploit](https://github.com/mike182/exploit) :  ![starts](https://img.shields.io/github/stars/mike182/exploit.svg) ![forks](https://img.shields.io/github/forks/mike182/exploit.svg)
+
+## CVE-2000-0168
+ Microsoft Windows 9x operating systems allow an attacker to cause a denial of service via a pathname that includes file device names, aka the "DOS Device in Path Name" vulnerability.
+
+
+
+- [https://github.com/adk86/CVE-Vulnerability-Research-Exploit-Analysis](https://github.com/adk86/CVE-Vulnerability-Research-Exploit-Analysis) :  ![starts](https://img.shields.io/github/stars/adk86/CVE-Vulnerability-Research-Exploit-Analysis.svg) ![forks](https://img.shields.io/github/forks/adk86/CVE-Vulnerability-Research-Exploit-Analysis.svg)
 
 ## CVE-2000-0114
  Frontpage Server Extensions allows remote attackers to determine the name of the anonymous account via an RPC POST request to shtml.dll in the /_vti_bin/ virtual directory.
