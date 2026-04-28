@@ -21,6 +21,8 @@
 
 - [https://github.com/Rodney-O-C-Melby/dns-zone-transfer-test](https://github.com/Rodney-O-C-Melby/dns-zone-transfer-test) :  ![starts](https://img.shields.io/github/stars/Rodney-O-C-Melby/dns-zone-transfer-test.svg) ![forks](https://img.shields.io/github/forks/Rodney-O-C-Melby/dns-zone-transfer-test.svg)
 
+- [https://github.com/SleepTheGod/dns-zone-audit](https://github.com/SleepTheGod/dns-zone-audit) :  ![starts](https://img.shields.io/github/stars/SleepTheGod/dns-zone-audit.svg) ![forks](https://img.shields.io/github/forks/SleepTheGod/dns-zone-audit.svg)
+
 ## CVE-1999-0524
  ICMP information such as (1) netmask and (2) timestamp is allowed from arbitrary hosts.
 
