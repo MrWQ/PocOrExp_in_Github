@@ -939,9 +939,9 @@
 
 - [https://github.com/ASUKA39/CVE-2016-5195](https://github.com/ASUKA39/CVE-2016-5195) :  ![starts](https://img.shields.io/github/stars/ASUKA39/CVE-2016-5195.svg) ![forks](https://img.shields.io/github/forks/ASUKA39/CVE-2016-5195.svg)
 
-- [https://github.com/sandeeparth07/CVE-2016_5195-vulnarability](https://github.com/sandeeparth07/CVE-2016_5195-vulnarability) :  ![starts](https://img.shields.io/github/stars/sandeeparth07/CVE-2016_5195-vulnarability.svg) ![forks](https://img.shields.io/github/forks/sandeeparth07/CVE-2016_5195-vulnarability.svg)
-
 - [https://github.com/sribaba/android-CVE-2016-5195](https://github.com/sribaba/android-CVE-2016-5195) :  ![starts](https://img.shields.io/github/stars/sribaba/android-CVE-2016-5195.svg) ![forks](https://img.shields.io/github/forks/sribaba/android-CVE-2016-5195.svg)
+
+- [https://github.com/sandeeparth07/CVE-2016_5195-vulnarability](https://github.com/sandeeparth07/CVE-2016_5195-vulnarability) :  ![starts](https://img.shields.io/github/stars/sandeeparth07/CVE-2016_5195-vulnarability.svg) ![forks](https://img.shields.io/github/forks/sandeeparth07/CVE-2016_5195-vulnarability.svg)
 
 - [https://github.com/acidburnmi/CVE-2016-5195-master](https://github.com/acidburnmi/CVE-2016-5195-master) :  ![starts](https://img.shields.io/github/stars/acidburnmi/CVE-2016-5195-master.svg) ![forks](https://img.shields.io/github/forks/acidburnmi/CVE-2016-5195-master.svg)
 
@@ -951,9 +951,9 @@
 
 - [https://github.com/h1n4mx0/Research-CVE-2016-5195](https://github.com/h1n4mx0/Research-CVE-2016-5195) :  ![starts](https://img.shields.io/github/stars/h1n4mx0/Research-CVE-2016-5195.svg) ![forks](https://img.shields.io/github/forks/h1n4mx0/Research-CVE-2016-5195.svg)
 
-- [https://github.com/xpcmdshell/derpyc0w](https://github.com/xpcmdshell/derpyc0w) :  ![starts](https://img.shields.io/github/stars/xpcmdshell/derpyc0w.svg) ![forks](https://img.shields.io/github/forks/xpcmdshell/derpyc0w.svg)
-
 - [https://github.com/ramahmdr/dirtycow](https://github.com/ramahmdr/dirtycow) :  ![starts](https://img.shields.io/github/stars/ramahmdr/dirtycow.svg) ![forks](https://img.shields.io/github/forks/ramahmdr/dirtycow.svg)
+
+- [https://github.com/xpcmdshell/derpyc0w](https://github.com/xpcmdshell/derpyc0w) :  ![starts](https://img.shields.io/github/stars/xpcmdshell/derpyc0w.svg) ![forks](https://img.shields.io/github/forks/xpcmdshell/derpyc0w.svg)
 
 - [https://github.com/theo543/OSDS_Paper_CVE-2016-5195](https://github.com/theo543/OSDS_Paper_CVE-2016-5195) :  ![starts](https://img.shields.io/github/stars/theo543/OSDS_Paper_CVE-2016-5195.svg) ![forks](https://img.shields.io/github/forks/theo543/OSDS_Paper_CVE-2016-5195.svg)
 
@@ -1759,7 +1759,7 @@
 
 
 
-- [https://github.com/Abdirisaq-ali-aynab/openssh-vulnerability-assessment](https://github.com/Abdirisaq-ali-aynab/openssh-vulnerability-assessment) :  ![starts](https://img.shields.io/github/stars/Abdirisaq-ali-aynab/openssh-vulnerability-assessment.svg) ![forks](https://img.shields.io/github/forks/Abdirisaq-ali-aynab/openssh-vulnerability-assessment.svg)
+- [https://github.com/Abdirisaq-ali-aynab/vulnerability-assessment](https://github.com/Abdirisaq-ali-aynab/vulnerability-assessment) :  ![starts](https://img.shields.io/github/stars/Abdirisaq-ali-aynab/vulnerability-assessment.svg) ![forks](https://img.shields.io/github/forks/Abdirisaq-ali-aynab/vulnerability-assessment.svg)
 
 ## CVE-2016-0772
  The smtplib library in CPython (aka Python) before 2.7.12, 3.x before 3.4.5, and 3.5.x before 3.5.2 does not return an error when StartTLS fails, which might allow man-in-the-middle attackers to bypass the TLS protections by leveraging a network position between the client and the registry to block the StartTLS command, aka a "StartTLS stripping attack."
