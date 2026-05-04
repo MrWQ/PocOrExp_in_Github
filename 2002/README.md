@@ -7,13 +7,6 @@
 
 - [https://github.com/itmaniac/dheat_dos_attack_poc](https://github.com/itmaniac/dheat_dos_attack_poc) :  ![starts](https://img.shields.io/github/stars/itmaniac/dheat_dos_attack_poc.svg) ![forks](https://img.shields.io/github/forks/itmaniac/dheat_dos_attack_poc.svg)
 
-## CVE-2002-2420
- site_searcher.cgi in Super Site Searcher allows remote attackers to execute arbitrary commands via shell metacharacters in the page parameter.
-
-
-
-- [https://github.com/krdsploit/CVE-2002-2420](https://github.com/krdsploit/CVE-2002-2420) :  ![starts](https://img.shields.io/github/stars/krdsploit/CVE-2002-2420.svg) ![forks](https://img.shields.io/github/forks/krdsploit/CVE-2002-2420.svg)
-
 ## CVE-2002-2154
  Directory traversal vulnerability in Monkey HTTP Daemon 0.1.4 allows remote attackers to read arbitrary files via .. (dot dot) sequences.
 
